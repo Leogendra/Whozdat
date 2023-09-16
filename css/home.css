@@ -1,0 +1,13 @@
+* {
+    color: white;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    /* background: linear-gradient(90deg, #161625 0%, #0c0c14 100%); */
+    background: linear-gradient(90deg, #1e1e33 0%, #20192a 100%);
+    overflow: hidden;
+}

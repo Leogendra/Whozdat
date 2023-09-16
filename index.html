@@ -3,16 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <link rel="icon" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/cards.css">
+    <link rel="stylesheet" href="css/scores.css">
     <title>Whozdat</title>
 </head>
 <body>
-    <h1 class="title">NOLD</h1>
-    <button>Aide</button>
-    <button>Options</button>
-    <div class="artistes">
-        <div class="card artiste1">
+
+    <div class="div-header">
+        <button class="button-help">
+            <span class="material-symbols-outlined">question_mark</span>
+        </button>
+        <!-- <div class="title">WHOZDAT</div> -->
+        <button class="button-settings">
+            <span class="material-symbols-outlined">settings</span>
+        </button>
+    </div>
+
+    <div class="cards">
+        <div class="card artiste1 data-tilt">
             <img class="card-img-long" src="img/Nekfeu-long.png">
             <img class="card-img-wide" src="assets/wide.jpg">
             <div class="card-info">
@@ -47,20 +60,34 @@
     </div>
 
     <div class="div-scores">
-        <div class="help">
-            <span class="gras">Qui</span> a dit : 
+        <div class="score">
+            <span class="nb nb-score">0</span>🎯
+            <div class="best best-score">
+                Record : <span class="nb-best nb-best-score">0</span>
+            </div>
+        </div>
+        <div class="lyrics">
             <span class="phrase1">Yo</span>
             <span class="phrase2">Yo</span>
         </div>
-        <div class="score">
-            <span class="nb-score">0</span>🎯
+        <div class="streak">
+            <span class="nb nb-streak">0</span>🔥
+            <div class="best best-streak">
+                Record : <span class="nb-best nb-best-streak">0</span>
+            </div>
         </div>
-        <div class="best">
-            Record : <span class="nb-best">0</span>
-        </div>
+    </div>
+
+    <div class="settings">
+
+    </div>
+
+    <div class="help">
+
     </div>
     
     <script src="js/app.js"></script>
     <script src="js/parseur.js"></script>
+    <script src="js/tilt.js"></script>
 </body>
 </html>

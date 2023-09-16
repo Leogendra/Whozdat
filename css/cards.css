@@ -1,31 +1,42 @@
-.artistes {
+.cards {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
-    align-content: center;
+    width: fit-content;
+    margin: 50px auto 10px;
+    gap: 5vw;
 }
 
 .card {
-    width: 10rem;
-    height: 30%;
-    min-height: 100px;
-    max-height: 300px;
-    aspect-ratio: unset;
     display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    aspect-ratio: 9/16;
+    width: 13vw;
+    min-height: 10vw;
+    max-height: 30vw;
     padding: 0;
     margin: 0;
-    border-radius: 0;
-    flex-direction: column-reverse;
-    border: 1px solid red;
+    border-radius: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: transform 0.2s ease-out;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card-info {
+    position: absolute;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
 
 .card > .card-img-long {
     display: block;
     height: 100%;
-    aspect-ratio: 3/4;
     object-fit: cover;
-    overflow: hidden;
 }
 
 .card-img-wide {

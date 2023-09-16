@@ -5,18 +5,35 @@ const cardArtists4 = document.querySelector('.artiste4');
 
 const textPhrase1 = document.querySelector('.phrase1');
 const textPhrase2 = document.querySelector('.phrase2');
-const textScore = document.querySelector('.nb-score');
-const textBest = document.querySelector('.nb-best');
 
-var record = 0;
+const textScore = document.querySelector('.nb-score');
+const textStreak = document.querySelector('.nb-streak');
+const textBestScore = document.querySelector('.nb-best-score');
+const textBestStreak = document.querySelector('.nb-best-streak');
+
+var score = 0;
+var streak = 0;
+var recordScore = 0;
+var recordStreak = 0;
 var artists_names = ["Nekfeu", "Orelsan", "Lomepal", "Damso"];
 
 
-window.addEventListener("load", function() {
-    // check si record dans le local storage
-    if (localStorage.getItem("record") != null) {
-        record = localStorage.getItem("record");
+window.addEventListener("load", function () {
+
+    // if (localStorage.getItem("last-score") != null) {
+    //     score = localStorage.getItem("last-score");
+    // }
+    // if (localStorage.getItem("last-streak") != null) {
+    //     streak = localStorage.getItem("last-streak");
+    // }
+
+    if (localStorage.getItem("record-score") != null) {
+        recordScore = localStorage.getItem("record-score");
     }
+    if (localStorage.getItem("record-streak") != null) {
+        recordStreak = localStorage.getItem("record-streak");
+    }
+
     play();
 });
 
@@ -38,7 +55,7 @@ async function getArtistLyrics(artistName) {
 
 // Mise à jour de l'affichage des cartes
 async function updateCardWithArtistsInfo() {
-    const cards = document.querySelector(".artistes");
+    const cards = document.querySelector(".cards");
 
     for (let i = 0; i < cards.children.length; i++) {
         const card = cards.children[i];
@@ -48,7 +65,7 @@ async function updateCardWithArtistsInfo() {
         const cardImgWide = card.querySelector('.card-img-wide');
         const cardArtist = card.querySelector('.card-artist');
         const cardSong = card.querySelector('.card-song');
-        
+
         cardArtist.textContent = artistName;
         cardSong.textContent = "";
         cardImgLong.src = `img/${artistName}-long.png`;
@@ -69,19 +86,27 @@ async function play() {
         const artistData = await getArtistLyrics(artist);
         lyrics.push(artistData);
     }
-    
-    score = 0;
+
+    let win = true;
 
     while (true) {
-        // Update des scores
-        textScore.textContent = score;
-        textBest.textContent = record;
 
-        if (score > record) {
-            record = score;
-            textBest.textContent = record;
-            localStorage.setItem("record", record);
+        if (score > recordScore) {
+            recordScore = score;
+            textBestScore.textContent = recordScore;
+            localStorage.setItem("record-score", recordScore);
         }
+        if (streak > recordStreak) {
+            recordStreak = score;
+            textBestStreak.textContent = recordStreak;
+            localStorage.setItem("record-streak", recordStreak);
+        }
+
+        textScore.textContent = score;
+        textStreak.textContent = streak;
+
+        localStorage.setItem("last-score", score);
+        localStorage.setItem("last-streak", streak);
 
         // récupérer une phrase aléatoire
         const randomArtist = Math.floor(Math.random() * artists_names.length);
@@ -90,7 +115,7 @@ async function play() {
         console.log(randomPhrase);
 
         // affichage de la phrase
-        textPhrase1.textContent = randomPhrase["ligne1"] + ",";
+        textPhrase1.textContent = randomPhrase["ligne1"];
         textPhrase2.textContent = randomPhrase["ligne2"];
 
         // attend que l'utilisateur clique sur l'un des deux boutons de vote
@@ -104,13 +129,19 @@ async function play() {
         });
         const vote = await votePromise;
 
+        win = (vote == artists_names[randomArtist]);
+
         //check si réussi ou pas
-        if (vote == artists_names[randomArtist]) {
+        if (win) {
             score += 1;
-        } 
+            if (streak > 0) { streak += 1; }
+            else { streak = 1; }
+        }
         else {
             score -= 1;
+            if (streak < 0) { streak -= 1; }
+            else { streak = -1; }
         }
-            
+
     }
 }

@@ -84,7 +84,7 @@ def main():
             print(f"Titre {i+1}/{len(artiste)}", end="\r")
             paragraphes = getParagraphes(texte)
 
-            for nom, lignes in paragraphes:
+            for section_header, lignes in paragraphes:
                 if len(lignes) % 2:
                     continue
                 
@@ -92,10 +92,23 @@ def main():
                     ligne1 = lignes[i]
                     ligne2 = lignes[i+1]
 
-                    if (ligne1.endswith("...")) or (ligne2.endswith("...")):
+                    if "refrain" in section_header.lower():
+                        continue
+
+                    if ":" in section_header:
+                        if section_header.split(":")[1].strip().lower() != artiste_name.lower():
+                            continue
+
+                    if ("..." in ligne1) or ("..." in ligne2):
+                        continue
+                    
+                    if (len(ligne1) > 70) or (len(ligne2) > 70):
                         continue
 
                     if (len(ligne1.split(" ")) < 5) or (len(ligne2.split(" ")) < 5):
+                        continue
+
+                    if (len(ligne1.split(" ")) > 15) or (len(ligne2.split(" ")) > 15):
                         continue
 
                     if similarities(ligne1, ligne2) > 0.5:
@@ -105,7 +118,7 @@ def main():
                         "artiste": artiste_name,
                         "titre": titre,
                         "date": date,
-                        "couplet": nom,
+                        "couplet": section_header,
                         "ligne1": ligne1, 
                         "ligne2": ligne2
                     })
