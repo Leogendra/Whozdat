@@ -1,0 +1,1269 @@
+{
+    "annotation_count": 55,
+    "api_path": "/songs/3266715",
+    "artist_names": "OrelSan (Ft. Ibeyi)",
+    "full_title": "Notes pour trop tard by OrelSan (Ft. Ibeyi)",
+    "header_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+    "header_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+    "id": 3266715,
+    "lyrics_owner_id": 130136,
+    "lyrics_state": "complete",
+    "path": "/Orelsan-notes-pour-trop-tard-lyrics",
+    "pyongs_count": 61,
+    "relationships_index_url": "https://genius.com/Orelsan-notes-pour-trop-tard-sample",
+    "release_date_components": {
+        "year": 2017,
+        "month": 10,
+        "day": 20
+    },
+    "release_date_for_display": "October 20, 2017",
+    "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+    "song_art_image_thumbnail_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 29,
+        "contributors": 102,
+        "iq_earners": 102,
+        "transcribers": 2,
+        "unreviewed_annotations": 25,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 557017
+    },
+    "title": "Notes pour trop tard",
+    "title_with_featured": "Notes pour trop tard (Ft. Ibeyi)",
+    "url": "https://genius.com/Orelsan-notes-pour-trop-tard-lyrics",
+    "featured_artists": [
+        {
+            "api_path": "/artists/224658",
+            "header_image_url": "https://images.genius.com/6f200fe8b2fe242646ef4011b88f0889.1000x992x1.jpg",
+            "id": 224658,
+            "image_url": "https://images.genius.com/e472a74c3f4773235b445b7ed3978e41.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ibeyi",
+            "url": "https://genius.com/artists/Ibeyi"
+        }
+    ],
+    "primary_artist": {
+        "api_path": "/artists/1286",
+        "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+        "id": 1286,
+        "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "OrelSan",
+        "url": "https://genius.com/artists/Orelsan"
+    },
+    "apple_music_id": "1293272709",
+    "apple_music_player_url": "https://genius.com/songs/3266715/apple_music_player",
+    "description": {
+        "plain": "Comme souvent dans les projets d'Orelsan, le dernier morceau est plus calme, assez sombre et nous invite à penser à notre vie. Le titre vient de l'expression “Notes pour plus tard”, qu'il a modifié en “trop tard”, notes inutiles donc, pour lui, mais peut-être pas pour les autres…\n\nhttps://twitter.com/Orel_san/status/923250383362850816\n\nCette chanson, à l'inverse de “San” qui sert d'introduction, est comme un résumé de l'album et fait guise de conclusion. En effet, on y retrouve de nombreux thèmes abordés dans les différents morceaux de l'album, comme par exemple :\n\n\nla vieillesse/maturité et la peur de devenir vieux, comme abordée dans “La fête est finie”\n\nou encore les repas de familles ennuyant, comme dans “Défaite de famille”\n\n\n\n\nIl a invité les jumelles franco-vénézuélo-cubaines formant le groupe Ibeyi. Elles sont renommées pour la particularité de leur timbre et viennent ainsi faire les chœurs et appuyer l'ambiance calme et évasive qui caractérise cette chanson. Elles chantent ici en yoruba, langue vivante d'Afrique de l'Ouest, importée à Cuba par les esclaves.\n\n\n\n\n\n\nLe sample de ce morceau est tiré du manga Haikyuu!!, plus précisément de l'ouverture de la deuxième saison."
+    },
+    "embed_content": "<div id='rg_embed_link_3266715' class='rg_embed_link' data-song-id='3266715'>Read <a href='https://genius.com/Orelsan-notes-pour-trop-tard-lyrics'>“Notes pour trop tard” by OrelSan</a> on Genius</div> <script crossorigin src='//genius.com/songs/3266715/embed.js'></script>",
+    "featured_video": false,
+    "language": "fr",
+    "lyrics_placeholder_reason": null,
+    "recording_location": null,
+    "release_date": "2017-10-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_button",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "album": {
+        "api_path": "/albums/370127",
+        "cover_art_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+        "full_title": "La fête est finie by OrelSan",
+        "id": 370127,
+        "name": "La fête est finie",
+        "release_date_for_display": "October 20, 2017",
+        "url": "https://genius.com/albums/Orelsan/La-fete-est-finie",
+        "artist": {
+            "api_path": "/artists/1286",
+            "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+            "id": 1286,
+            "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "OrelSan",
+            "url": "https://genius.com/artists/Orelsan"
+        }
+    },
+    "custom_performances": [
+        {
+            "label": "Masterisé au",
+            "artists": [
+                {
+                    "api_path": "/artists/1171095",
+                    "header_image_url": "https://images.genius.com/00eb384f6f2d65af0ddaf96a2ca4cc33.851x315x1.jpg",
+                    "id": 1171095,
+                    "image_url": "https://images.genius.com/9003556de80de091af0652eb18ba9035.478x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Studio Sismic",
+                    "url": "https://genius.com/artists/Studio-sismic"
+                }
+            ]
+        },
+        {
+            "label": "Mixé au",
+            "artists": [
+                {
+                    "api_path": "/artists/1171095",
+                    "header_image_url": "https://images.genius.com/00eb384f6f2d65af0ddaf96a2ca4cc33.851x315x1.jpg",
+                    "id": 1171095,
+                    "image_url": "https://images.genius.com/9003556de80de091af0652eb18ba9035.478x478x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Studio Sismic",
+                    "url": "https://genius.com/artists/Studio-sismic"
+                }
+            ]
+        },
+        {
+            "label": "Produit par",
+            "artists": [
+                {
+                    "api_path": "/artists/1615147",
+                    "header_image_url": "https://images.genius.com/63183726e4ee937c639d0c8d54ef221a.400x400x1.jpg",
+                    "id": 1615147,
+                    "image_url": "https://images.genius.com/63183726e4ee937c639d0c8d54ef221a.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "3ème Bureau",
+                    "url": "https://genius.com/artists/3eme-bureau"
+                },
+                {
+                    "api_path": "/artists/190108",
+                    "header_image_url": "https://images.genius.com/be286d73be51c6eb8af89584b0d8d98d.800x800x1.png",
+                    "id": 190108,
+                    "image_url": "https://images.genius.com/398b584aa2111e1d5691e7e33417709f.799x799x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "XL Recordings",
+                    "url": "https://genius.com/artists/Xl-recordings"
+                },
+                {
+                    "api_path": "/artists/666934",
+                    "header_image_url": "https://images.genius.com/4d38d858507a5f3731788254397da5e0.412x98x1.jpg",
+                    "id": 666934,
+                    "image_url": "https://images.genius.com/1436f5f3e8c659fa0af915cf7c68af62.95x95x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "7th Magnitude",
+                    "url": "https://genius.com/artists/7th-magnitude"
+                },
+                {
+                    "api_path": "/artists/1213074",
+                    "header_image_url": "https://images.genius.com/40a204793bed04a53fd5210f04f9bd79.1000x1000x1.png",
+                    "id": 1213074,
+                    "image_url": "https://images.genius.com/40a204793bed04a53fd5210f04f9bd79.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wagram Music",
+                    "url": "https://genius.com/artists/Wagram-music"
+                }
+            ]
+        },
+        {
+            "label": "Additional Vocals [\"Level\" Vocals]",
+            "artists": [
+                {
+                    "api_path": "/artists/224658",
+                    "header_image_url": "https://images.genius.com/6f200fe8b2fe242646ef4011b88f0889.1000x992x1.jpg",
+                    "id": 224658,
+                    "image_url": "https://images.genius.com/e472a74c3f4773235b445b7ed3978e41.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ibeyi",
+                    "url": "https://genius.com/artists/Ibeyi"
+                }
+            ]
+        },
+        {
+            "label": "Direction artistique",
+            "artists": [
+                {
+                    "api_path": "/artists/1585625",
+                    "header_image_url": "https://images.genius.com/77918b47f7b363e2f1ccf5c17f4029c2.532x532x1.jpg",
+                    "id": 1585625,
+                    "image_url": "https://images.genius.com/77918b47f7b363e2f1ccf5c17f4029c2.532x532x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ablaye",
+                    "url": "https://genius.com/artists/Ablaye"
+                },
+                {
+                    "api_path": "/artists/1286",
+                    "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+                    "id": 1286,
+                    "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OrelSan",
+                    "url": "https://genius.com/artists/Orelsan"
+                },
+                {
+                    "api_path": "/artists/36718",
+                    "header_image_url": "https://images.genius.com/aa302397227cdb202c6458fef94bac95.1000x667x1.jpg",
+                    "id": 36718,
+                    "image_url": "https://images.genius.com/aff1594ed4307af0bfb56adf0cf0ec5e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Skread",
+                    "url": "https://genius.com/artists/Skread"
+                }
+            ]
+        },
+        {
+            "label": "Enregistré par",
+            "artists": [
+                {
+                    "api_path": "/artists/36718",
+                    "header_image_url": "https://images.genius.com/aa302397227cdb202c6458fef94bac95.1000x667x1.jpg",
+                    "id": 36718,
+                    "image_url": "https://images.genius.com/aff1594ed4307af0bfb56adf0cf0ec5e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Skread",
+                    "url": "https://genius.com/artists/Skread"
+                }
+            ]
+        },
+        {
+            "label": "Enregistré au",
+            "artists": [
+                {
+                    "api_path": "/artists/1032982",
+                    "header_image_url": "https://images.genius.com/0ccf9c95f971688440af5785586c7d59.383x383x1.png",
+                    "id": 1032982,
+                    "image_url": "https://images.genius.com/0ccf9c95f971688440af5785586c7d59.383x383x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Studio Haxo",
+                    "url": "https://genius.com/artists/Studio-haxo"
+                }
+            ]
+        },
+        {
+            "label": "Mixé par",
+            "artists": [
+                {
+                    "api_path": "/artists/1074144",
+                    "header_image_url": "https://images.genius.com/225c7103115e5810fc5b7267a6a6af1e.960x792x1.jpg",
+                    "id": 1074144,
+                    "image_url": "https://images.genius.com/a0d0985c65b5ac2da7b7c6517dc3ea50.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nk.F",
+                    "url": "https://genius.com/artists/Nkf"
+                }
+            ]
+        },
+        {
+            "label": "Masterisé par",
+            "artists": [
+                {
+                    "api_path": "/artists/1074144",
+                    "header_image_url": "https://images.genius.com/225c7103115e5810fc5b7267a6a6af1e.960x792x1.jpg",
+                    "id": 1074144,
+                    "image_url": "https://images.genius.com/a0d0985c65b5ac2da7b7c6517dc3ea50.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nk.F",
+                    "url": "https://genius.com/artists/Nkf"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 4445998,
+        "annotator_login": "Byniico",
+        "api_path": "/referents/12826987",
+        "classification": "accepted",
+        "fragment": "Notes pour trop tard",
+        "id": 12826987,
+        "is_description": true,
+        "path": "/12826987/Orelsan-notes-pour-trop-tard/Notes-pour-trop-tard",
+        "range": {
+            "content": "Notes pour trop tard"
+        },
+        "song_id": 3266715,
+        "url": "https://genius.com/12826987/Orelsan-notes-pour-trop-tard/Notes-pour-trop-tard",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/3266715",
+            "client_timestamps": {
+                "updated_by_human_at": 1687984861,
+                "lyrics_updated_at": 1687984860
+            },
+            "context": "OrelSan",
+            "id": 3266715,
+            "image_url": "https://images.genius.com/35002de936b39512bf9ec39c1500aa70.1000x1000x1.png",
+            "link_title": "Notes pour trop tard by OrelSan (Ft. Ibeyi)",
+            "title": "Notes pour trop tard",
+            "type": "Song",
+            "url": "https://genius.com/Orelsan-notes-pour-trop-tard-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/12826987",
+                "body": {
+                    "plain": "Comme souvent dans les projets d'Orelsan, le dernier morceau est plus calme, assez sombre et nous invite à penser à notre vie. Le titre vient de l'expression “Notes pour plus tard”, qu'il a modifié en “trop tard”, notes inutiles donc, pour lui, mais peut-être pas pour les autres…\n\nhttps://twitter.com/Orel_san/status/923250383362850816\n\nCette chanson, à l'inverse de “San” qui sert d'introduction, est comme un résumé de l'album et fait guise de conclusion. En effet, on y retrouve de nombreux thèmes abordés dans les différents morceaux de l'album, comme par exemple :\n\n\nla vieillesse/maturité et la peur de devenir vieux, comme abordée dans “La fête est finie”\n\nou encore les repas de familles ennuyant, comme dans “Défaite de famille”\n\n\n\n\nIl a invité les jumelles franco-vénézuélo-cubaines formant le groupe Ibeyi. Elles sont renommées pour la particularité de leur timbre et viennent ainsi faire les chœurs et appuyer l'ambiance calme et évasive qui caractérise cette chanson. Elles chantent ici en yoruba, langue vivante d'Afrique de l'Ouest, importée à Cuba par les esclaves.\n\n\n\n\n\n\nLe sample de ce morceau est tiré du manga Haikyuu!!, plus précisément de l'ouverture de la deuxième saison."
+                },
+                "comment_count": 7,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 12826987,
+                "pinned": false,
+                "share_url": "https://genius.com/12826987",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/12826987/Orelsan-notes-pour-trop-tard/Notes-pour-trop-tard",
+                "verified": false,
+                "votes_total": 109,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.30864197530864196,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1844901",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DafAYEWNQzi4LQMKcucp_IMGP6626.JPG",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DafAYEWNQzi4LQMKcucp_IMGP6626.JPG",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DafAYEWNQzi4LQMKcucp_IMGP6626.JPG",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DafAYEWNQzi4LQMKcucp_IMGP6626.JPG",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6aagqij10tg",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 1844901,
+                            "iq": 46589,
+                            "login": "flavie_rcr",
+                            "name": "flavie_rcr",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/flavie_rcr",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.2674897119341564,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/96446",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/96cb9cf6688f5ceaa2da4b72d0a1ca8b",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/96cb9cf6688f5ceaa2da4b72d0a1ca8b",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/96cb9cf6688f5ceaa2da4b72d0a1ca8b",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/96cb9cf6688f5ceaa2da4b72d0a1ca8b",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/96cb9cf6688f5ceaa2da4b72d0a1ca8b",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 96446,
+                            "iq": 81555,
+                            "login": "dmchp",
+                            "name": "dmchp",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/dmchp",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.12757201646090535,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/3082514",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gnpo9dd7j8a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gnpo9dd7j8a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gnpo9dd7j8a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gnpo9dd7j8a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3pf0maj1x0v",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 3082514,
+                            "iq": 660446,
+                            "login": "ketoshtoo",
+                            "name": "ketoshtoo",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/ketoshtoo",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.11522633744855967,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1235485",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/19cfqj9qldg",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/19cfqj9qldg",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/19cfqj9qldg",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/19cfqj9qldg",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/d08tudpwuu",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 1235485,
+                            "iq": 88541,
+                            "login": "FiliSaitama",
+                            "name": "FiliSaitama",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/FiliSaitama",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.08641975308641975,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/4445998",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/6fa61561c6748359dcf805879d7a89d8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/6fa61561c6748359dcf805879d7a89d8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/6fa61561c6748359dcf805879d7a89d8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/6fa61561c6748359dcf805879d7a89d8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sIDsxj3QVaACJYVNsi2l_IMG_3150.JPG",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 4445998,
+                            "iq": 782,
+                            "login": "Byniico",
+                            "name": "Byniico",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Byniico",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.06995884773662552,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/5330058",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/13164a4e9ff82c89f7e874d327d9e95b",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/13164a4e9ff82c89f7e874d327d9e95b",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/13164a4e9ff82c89f7e874d327d9e95b",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/13164a4e9ff82c89f7e874d327d9e95b",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fhpigbaatgu",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 5330058,
+                            "iq": 2141,
+                            "login": "Stormyblade",
+                            "name": "Stormyblade",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Stormyblade",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.0205761316872428,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/2786251",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/20b814ce4295e5d6d2c7a1258d047dc5",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/20b814ce4295e5d6d2c7a1258d047dc5",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/20b814ce4295e5d6d2c7a1258d047dc5",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/20b814ce4295e5d6d2c7a1258d047dc5",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/v6748b1qsd",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 2786251,
+                            "iq": 9676,
+                            "login": "Untitled8",
+                            "name": "Untitled8",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Untitled8",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.00411522633744856,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/201268",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/dbaca40c867a83c670e6927126507b1f",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/dbaca40c867a83c670e6927126507b1f",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/dbaca40c867a83c670e6927126507b1f",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/dbaca40c867a83c670e6927126507b1f",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/dbaca40c867a83c670e6927126507b1f",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 201268,
+                            "iq": 5138,
+                            "login": "Esteboobs",
+                            "name": "Esteboobs",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Esteboobs",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "ndmgo",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/ndmgo/notes-pour-trop-tard-feat-ibeyi"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "http://www.youtube.com/watch?v=eUyxCuyxnqo"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/36718",
+            "header_image_url": "https://images.genius.com/aa302397227cdb202c6458fef94bac95.1000x667x1.jpg",
+            "id": 36718,
+            "image_url": "https://images.genius.com/aff1594ed4307af0bfb56adf0cf0ec5e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Skread",
+            "url": "https://genius.com/artists/Skread"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": "https://genius.com/Erykah-badu-window-seat-sample/samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/3636270",
+                    "artist_names": "9TAILS",
+                    "full_title": "1242am by 9TAILS",
+                    "header_image_thumbnail_url": "https://images.genius.com/8f56ea59713811a0e0007cd1390a777f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8f56ea59713811a0e0007cd1390a777f.500x500x1.jpg",
+                    "id": 3636270,
+                    "lyrics_owner_id": 4799549,
+                    "lyrics_state": "complete",
+                    "path": "/9tails-1242am-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/9tails-1242am-sample",
+                    "release_date_components": {
+                        "year": 2018,
+                        "month": 4,
+                        "day": 6
+                    },
+                    "release_date_for_display": "April 6, 2018",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8f56ea59713811a0e0007cd1390a777f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8f56ea59713811a0e0007cd1390a777f.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 8857
+                    },
+                    "title": "1242am",
+                    "title_with_featured": "1242am",
+                    "url": "https://genius.com/9tails-1242am-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1144902",
+                        "header_image_url": "https://images.genius.com/4d01c4961ff09af38b6e53407a5bcae0.1000x210x1.jpg",
+                        "id": 1144902,
+                        "image_url": "https://images.genius.com/a48d8bdc7f8b12b0f752551cc8eb73ab.640x640x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "9TAILS",
+                        "url": "https://genius.com/artists/9tails"
+                    }
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/4601415",
+                    "artist_names": "TheVivi",
+                    "full_title": "Plus Tard by TheVivi",
+                    "header_image_thumbnail_url": "https://images.genius.com/c901185ae9ca677d92daf946b043c2b7.246x138x1.jpg",
+                    "header_image_url": "https://images.genius.com/c901185ae9ca677d92daf946b043c2b7.246x138x1.jpg",
+                    "id": 4601415,
+                    "lyrics_owner_id": 8624477,
+                    "lyrics_state": "complete",
+                    "path": "/Thevivi-plus-tard-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Thevivi-plus-tard-sample",
+                    "release_date_components": {
+                        "year": 2018,
+                        "month": 9,
+                        "day": 23
+                    },
+                    "release_date_for_display": "September 23, 2018",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 23, 2018",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c901185ae9ca677d92daf946b043c2b7.246x138x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/c901185ae9ca677d92daf946b043c2b7.246x138x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Plus Tard",
+                    "title_with_featured": "Plus Tard",
+                    "url": "https://genius.com/Thevivi-plus-tard-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1573773",
+                        "header_image_url": "https://images.genius.com/172181c8d273c8c2491af9ae7a940d48.400x400x1.jpg",
+                        "id": 1573773,
+                        "image_url": "https://images.genius.com/4501941e34d27d5285d7244053d4dc59.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "TheVivi",
+                        "url": "https://genius.com/artists/Thevivi"
+                    }
+                },
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/4581001",
+                    "artist_names": "Lord Esperanza (Ft. Barbara Pravi, Chilla, Sally, Tessa B. & Yseult)",
+                    "full_title": "Freestyle au féminin by Lord Esperanza (Ft. Barbara Pravi, Chilla, Sally, Tessa B. & Yseult)",
+                    "header_image_thumbnail_url": "https://images.genius.com/8cbc640b82602dcfc0f4585c2bb601e4.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/8cbc640b82602dcfc0f4585c2bb601e4.1000x563x1.jpg",
+                    "id": 4581001,
+                    "lyrics_owner_id": 4838104,
+                    "lyrics_state": "complete",
+                    "path": "/Lord-esperanza-freestyle-au-feminin-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lord-esperanza-freestyle-au-feminin-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 5,
+                        "day": 22
+                    },
+                    "release_date_for_display": "May 22, 2019",
+                    "release_date_with_abbreviated_month_for_display": "May. 22, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8cbc640b82602dcfc0f4585c2bb601e4.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8cbc640b82602dcfc0f4585c2bb601e4.1000x563x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Freestyle au féminin",
+                    "title_with_featured": "Freestyle au féminin (Ft. Barbara Pravi, Chilla, Sally, Tessa B. & Yseult)",
+                    "url": "https://genius.com/Lord-esperanza-freestyle-au-feminin-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/265202",
+                            "header_image_url": "https://images.genius.com/3d73cbb5b3952036f80cfcd3c1a70662.1000x1000x1.png",
+                            "id": 265202,
+                            "image_url": "https://images.genius.com/3d73cbb5b3952036f80cfcd3c1a70662.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Yseult",
+                            "url": "https://genius.com/artists/Yseult"
+                        },
+                        {
+                            "api_path": "/artists/1193243",
+                            "header_image_url": "https://images.genius.com/5d71e3ff059f2b9b8a3e6dd3c4fa8dcc.1000x1000x1.jpg",
+                            "id": 1193243,
+                            "image_url": "https://images.genius.com/5d71e3ff059f2b9b8a3e6dd3c4fa8dcc.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tessa B.",
+                            "url": "https://genius.com/artists/Tessa-b"
+                        },
+                        {
+                            "api_path": "/artists/1562470",
+                            "header_image_url": "https://images.genius.com/58aaf057c4b945f8268db789ad3847c1.1000x562x1.jpg",
+                            "id": 1562470,
+                            "image_url": "https://images.genius.com/564844943678f757d7b5a16dcd486fa1.244x244x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Sally",
+                            "url": "https://genius.com/artists/Sally"
+                        },
+                        {
+                            "api_path": "/artists/5464",
+                            "header_image_url": "https://images.genius.com/f9a6a797851385cc90d2afd18cb99055.820x430x1.jpg",
+                            "id": 5464,
+                            "image_url": "https://images.genius.com/80460738f40154629150bccb32c2b425.870x870x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Chilla",
+                            "url": "https://genius.com/artists/Chilla",
+                            "iq": 285
+                        },
+                        {
+                            "api_path": "/artists/1258540",
+                            "header_image_url": "https://images.genius.com/e7c42056caddd8813bc4a40df2a1b344.770x275x1.jpg",
+                            "id": 1258540,
+                            "image_url": "https://images.genius.com/dbef1e9c70da98c23858d09b6fa58194.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Barbara Pravi",
+                            "url": "https://genius.com/artists/Barbara-pravi"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/790419",
+                        "header_image_url": "https://images.genius.com/e74824963d338a2f178f52528a62d492.958x431x1.png",
+                        "id": 790419,
+                        "image_url": "https://images.genius.com/e0b8fd291c0917f016a846a3693a6d5a.592x592x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lord Esperanza",
+                        "url": "https://genius.com/artists/Lord-esperanza",
+                        "iq": 471
+                    }
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/4581207",
+                    "artist_names": "Barbara Pravi",
+                    "full_title": "Notes pour trop tard (réécriture) x Le Malamour by Barbara Pravi",
+                    "header_image_thumbnail_url": "https://images.genius.com/dbef1e9c70da98c23858d09b6fa58194.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/dbef1e9c70da98c23858d09b6fa58194.1000x1000x1.jpg",
+                    "id": 4581207,
+                    "lyrics_owner_id": 4838104,
+                    "lyrics_state": "complete",
+                    "path": "/Barbara-pravi-notes-pour-trop-tard-reecriture-x-le-malamour-lyrics",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Barbara-pravi-notes-pour-trop-tard-reecriture-x-le-malamour-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/dbef1e9c70da98c23858d09b6fa58194.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/dbef1e9c70da98c23858d09b6fa58194.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 20168
+                    },
+                    "title": "Notes pour trop tard (réécriture) x Le Malamour",
+                    "title_with_featured": "Notes pour trop tard (réécriture) x Le Malamour",
+                    "url": "https://genius.com/Barbara-pravi-notes-pour-trop-tard-reecriture-x-le-malamour-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1258540",
+                        "header_image_url": "https://images.genius.com/e7c42056caddd8813bc4a40df2a1b344.770x275x1.jpg",
+                        "id": 1258540,
+                        "image_url": "https://images.genius.com/dbef1e9c70da98c23858d09b6fa58194.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Barbara Pravi",
+                        "url": "https://genius.com/artists/Barbara-pravi"
+                    }
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 21,
+                    "api_path": "/songs/5682700",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "OrelSan - Notes pour trop tard (English Translation) by Genius English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/5d93b0dc0d52b2bfe73de98a6ccceaab.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5d93b0dc0d52b2bfe73de98a6ccceaab.1000x1000x1.jpg",
+                    "id": 5682700,
+                    "lyrics_owner_id": 5840435,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-orelsan-notes-pour-trop-tard-english-translation-lyrics",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-orelsan-notes-pour-trop-tard-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2017,
+                        "month": 10,
+                        "day": 20
+                    },
+                    "release_date_for_display": "October 20, 2017",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5d93b0dc0d52b2bfe73de98a6ccceaab.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5d93b0dc0d52b2bfe73de98a6ccceaab.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 13249
+                    },
+                    "title": "OrelSan - Notes pour trop tard (English Translation)",
+                    "title_with_featured": "OrelSan - Notes pour trop tard (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-orelsan-notes-pour-trop-tard-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    }
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/5682700",
+            "id": 5682700,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-orelsan-notes-pour-trop-tard-english-translation-lyrics",
+            "title": "OrelSan - Notes pour trop tard (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-orelsan-notes-pour-trop-tard-english-translation-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/224658",
+            "header_image_url": "https://images.genius.com/6f200fe8b2fe242646ef4011b88f0889.1000x992x1.jpg",
+            "id": 224658,
+            "image_url": "https://images.genius.com/e472a74c3f4773235b445b7ed3978e41.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ibeyi",
+            "url": "https://genius.com/artists/Ibeyi"
+        },
+        {
+            "api_path": "/artists/1286",
+            "header_image_url": "https://images.genius.com/38504f0ac7ef3cf28836fde07a8a6b88.1000x223x1.png",
+            "id": 1286,
+            "image_url": "https://images.genius.com/a1f09b60b1baaee96c0073a43afd1b35.409x409x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "OrelSan",
+            "url": "https://genius.com/artists/Orelsan"
+        }
+    ],
+    "artist": "OrelSan",
+    "lyrics": "102 ContributorsTranslationsEnglishNotes pour trop tard Lyrics[Paroles de \"Notes pour trop tard\" ft. Ibeyi]\n\n[Intro]\nOk, j'avais ton âge y'a à peu près ton âge\nLe passage à l'âge adulte est glissant dans les virages\nDevenir un homme : y'a pas d'stage, pas d'rattrapage\nMaintenant, t'es dans l'grand bain, devine comment on nage\nT'auras toujours une espèce de rage, envie d'prendre le large\nD'éclater les types qui jouent d'la guitare sur la plage\nComme à chaque fois qu'tu déménages, c'est un monde qui s'écroule\nÉcoute, l'histoire s'écrit en tournant les pages\nÉcoute\nJ'ai pris quelques notes\n\n[Couplet unique]\nSi t'as l'impression qu'personne te comprend, c'est parce que personne te comprend\nC'est plus facile à vivre une fois qu't'en es conscient\nComment tu peux leur en vouloir ? Tu t'comprends pas toi-même\nSouvent seul avec tes problèmes, souvent, c'est toi l'problème\nLa plupart des conseils d'adultes sont des clichés d'merde\nParce qu'ils ont pas compris l'jeu mais ils suivent les règles\nAlors écoute pas trop tes parents, fais semblant\nIls ont pas la science infuse, t'es leur premier enfant\nTu perdrais tellement d'temps à batailler\nY'a des combats qu'tu peux pas gagner, surtout quand tu paies pas l'loyer\nFais-toi une raison, y'a très peu d'raisons d'foutre la merde\nDans sa propre maison, même quand t'as raison\nSi y'a une chose que tu dois pas remettre en question\nT'es plus intelligent qu'avant mais t'es toujours très con\nT'es trop sensible, tu vis tout comme une agression\nDemande à un fou s'il est fou et tu verras c'qu'il t'répond\nAutre chose que tu dois savoir : tu baiseras pas c'soir\nUne fois qu't'auras compris ça, ça t'enlèvera un poids\nParce que t'as beaucoup trop la dalle et ça va s'voir\nParce que t'es beaucoup trop timide, tu vas beaucoup trop boire\nApprends à la fermer, t'auras l'air mystérieux\nApprends à t'vendre un peu mieux, tu baiseras dans un mois ou deux\nC'est toujours le même style de fille dont tu tombes amoureux\nTu sais, le style de fille qui t'rend malheureux\nDonc fais pas la pleureuse le jour où elle t'brise le cœur\nSur la longueur, t'économises des pleurs\nEnsuite, t'auras peur de t'investir, tu t'diras qu'c'est mieux ailleurs\nQu'chez toi, tu vas rater l'meilleur de c'que t'as déjà\nEn gros, tu couches avec ta meuf en pensant à une autre\nT'as pas kiffé\nTu penses à elle quand tu couches avec l'autre une fois qu'elle t'a quitté\nOkay\nT'empêcheras jamais les gens d'parler\nEt, comme t'es chelou, y'a p't-être moyen qu'les gens veuillent te frapper\nTu peux faire des pompes, tu peux apprendre à t'battre\nMais même musclé, ça fait toujours mal de prendre une droite\nTon cerveau et ton ego fonctionnent à l'envers\nPlus tu cherches à prouver quelque chose, plus ça fait l'contraire\nQuand tu dis qu't'as pas peur, c'est qu't'as peur\nQuand tu dis qu't'as pas mal, c'est qu'tu commences à sentir la douleur\nConnais ta hauteur, va pas t'surclasser\nTu verras, des fois, tu perdras contre des gars qu'tu trouvais nuls à chier\nBien sûr, la vie est injuste\nSi t'aimes pas les lois, sois pas un putain d'juge\nNe crois pas les insultes, y'a pas d'race pour être un bâtard\nPour être un fils de pute, pas besoin d'avoir une daronne sur un trottoir\nY'a pas d'sexualité pour être un enculé\nPlus tu réagis, plus on dirait qu'tu t'sens visé, laisse glisser\nLes meilleures blagues sont les plus méchantes ou les plus bêtes\nMais les pires êtres humains sont des losers cruels\nT'en prends jamais au plus faible, garde les vannes dans un coin d'ta tête\nÇa rentrera dans un texte, dans un film ou dans un sketch\nL'école est un calvaire, y'a pas grand-chose à faire\nArrêter, c'est partir trop tôt dans une autre galère\nTèj' ton sac-à-dos en l'air, t'auras l'poids d'la société sur les épaules\nUn patron, ton père et ta mère\nTrois-quarts des cours servent à rien\nMais les actrices de boule en soient témoins : rien branler fait qu'éloigner la fin\nTu dis qu'on verra bien, tu fais l'malin mais t'es fragile\nComme le dépistage, tu regrettes à l'examen\nL'école est un filtre qui rend tout très chiant\nComme les films en noir et blanc : le plus dur, c'est d'rentrer dedans\nC'est plus dur quand t'appréhendes, comme ta première fois\nJ'fais des métaphores sexuelles depuis tout à l'heure parce que tu penses qu'à ça\nDis-toi qu'les latinas sont les plus bonnes du monde\nÉcoute en espagnol, dis-toi qu'en chimie tu pourrais faire d'la drogue\nArrête d'apprendre par cœur des trucs que t'as pas compris\nEt, en philo, t'étais pas censé raconter ta vie\nAh oui, personne t'oblige à fumer d'la weed\nEn fait, ça marche mieux sur les hyperactifs\nÊtre défoncé, c'est même pas la partie qu'tu préfères\nQuand t'es déchiré, tout c'que tu fais, c'est faire semblant d'être clair\nLa partie qu'tu préfères, c'est partir en bande à Jardiland\nVoler du bambou et fabriquer un bang\nT'as juste besoin d'une passion\nDonc écoute bien les conseillers d'orientation et fais l'opposé d'c'qu'ils diront\nEn gros, tous les trucs où les gens disent : \"Tu perds ton temps\"\nFaut qu'tu t'mettes à fond d'dans et qu'tu t'accroches longtemps\nSi tu veux faire des films, t'as juste besoin d'un truc qui filme\nDire : \"J'ai pas d'matos ou pas d'contact\", c'est un truc de victime\nOn t'dira d'être premier, jamais d'être heureux\nPremier, c'est pour ceux qu'ont besoin d'une note, qu'ont pas confiance en eux\nT'es au moment d'ta vie où tu peux devenir c'que tu veux\nLe même moment où c'est l'plus dur de savoir c'que tu veux\nÀ part traîner avec ta bande\nSurtout pas rater la dernière rumeur, le dernier truc marrant\nHonnêtement, tu raterais pas grand-chose si tu partais quatre ans\nQuoi que, c'est important, fais d'la merde tant qu'il est encore temps\nPour pas qu'un jour tu te réveilles à quarante ans\nGenre : \"Putain, j'vais crever mais j'ai jamais kiffé\nMa famille m'empêche de vivre, j'vais devoir les quitter\nPour sniffer en boîte de nuit, trouver des gamines à vampiriser\"\nJ'en vois plein, donc, petit terroriste, va t'éclater\nSors en soirée même si, j'avoue, tu vas t'faire recaler\nTu rentreras la semaine prochaine ou l'année d'après\nD't'façon, t'allais pas baiser c'soir, si j'dois t'le rappeler\nSi tu rentres, prends ton ticket d'vestiaire en photo\nRends-toi compte que tu sais pas boire, t'es mort trop tôt\nQuand ça devient une fierté d'te mettre des grandes doses\nC'est qu'tu t'attaches à pas grand-chose\nArrête de flipper, si tu veux, va danser\nLa seule règle sur la piste, c'est : fais pas des trucs que t'as jamais tenté\nSi jamais tu t'endors en premier dans une soirée\nS'regarder dans la glace, c'est la base dès qu'tu viens d'te lever\nAu cas où\nÇa t'évitera d'passer les repas d'famille avec une bite dessinée sur la joue\nCes repas d'famille où tu t'ennuies, où on parle très fort\nPour dire des choses très banales, déjà, on s'parle et c'est pas mal\nLes vérités sont compliquées, les clichés sont stables\nDésolé si y'a pas que des experts à ta table\nTu bloques sur les défauts des autres, et c'est ton pire défaut\nLa vie, c'est des cycles, c'est pour ça qu'j'retombe sur les mêmes mots\nSois pas parano sur qui sont tes vrais amis\nY'a qu'un seul moyen d'le savoir : laisse le temps faire le tri\nJ'ai jamais regretté d'demander conseil ni d'appeler quelqu'un\nSouvent, tu crois qu'ils sont chelous, c'est juste qu'ça capte pas très bien\nLa même histoire a plein d'versions\nLa meilleure façon d'sortir d'une embrouille, c'est d'poser des questions\nArrête de passer ta vie à fuir, angoissé par l'avenir\nParce qu'y'a rien à faire pour s'préparer au pire\nComme les attentats, les mauvaises nouvelles frappent quand tu t'y attends pas\nDes proches un peu pressés partiront avant toi\nTu verras des gens heureux prendre un appel\nLeur visage se décompose et rien n'est plus jamais pareil\nY'a rien à faire, à part être présent\nPanser les plaies, changer les pansements, le seul remède, c'est l'tempsYou might also like61Embed"
+}

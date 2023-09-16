@@ -1,0 +1,33 @@
+.artistes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.card {
+    width: 10rem;
+    height: 30%;
+    min-height: 100px;
+    max-height: 300px;
+    aspect-ratio: unset;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+    flex-direction: column-reverse;
+    border: 1px solid red;
+}
+
+.card > .card-img-long {
+    display: block;
+    height: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.card-img-wide {
+    display: none;
+}

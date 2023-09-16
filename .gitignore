@@ -1,0 +1,10 @@
+# cache
+.vscode/
+__pycache__/
+env/
+
+# useless big files
+lyrics/
+
+# private files
+auth.py
