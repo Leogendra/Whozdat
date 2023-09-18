@@ -12,7 +12,7 @@ genius = Genius(GENIUS_CLIENT_ACCES_TOKEN)
 # genius.verbose = False
 # genius.remove_section_headers = True
 genius.skip_non_songs = True
-genius.excluded_terms = ["Remix", "Live", "Instrumental", "Edit", "Mix", "Acoustic", "Skit", "Freestyle", "Cover", "Session", "Version", "Medley", "Interlude", "Feat", "Featuring"]
+genius.excluded_terms = ["Remix", "Live", "Instrumental", "Edit", "Mix", "Acoustic", "Skit", "Freestyle", "Cover", "Session", "Version", "Medley", "Interlude"]
 
 def getSongsOfArtists(artist_name, num_songs=10):
     artist = genius.search_artist(artist_name, max_songs=num_songs, sort="popularity")

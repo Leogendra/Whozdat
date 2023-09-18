@@ -10,7 +10,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 if not os.path.exists("lyrics"):
     os.makedirs("lyrics")
 
-artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Rohff", "Kery James"]
+artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo"]
 # artists = ["Orelsan"]
 # artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso"]
 nb_max_song = 100

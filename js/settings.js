@@ -37,8 +37,11 @@ const divArtists = document.querySelector('.settings-artists');
 
 all_artists.forEach(artist => {
     const input = document.createElement('input');
-    const artistShort = artist.replace(/ /g, '-').toLowerCase();
+    const artistShort = artist.replace(' ', '-');
     input.type = 'checkbox';
+    if (artists_names.includes(artist)) {
+        input.checked = true;
+    }
     input.id = artistShort;
     input.classList.add('choice-artist');
 
@@ -63,22 +66,22 @@ divArtists.addEventListener('click', function (event) {
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
     const selectionCount = selectedElements.length;
 
-    // Si 3 checkbox ou moins sont cochées, les verrouiller
+    // Si < 3 checkbox cochées, les disable
     if (selectionCount <= 3) {
         checkboxElements.forEach(element => {
             if (element.checked) {
                 element.disabled = true;
-            } 
+            }
             else {
                 element.disabled = false;
             }
         });
     }
-    // Si 4 checkbox sont cochées, décochez la première ou la dernière checkbox cochée
+    // Si > 4 checkbox cochées, décochez la première ou la dernière checkbox cochée
     else if (selectionCount > 4) {
         const newlyCheckedElement = event.target;
         let numNewElement = -1;
-        
+
         for (let i = 0; i < selectedElements.length; i++) {
             const element = selectedElements[i];
             if (element === newlyCheckedElement) {
@@ -97,5 +100,29 @@ divArtists.addEventListener('click', function (event) {
         checkboxElements.forEach(element => {
             element.disabled = false;
         });
+    }
+});
+
+const buttonValidate = document.querySelector('.settings-text-save');
+const messageErreur = document.querySelector('.message-erreur');
+
+buttonValidate.addEventListener('click', function () {
+
+    const selectedElements = document.querySelectorAll('.choice-artist:checked');
+    const selectionCount = selectedElements.length;
+
+    if (selectionCount === 3 || selectionCount === 4) {
+        messageErreur.textContent = "";
+
+        artists_names = [];
+        selectedElements.forEach(element => {
+            artists_names.push(element.id.replace('-', ' '));
+        });
+
+        console.log(artists_names);
+        dialogSettings.close();
+    }
+    else {
+        messageErreur.textContent = "Veuillez sélectionner 3 ou 4 artistes";
     }
 });

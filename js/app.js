@@ -57,13 +57,8 @@ window.addEventListener("load", function () {
 
 // Speed mode
 buttonSpeedMode.addEventListener("click", async (e) => {
-    console.log(e);
-    if (speed) {
-        speed = false;
-    }
-    else {
-        speed = true;
-    }
+    const speedCheckbox = document.querySelector('.slide');
+    speed = speedCheckbox.checked;
     console.log(speed);
 });
 
@@ -229,9 +224,8 @@ async function play() {
         localStorage.setItem("last-streak", streak);
 
 
-        // if (speed) { await delay(1500); }
-        // else { await delay(3000); }
-        await delay(1000);
+        if (speed) { await delay(1500); }
+        else { await delay(3000); }
 
     }
 }
