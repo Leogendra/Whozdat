@@ -121,10 +121,6 @@
     transition: .4s;
 }
 
-.slide:checked + .slider {
-    background-color: #c12121;
-}
-
 .slider:before {
     position: absolute;
     content: "";
@@ -133,12 +129,13 @@
     left: 4px;
     bottom: 5px;
     background-color: white;
-    -webkit-transition: .4s;
-    transition: .4s;
+    transition: transform 0.5s ease-in-out;
 }
 
 .slide:checked+.slider:before {
     transform: translateX(30px);
+    background-color: #c12121;
+    transition: transform 0.2s ease-in-out;
 }
 
 .slider.round {

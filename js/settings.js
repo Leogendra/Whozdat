@@ -57,20 +57,45 @@ all_artists.forEach(artist => {
 
 
 
-const selectionElements = document.querySelectorAll('.choice-artist');
+const checkboxElements = document.querySelectorAll('.choice-artist');
 
-divArtists.addEventListener('click', function () {
+divArtists.addEventListener('click', function (event) {
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
-    // Si l'utilisateur sélectionne moins de 3 éléments, désactivez les autres
-    if (selectedElements.length === 3) {
-        selectionElements.forEach(element => {
-            if (element.checked) { element.disabled = true; }
-            else { element.disabled = false; }
+    const selectionCount = selectedElements.length;
+
+    // Si 3 checkbox ou moins sont cochées, les verrouiller
+    if (selectionCount <= 3) {
+        checkboxElements.forEach(element => {
+            if (element.checked) {
+                element.disabled = true;
+            } 
+            else {
+                element.disabled = false;
+            }
         });
     }
+    // Si 4 checkbox sont cochées, décochez la première ou la dernière checkbox cochée
+    else if (selectionCount > 4) {
+        const newlyCheckedElement = event.target;
+        let numNewElement = -1;
+        
+        for (let i = 0; i < selectedElements.length; i++) {
+            const element = selectedElements[i];
+            if (element === newlyCheckedElement) {
+                numNewElement = i;
+            }
+        }
+        if ((numNewElement === 3) || (numNewElement === 4)) {
+            selectedElements[0].checked = false;
+        }
+        else {
+            selectedElements[selectionCount - 1].checked = false;
+        }
+    }
+    // Tout décocher
     else {
-        selectionElements.forEach(element => {
-            if (!element.checked) { element.disabled = true; }
+        checkboxElements.forEach(element => {
+            element.disabled = false;
         });
     }
 });

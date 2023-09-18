@@ -11,7 +11,7 @@ const textStreak = document.querySelector('.nb-streak');
 const textBestScore = document.querySelector('.nb-best-score');
 const textBestStreak = document.querySelector('.nb-best-streak');
 
-const buttonSpeed = document.querySelector('.speed-mode');
+const buttonSpeedMode = document.querySelector('.speed-mode');
 
 var speed = false;
 var score = 0;
@@ -56,8 +56,14 @@ window.addEventListener("load", function () {
 // Paramètres
 
 // Speed mode
-buttonSpeed.addEventListener("click", async () => {
-    speed = !speed;
+buttonSpeedMode.addEventListener("click", async (e) => {
+    console.log(e);
+    if (speed) {
+        speed = false;
+    }
+    else {
+        speed = true;
+    }
     console.log(speed);
 });
 
