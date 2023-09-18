@@ -12,7 +12,7 @@ genius = Genius(GENIUS_CLIENT_ACCES_TOKEN)
 # genius.verbose = False
 # genius.remove_section_headers = True
 genius.skip_non_songs = True
-genius.excluded_terms = ["Remix", "Live", "Instrumental", "Edit", "Mix", "Acoustic", "Skit", "Freestyle", "Cover", "Session", "Version", "Medley", "Interlude", "Feat", "Featuring", "*"]
+genius.excluded_terms = ["Remix", "Live", "Instrumental", "Edit", "Mix", "Acoustic", "Skit", "Freestyle", "Cover", "Session", "Version", "Medley", "Interlude", "Feat", "Featuring"]
 
 def getSongsOfArtists(artist_name, num_songs=10):
     artist = genius.search_artist(artist_name, max_songs=num_songs, sort="popularity")
@@ -47,14 +47,16 @@ def main():
 
     lyrics_path = f"lyrics/{artist.replace(' ', '_')}.json"
     if not os.path.exists(lyrics_path):
-        while 1:
+        i = 1
+        while i < 10:
+            i += 1
             try:
                 print(f"Getting lyrics from {artist}")
                 all_lyrics = getLyricsFromArtist(artist, nb_max_song)
                 break
             except Exception as e:
                 print(RED + f"Erreur sur {artist} : {e}" + RESET)
-                return
+                print(RED + f"Redo, essai {i}" + RESET)
 
         json.dump(all_lyrics, open(lyrics_path, "w", encoding="utf-8"), indent=4, ensure_ascii=False)
 

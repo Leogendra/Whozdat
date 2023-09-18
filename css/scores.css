@@ -5,35 +5,55 @@
     justify-content: space-between;
     text-align: center;
     width: 90%;
-    margin: 40px 40px 0;
+    margin: 20px 5px 0;
 }
 
 .lyrics {
     display: flex;
     flex-direction: column;
     text-align: center;
+}
+
+.lyrics-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
     margin: 0px 10px;
     padding: 10px;
     border-radius: 20px;
-    transition: box-shadow 0.2s ease-out, transform 0.2s ease-out;
-
+    transition: box-shadow 0.4s ease-out;
 }
 
-.lyrics:hover {
+.lyrics-content:hover {
     box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.4);
     /* transform: scale(1.02); */
 }
 
-.lyrics > span {
+.lyrics-content > span {
     margin: 5px;
-    font: 100 1.8rem 'Playfair Display', sans-serif;
+    font: 100 1.5rem 'Playfair Display', sans-serif;
+}
+
+.result {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font: 100 1.5rem 'Playfair Display', sans-serif;
+    opacity: 0;
+    transition: opacity 0.2s ease-out;
+}
+
+.reveal-song{
+    opacity: 1;
+    text-decoration: underline;
 }
 
 .score, .streak {
     margin: 0 10px;
     font-size: 3rem;
     font-weight: 700;
-    transition: transform 0.2s ease-out;
+    transition: transform 0.3s ease-out;
 }
 
 .best {
