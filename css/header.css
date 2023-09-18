@@ -30,6 +30,8 @@
     font-size: 3em;
 }
 
+
+/* Effet d'explosion lors du hover */
 .div-header>button>span::before {
     content: "";
     position: absolute;
@@ -61,5 +63,3 @@
 .button-help {
     cursor: help;
 }
-
-.button-settings {}

@@ -11,6 +11,8 @@ const textStreak = document.querySelector('.nb-streak');
 const textBestScore = document.querySelector('.nb-best-score');
 const textBestStreak = document.querySelector('.nb-best-streak');
 
+const buttonSpeed = document.querySelector('.speed-mode');
+
 var speed = false;
 var score = 0;
 var streak = 0;
@@ -49,6 +51,15 @@ window.addEventListener("load", function () {
     play();
 });
 
+
+
+// Paramètres
+
+// Speed mode
+buttonSpeed.addEventListener("click", async () => {
+    speed = !speed;
+    console.log(speed);
+});
 
 
 /***************** FONCTIONS DE CHARGEMENT *****************/

@@ -33,8 +33,8 @@ dialogSettings.addEventListener('click', (e) => {
 
 
 const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Rohff", "Kery James"]
-
 const divArtists = document.querySelector('.settings-artists');
+
 all_artists.forEach(artist => {
     const input = document.createElement('input');
     const artistShort = artist.replace(/ /g, '-').toLowerCase();
@@ -57,10 +57,10 @@ all_artists.forEach(artist => {
 
 
 
-const selectionElements = document.querySelectorAll('.settings-artiste');
-formArtists.addEventListener('change', function () {
-    const selectedElements = document.querySelectorAll('.settings-artiste:checked');
+const selectionElements = document.querySelectorAll('.choice-artist');
 
+divArtists.addEventListener('click', function () {
+    const selectedElements = document.querySelectorAll('.choice-artist:checked');
     // Si l'utilisateur sélectionne moins de 3 éléments, désactivez les autres
     if (selectedElements.length === 3) {
         selectionElements.forEach(element => {

@@ -82,14 +82,24 @@
 
 /* Slider */
 .speed-mode {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
     margin: 15px 0 40px;
+}
+
+.settings-speed-text {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-right: 10px;
 }
 
 .switch {
     position: relative;
     display: inline-block;
-    width: 100px;
-    height: 50px;
+    width: 60px;
+    height: 30px;
 }
 
 .switch .slide {
@@ -106,16 +116,20 @@
     right: 0;
     bottom: 0;
     background-color: transparent;
-    border: 3px solid #c12121;
+    border: 3px solid white;
     -webkit-transition: .4s;
     transition: .4s;
+}
+
+.slide:checked + .slider {
+    background-color: #c12121;
 }
 
 .slider:before {
     position: absolute;
     content: "";
-    height: 35px;
-    width: 35px;
+    height: 15px;
+    width: 15px;
     left: 4px;
     bottom: 5px;
     background-color: white;
@@ -124,7 +138,7 @@
 }
 
 .slide:checked+.slider:before {
-    transform: translateX(50px);
+    transform: translateX(30px);
 }
 
 .slider.round {
