@@ -83,7 +83,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin: 15px 0 40px;
+    margin: 15px auto;
 }
 
 .settings-speed-text {
@@ -194,7 +194,7 @@
 /* Nom artiste */
 .grid-cell label {
     position: relative;
-    padding-left:1.5rem;
+    padding-left: 1.5rem;
     line-height: 2;
     cursor: pointer;
     display: inline-flex;
@@ -231,4 +231,76 @@
 .grid-cell label,
 .grid-cell label::before {
     transition: 0.25s all ease;
+}
+
+
+/*********** Modes ***********/
+.settings-modes {
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    height: 2rem;
+    margin: 10px auto 30px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.4);
+}
+
+.settings-modes>.div-slider {
+    padding-top: 24px;
+    display: block;
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    bottom: -4px;
+    width: calc(33.33% + 8px);
+    background-color: #c12121;
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    pointer-events: none;
+    transition: transform 0.3s;
+}
+
+.settings-modes>.div-slider:hover {
+    transform: scale(1.1);
+}
+
+.settings-modes label {
+    color: black;
+    position: relative;
+    width: calc(33.333% - 1px);
+    float: left;
+    padding: 20px 0px 41px;
+    overflow: hidden;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.settings-modes label:first-child {
+    border-left: none;
+}
+
+.settings-modes label input {
+    position: absolute;
+    top: -200%;
+}
+
+.settings-modes label div {
+    z-index: 5;
+    position: absolute;
+    width: 100%;
+    color: white;
+    font-family: Calibri, Roboto, Sans-Serif;
+}
+
+.settings-modes label.selected {
+    color: white;
 }

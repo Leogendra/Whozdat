@@ -4,6 +4,7 @@ const buttonCloseSettings = document.querySelector('.button-close-settings');
 const openSettings = document.querySelector('.open-settings');
 
 const divArtists = document.querySelector('.settings-artists');
+const divModes = document.querySelector('.settings-modes');
 
 const buttonValidate = document.querySelector('.settings-text-save');
 const messageErreur = document.querySelector('.message-erreur');
@@ -74,18 +75,7 @@ divArtists.addEventListener('click', function (event) {
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
     const selectionCount = selectedElements.length;
     messageErreur.textContent = "";
-
-    // Si < 3 checkbox cochées, les disable
-    // if (selectionCount <= 3) {
-    //     checkboxElements.forEach(element => {
-    //         if (element.checked) {
-    //             element.disabled = true;
-    //         }
-    //         else {
-    //             element.disabled = false;
-    //         }
-    //     });
-    // }
+    
     // Si > 4 checkbox cochées, décochez la première ou la dernière checkbox cochée
     if (selectionCount > 4) {
         const newlyCheckedElement = event.target;
@@ -104,7 +94,7 @@ divArtists.addEventListener('click', function (event) {
             selectedElements[selectionCount - 1].checked = false;
         }
     }
-    // Tout décocher
+    
     else {
         checkboxElements.forEach(element => {
             element.disabled = false;
@@ -126,11 +116,34 @@ buttonValidate.addEventListener('click', function () {
             artists_names.push(element.id.replace('-', ' '));
         });
         saveSettings();
-        updateLyrics();
-        updateCardWithArtistsInfo();
         dialogSettings.close();
+        location.reload();
     }
     else {
         messageErreur.textContent = "Veuillez sélectionner 3 ou 4 artistes";
     }
+});
+
+
+// Modes
+divModes.addEventListener('click', function(event){
+
+    if (event.target.tagName.toLowerCase() == 'input') {
+
+        let input = event.target;
+        let slider = this.querySelector('.div-slider');
+        let labels = this.querySelectorAll('label');
+        
+        slider.style.transform = `translateX(${input.dataset.location})`;
+        labels.forEach(function(label){
+            if ( label == input.parentElement ) {
+                label.classList.add('selected');
+            } 
+            else {
+                label.classList.remove('selected');
+            }
+        });
+        
+    }
+    
 });
