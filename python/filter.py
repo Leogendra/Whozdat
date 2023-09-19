@@ -105,6 +105,9 @@ def main():
                     
                     if (len(ligne1) > 70) or (len(ligne2) > 70):
                         continue
+                    
+                    if (len(ligne1) < 30) or (len(ligne2) < 30):
+                        continue
 
                     if (len(ligne1.split(" ")) < 5) or (len(ligne2.split(" ")) < 5):
                         continue
