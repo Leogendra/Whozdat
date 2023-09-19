@@ -32,32 +32,36 @@ dialogSettings.addEventListener('click', (e) => {
 
 
 
-const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Rohff", "Kery James"]
+const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo"]
 const divArtists = document.querySelector('.settings-artists');
 
-all_artists.forEach(artist => {
-    const input = document.createElement('input');
-    const artistShort = artist.replace(' ', '-');
-    input.type = 'checkbox';
-    if (artists_names.includes(artist)) {
-        input.checked = true;
-    }
-    input.id = artistShort;
-    input.classList.add('choice-artist');
 
-    const label = document.createElement('label');
-    label.htmlFor = artistShort;
-    label.textContent = artist;
+async function updateCheckboxes() {
+    divArtists.innerHTML = "";
+    all_artists.forEach(artist => {
+        const input = document.createElement('input');
+        const artistShort = artist.replace(' ', '-');
+        input.type = 'checkbox';
+        if (artists_names.includes(artist)) {
+            input.checked = true;
+        }
+        input.id = artistShort;
+        input.classList.add('choice-artist');
 
-    const wrapper = document.createElement('div');
-    wrapper.classList.add('grid-cell');
+        const label = document.createElement('label');
+        label.htmlFor = artistShort;
+        label.textContent = artist;
 
-    wrapper.appendChild(input);
-    wrapper.appendChild(label);
+        const wrapper = document.createElement('div');
+        wrapper.classList.add('grid-cell');
 
-    divArtists.appendChild(wrapper);
-});
+        wrapper.appendChild(input);
+        wrapper.appendChild(label);
 
+        divArtists.appendChild(wrapper);
+    });
+}
+updateCheckboxes();
 
 
 const checkboxElements = document.querySelectorAll('.choice-artist');
@@ -120,6 +124,9 @@ buttonValidate.addEventListener('click', function () {
         });
 
         console.log(artists_names);
+        saveSettings();
+        updateLyrics();
+        updateCardWithArtistsInfo();
         dialogSettings.close();
     }
     else {

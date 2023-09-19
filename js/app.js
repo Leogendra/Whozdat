@@ -19,6 +19,7 @@ var streak = 0;
 var recordScore = 0;
 var recordStreak = 0;
 var artists_names = ["Nekfeu", "Orelsan", "Lomepal", "Damso"];
+var lyrics = [];
 
 
 function delay(ms) {
@@ -48,19 +49,42 @@ window.addEventListener("load", function () {
         textBestStreak.textContent = recordStreak;
     }
 
+    const settings = JSON.parse(localStorage.getItem('settings'));
+    if (settings != null) {
+        artists_names = settings.artists_names;
+        speed = settings.speed;
+    }
+
+    updateCheckboxes();
     play();
 });
 
 
+async function updateLyrics() {
+    lyrics = [];
+    for (const artist of artists_names) {
+        const artistData = await getArtistLyrics(artist);
+        lyrics.push(artistData);
+    }
+}
 
-// Paramètres
+
+/***************** Paramètres *****************/
 
 // Speed mode
 buttonSpeedMode.addEventListener("click", async (e) => {
     const speedCheckbox = document.querySelector('.slide');
     speed = speedCheckbox.checked;
-    console.log(speed);
 });
+
+
+async function saveSettings() {
+    const settings = {
+        artists_names: artists_names,
+        speed: speed
+    };
+    localStorage.setItem('settings', JSON.stringify(settings));
+}
 
 
 /***************** FONCTIONS DE CHARGEMENT *****************/
@@ -88,15 +112,22 @@ async function updateCardWithArtistsInfo() {
         const cardImgLong = card.querySelector('.card-img-long');
         const cardImgWide = card.querySelector('.card-img-wide');
         const cardArtist = card.querySelector('.card-artist');
-        const cardSong = card.querySelector('.card-song');
-        const cardDate = card.querySelector('.card-date');
 
         cardArtist.textContent = artistName;
-        cardSong.textContent = "";
-        cardDate.textContent = "";
-        cardImgLong.src = `img/${artistName}-long.png`;
-        // cardImgWide.src = `img/${artistName}-wide.png`;
+
+        const imgLongPath = `img/${artistName}-long.png`;
+        const imgLongExists = await checkFileExists(imgLongPath);
+        if (imgLongExists) { cardImgLong.src = imgLongPath; }
+        else { cardImgLong.src = "img/blank-long.png"; }
+
+        // const imgWidePath = `img/${artistName}-wide.png`;
+        // const imgWideExists = await checkFileExists(imgWidePath);
+        // if (imgWideExists) { cardImgWide.src = imgWidePath; }
+        // else { cardImgWide.src = "img/blank-wide.png";
     }
+
+    if (artists_names.length == 3) { cardArtists4.classList.add("card-hidden"); }
+    else { cardArtists4.classList.remove("card-hidden"); }
 }
 
 
@@ -108,6 +139,8 @@ async function revealSong(artistIndex, lyrics, vote) {
 
     result.classList.add("reveal-song");
 
+    result.href = lyrics["url"];
+
     if (lyrics["date"]) {
         resultDate.innerHTML = "&nbsp; - &nbsp;" + lyrics["date"].split('-')[0];
     }
@@ -115,8 +148,8 @@ async function revealSong(artistIndex, lyrics, vote) {
     if (lyrics["titre"] != lyrics["titre"].substring(0, 30)) {
         resultSong.textContent = lyrics["titre"].substring(0, 27) + "...";
     }
-    else { 
-        resultSong.textContent = lyrics["titre"]; 
+    else {
+        resultSong.textContent = lyrics["titre"];
     }
 
     for (let i = 0; i < cards.children.length; i++) {
@@ -157,15 +190,8 @@ function clearCards() {
 /***************** FONCTION DE JEU *****************/
 
 async function play() {
-    updateCardWithArtistsInfo();
-
-    var lyrics = []
-    for (const artist of artists_names) {
-        const artistData = await getArtistLyrics(artist);
-        lyrics.push(artistData);
-    }
-
-    let win = true;
+    await updateCardWithArtistsInfo();
+    await updateLyrics();
 
     while (true) {
 

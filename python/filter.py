@@ -81,6 +81,7 @@ def main():
             titre = song["titre"]
             texte = song["lyrics"]
             date = song["date"]
+            song_url = song["url"]
             print(f"Titre {i+1}/{len(artiste)}", end="\r")
             paragraphes = getParagraphes(texte)
 
@@ -118,6 +119,7 @@ def main():
                         "artiste": artiste_name,
                         "titre": titre,
                         "date": date,
+                        "url": song_url,
                         "couplet": section_header,
                         "ligne1": ligne1, 
                         "ligne2": ligne2

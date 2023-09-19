@@ -78,6 +78,17 @@
     background-color: #475059;
 }
 
+.message-erreur {
+    text-align: center;
+    width: fit-content;
+    padding: 5px 20px;
+    margin: 20px auto 0;
+    border-radius: 10px;
+    color: #c12121;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
 
 
 /* Slider */

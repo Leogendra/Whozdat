@@ -31,6 +31,7 @@ def getLyricsFromArtist(artist_name, num_songs=10):
                 "titre": song.title.replace("’", "'"),
                 "lyrics": cleaned_lyrics.replace("’", "'"),
                 "date": song.release_date,
+                "url": song.url,
             })
     return lyrics
 

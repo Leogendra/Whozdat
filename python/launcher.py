@@ -24,7 +24,7 @@ for artist in artists:
             process = subprocess.Popen(command)
             processes.append(process)
 
-            time.sleep(1)
+            time.sleep(.1)
 
         except Exception as e:
              print(RED + f"Erreur sur {artist}" + RESET)

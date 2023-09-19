@@ -22,12 +22,13 @@
     cursor: pointer;
     overflow: hidden;
     transition: transform 0.2s ease-out;
-    /* transform: scale3d(1.2, 1.2, 1.8); */
 }
 
 .card-info {
     position: absolute;
     text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    color: white;
+    font-size: .8rem;
 }
 
 .card > .card-img-long {
@@ -42,16 +43,18 @@
 
 .card-win {
     outline: 5px solid #6ed46a;
-    transform: scale(1.5);
 }
 
 .card-lose {
     outline: 5px solid #c12121;
-    transform: scale(.5);
     pointer-events: none;
 }
 
 .card-lose > img, .card-neutral {
     filter: grayscale(100%) brightness(0.7);
     pointer-events: none;
+}
+
+.card-hidden {
+    display: none;
 }
