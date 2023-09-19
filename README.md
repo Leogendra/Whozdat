@@ -9,5 +9,5 @@ Artistes déjà disponibles : Nekfeu, Orelsan, Lomepal, Damso, Bigflo & Oli, Kaa
 
 À venir : 
 - Modes (Facile/Intermediaire/Difficile)
-- Interface Mobile
+- Interface pour Mobile
 - Plus d'artistes
