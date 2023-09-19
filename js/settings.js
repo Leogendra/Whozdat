@@ -9,7 +9,7 @@ const buttonValidate = document.querySelector('.settings-text-save');
 const messageErreur = document.querySelector('.message-erreur');
 
 var checkboxElements = document.querySelectorAll('.choice-artist');
-const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Booba", "Kaaris", "Angèle", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Gringe", "Alpha Wann", "Freeze Corleone"]
+const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "Kaaris", "Alpha Wann", "Freeze Corleone"]
 
 buttonSettings.addEventListener('click', () => {
     dialogSettings.showModal();
