@@ -45,26 +45,12 @@
     font-weight: bold;
 }
 
-.settings-artists {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 4fr));
-    grid-gap: 10px;
-}
-
-.grid-cell {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.grid-cell input[type="checkbox"] {
-    margin-right: 5px;
-}
+/* Voir en bas pour le choix des artistes */
 
 .settings-text-save {
     text-align: center;
     width: fit-content;
-    padding: 5px 20px;
+    padding: 5px 20px 7px;
     margin: 20px auto 0;
     border-radius: 10px;
     border: #c12121 solid 2px;
@@ -101,8 +87,8 @@
 }
 
 .settings-speed-text {
-    font-size: 1.3rem;
-    font-weight: bold;
+    font-size: 1.2rem;
+    /* font-weight: bold; */
     margin-right: 10px;
 }
 
@@ -177,4 +163,72 @@
     .slide:checked+.slider:before {
         transform: translateX(30px);
     }
+}
+
+
+/*********** Checkbox ***********/
+
+/* Conteneur */
+.settings-artists {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* grid-template-columns: repeat(auto-fill, minmax(200px, 4fr)); */
+    /* grid-gap: 5px; */
+}
+
+/* cellule de checkbox */
+.grid-cell {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-content: center;
+
+}
+
+/* Checkbox */
+.grid-cell input[type="checkbox"] {
+    display: none;
+    margin-right: 5px;
+}
+
+/* Nom artiste */
+.grid-cell label {
+    position: relative;
+    padding-left:1.5rem;
+    line-height: 2;
+    cursor: pointer;
+    display: inline-flex;
+}
+
+/* Contours / checkbox */
+.grid-cell label:before {
+    box-sizing: border-box;
+    content: " ";
+    position: absolute;
+    top: 0.5em;
+    left: 0;
+    display: block;
+    width: 1em;
+    height: 1em;
+    border: 2px solid #9098A9;
+    border-radius: 6px;
+    z-index: -1;
+}
+
+/* Label lorsque coché */
+.grid-cell input[type=checkbox]:checked+label {
+    color: #db2626;
+    font-weight: bold;
+}
+
+/* Checkbox lorsque coché */
+.grid-cell input[type=checkbox]:checked+label:before {
+    background: #db2626;
+    border-color: #abb5c9;
+}
+
+/* Transitions */
+.grid-cell label,
+.grid-cell label::before {
+    transition: 0.25s all ease;
 }

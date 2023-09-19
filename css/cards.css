@@ -26,9 +26,14 @@
 
 .card-info {
     position: absolute;
-    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
+.card-artist {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.2rem;
     color: white;
-    font-size: .8rem;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
 
 .card > .card-img-long {

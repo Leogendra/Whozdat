@@ -12,6 +12,7 @@ const textBestScore = document.querySelector('.nb-best-score');
 const textBestStreak = document.querySelector('.nb-best-streak');
 
 const buttonSpeedMode = document.querySelector('.speed-mode');
+const speedCheckbox = document.querySelector('.slide');
 
 var speed = false;
 var score = 0;
@@ -33,12 +34,13 @@ function max(a, b) {
 
 window.addEventListener("load", function () {
 
-    // if (localStorage.getItem("last-score") != null) {
-    //     score = localStorage.getItem("last-score");
-    // }
-    // if (localStorage.getItem("last-streak") != null) {
-    //     streak = localStorage.getItem("last-streak");
-    // }
+    if (localStorage.getItem("last-score") != null) {
+        // convertir en int
+        score = parseInt(localStorage.getItem("last-score"));
+    }
+    if (localStorage.getItem("last-streak") != null) {
+        streak = parseInt(localStorage.getItem("last-streak"));
+    }
 
     if (localStorage.getItem("record-score") != null) {
         recordScore = localStorage.getItem("record-score");
@@ -53,6 +55,7 @@ window.addEventListener("load", function () {
     if (settings != null) {
         artists_names = settings.artists_names;
         speed = settings.speed;
+        speedCheckbox.checked = speed;
     }
 
     updateCheckboxes();
@@ -73,7 +76,6 @@ async function updateLyrics() {
 
 // Speed mode
 buttonSpeedMode.addEventListener("click", async (e) => {
-    const speedCheckbox = document.querySelector('.slide');
     speed = speedCheckbox.checked;
 });
 
@@ -175,7 +177,7 @@ function clearCards() {
 
     for (let i = 0; i < cards.children.length; i++) {
         const card = cards.children[i];
-        resultSong.innerHTML = "&nbsp;";
+        resultSong.innerHTML = `<span class="material-symbols-outlined">undo</span>`;
         resultDate.textContent = " ";
 
         card.classList.remove("card-win");
@@ -201,7 +203,7 @@ async function play() {
         const randomArtist = Math.floor(Math.random() * artists_names.length);
         const randomLyrics = Math.floor(Math.random() * lyrics[randomArtist].length);
         const randomPhrase = lyrics[randomArtist][randomLyrics];
-        console.log(randomPhrase);
+        // console.log(randomPhrase);
 
         // affichage de la phrase
         textPhrase1.textContent = randomPhrase["ligne1"];

@@ -39,13 +39,24 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    font: 100 1.5rem 'Playfair Display', sans-serif;
     opacity: 0;
+    width: fit-content;
+    min-width: 100px;
+    margin: 0 auto 0;
+    font: 100 1.5rem 'Playfair Display', sans-serif;
     transition: opacity 0.2s ease-out;
 }
 
-.reveal-song{
+.result:hover {
+    opacity: 0.5;
+}
+
+.reveal-song {
     opacity: 1;
+    cursor: pointer;
+}
+
+.reveal-song > .result-song {
     text-decoration: underline;
 }
 

@@ -1,8 +1,15 @@
 const dialogSettings = document.querySelector('.dialog-settings');
 const buttonSettings = document.querySelector('.button-settings');
 const buttonCloseSettings = document.querySelector('.button-close-settings');
-
 const openSettings = document.querySelector('.open-settings');
+
+const divArtists = document.querySelector('.settings-artists');
+
+const buttonValidate = document.querySelector('.settings-text-save');
+const messageErreur = document.querySelector('.message-erreur');
+
+var checkboxElements = document.querySelectorAll('.choice-artist');
+const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Booba", "Kaaris", "Angèle", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Gringe", "Alpha Wann", "Freeze Corleone"]
 
 buttonSettings.addEventListener('click', () => {
     dialogSettings.showModal();
@@ -32,8 +39,6 @@ dialogSettings.addEventListener('click', (e) => {
 
 
 
-const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo"]
-const divArtists = document.querySelector('.settings-artists');
 
 
 async function updateCheckboxes() {
@@ -60,29 +65,29 @@ async function updateCheckboxes() {
 
         divArtists.appendChild(wrapper);
     });
+    checkboxElements = document.querySelectorAll('.choice-artist');
 }
-updateCheckboxes();
 
 
-const checkboxElements = document.querySelectorAll('.choice-artist');
 
 divArtists.addEventListener('click', function (event) {
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
     const selectionCount = selectedElements.length;
+    messageErreur.textContent = "";
 
     // Si < 3 checkbox cochées, les disable
-    if (selectionCount <= 3) {
-        checkboxElements.forEach(element => {
-            if (element.checked) {
-                element.disabled = true;
-            }
-            else {
-                element.disabled = false;
-            }
-        });
-    }
+    // if (selectionCount <= 3) {
+    //     checkboxElements.forEach(element => {
+    //         if (element.checked) {
+    //             element.disabled = true;
+    //         }
+    //         else {
+    //             element.disabled = false;
+    //         }
+    //     });
+    // }
     // Si > 4 checkbox cochées, décochez la première ou la dernière checkbox cochée
-    else if (selectionCount > 4) {
+    if (selectionCount > 4) {
         const newlyCheckedElement = event.target;
         let numNewElement = -1;
 
@@ -107,8 +112,6 @@ divArtists.addEventListener('click', function (event) {
     }
 });
 
-const buttonValidate = document.querySelector('.settings-text-save');
-const messageErreur = document.querySelector('.message-erreur');
 
 buttonValidate.addEventListener('click', function () {
 
@@ -122,8 +125,6 @@ buttonValidate.addEventListener('click', function () {
         selectedElements.forEach(element => {
             artists_names.push(element.id.replace('-', ' '));
         });
-
-        console.log(artists_names);
         saveSettings();
         updateLyrics();
         updateCardWithArtistsInfo();
