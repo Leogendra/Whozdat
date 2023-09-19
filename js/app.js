@@ -14,7 +14,11 @@ const textBestStreak = document.querySelector('.nb-best-streak');
 const buttonSpeedMode = document.querySelector('.speed-mode');
 const speedCheckbox = document.querySelector('.slide');
 
-var speed = false;
+const SliderMode = document.querySelector('.div-slider');
+const radio_mode = document.querySelectorAll('input[type="radio"]');
+
+const buttonMode = document.querySelector('.settings-modes');
+
 var score = 0;
 var streak = 0;
 var recordScore = 0;
@@ -22,6 +26,8 @@ var recordStreak = 0;
 var artists_names = ["Nekfeu", "Orelsan", "Lomepal", "Damso"];
 var lyrics = [];
 
+var speed = false;
+var mode = "normal";
 
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -55,7 +61,16 @@ window.addEventListener("load", function () {
     if (settings != null) {
         artists_names = settings.artists_names;
         speed = settings.speed;
+        mode = settings.mode;
+
         speedCheckbox.checked = speed;
+
+        radio_mode.forEach(input => {
+            if (input.value === mode) {
+                SliderMode.style.transform = `translateX(${input.dataset.location})`;
+                input.checked = true;
+            }
+        });
     }
 
     updateCheckboxes();
@@ -64,28 +79,17 @@ window.addEventListener("load", function () {
 
 
 async function updateLyrics() {
+    let toKeep = [0, 1]
+    if (mode == "facile") { toKeep = [0, 0.3] }
+    if (mode == "normal") { toKeep = [.1, .6] }
+    if (mode == "difficile") { toKeep = [0.6, 1] }
+
     lyrics = [];
     for (const artist of artists_names) {
         const artistData = await getArtistLyrics(artist);
-        lyrics.push(artistData);
+        let artistDataFiltered = artistData.slice(Math.ceil(toKeep[0] * artistData.length), Math.ceil(toKeep[1] * artistData.length));
+        lyrics.push(artistDataFiltered);
     }
-}
-
-
-/***************** Paramètres *****************/
-
-// Speed mode
-buttonSpeedMode.addEventListener("click", async (e) => {
-    speed = speedCheckbox.checked;
-});
-
-
-async function saveSettings() {
-    const settings = {
-        artists_names: artists_names,
-        speed: speed
-    };
-    localStorage.setItem('settings', JSON.stringify(settings));
 }
 
 

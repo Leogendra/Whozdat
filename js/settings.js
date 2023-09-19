@@ -22,26 +22,30 @@ buttonCloseSettings.addEventListener('click', () => {
 })
 
 dialogSettings.addEventListener('click', (e) => {
-    if (e.target.tagName !== 'DIALOG') {
-        return;
+    if (e.target.tagName === 'DIALOG') {
+        const rect = e.target.getBoundingClientRect();
+        const clickedInDialog = (
+            rect.top <= e.clientY &&
+            e.clientY <= rect.top + rect.height &&
+            rect.left <= e.clientX &&
+            e.clientX <= rect.left + rect.width
+        );
+        if (clickedInDialog === false) { dialogSettings.close(); }
     }
-
-    const rect = e.target.getBoundingClientRect();
-
-    const clickedInDialog = (
-        rect.top <= e.clientY &&
-        e.clientY <= rect.top + rect.height &&
-        rect.left <= e.clientX &&
-        e.clientX <= rect.left + rect.width
-    );
-
-    if (clickedInDialog === false) { dialogSettings.close(); }
 });
 
+async function saveSettings() {
+    const settings = {
+        artists_names: artists_names,
+        speed: speed,
+        mode: mode
+    };
+    localStorage.setItem('settings', JSON.stringify(settings));
+}
 
 
 
-
+/********** Mise à jour des checkbox avec les noms d'artistes **********/
 async function updateCheckboxes() {
     divArtists.innerHTML = "";
     all_artists.forEach(artist => {
@@ -70,12 +74,43 @@ async function updateCheckboxes() {
 }
 
 
+/********** Speed mode **********/
+buttonSpeedMode.addEventListener("click", async (e) => {
+    speed = speedCheckbox.checked;
+});
 
+
+/********** Changement de mode **********/
+divModes.addEventListener('click', function (event) {
+
+    if (event.target.tagName.toLowerCase() == 'input') {
+        let input = event.target;
+        let slider = this.querySelector('.div-slider');
+        let labels = this.querySelectorAll('label');
+
+        slider.style.transform = `translateX(${input.dataset.location})`;
+        labels.forEach(function (label) {
+            if (label == input.parentElement) {
+                label.classList.add('selected');
+            }
+            else {
+                label.classList.remove('selected');
+            }
+        });
+
+    }
+    else if (event.target.tagName.toLowerCase() == 'div')  {
+        mode = event.target.textContent.toLowerCase();
+    }
+});
+
+
+/********** Gestion des checkbox des artists **********/
 divArtists.addEventListener('click', function (event) {
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
     const selectionCount = selectedElements.length;
     messageErreur.textContent = "";
-    
+
     // Si > 4 checkbox cochées, décochez la première ou la dernière checkbox cochée
     if (selectionCount > 4) {
         const newlyCheckedElement = event.target;
@@ -94,7 +129,7 @@ divArtists.addEventListener('click', function (event) {
             selectedElements[selectionCount - 1].checked = false;
         }
     }
-    
+
     else {
         checkboxElements.forEach(element => {
             element.disabled = false;
@@ -103,6 +138,7 @@ divArtists.addEventListener('click', function (event) {
 });
 
 
+/********** Bouton de validation **********/
 buttonValidate.addEventListener('click', function () {
 
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
@@ -122,28 +158,4 @@ buttonValidate.addEventListener('click', function () {
     else {
         messageErreur.textContent = "Veuillez sélectionner 3 ou 4 artistes";
     }
-});
-
-
-// Modes
-divModes.addEventListener('click', function(event){
-
-    if (event.target.tagName.toLowerCase() == 'input') {
-
-        let input = event.target;
-        let slider = this.querySelector('.div-slider');
-        let labels = this.querySelectorAll('label');
-        
-        slider.style.transform = `translateX(${input.dataset.location})`;
-        labels.forEach(function(label){
-            if ( label == input.parentElement ) {
-                label.classList.add('selected');
-            } 
-            else {
-                label.classList.remove('selected');
-            }
-        });
-        
-    }
-    
 });
