@@ -203,10 +203,10 @@ async function play() {
 
         clearCards();
 
-        // récupérer une phrase aléatoire
-        const randomArtist = Math.floor(Math.random() * artists_names.length);
-        const randomLyrics = Math.floor(Math.random() * lyrics[randomArtist].length);
-        const randomPhrase = lyrics[randomArtist][randomLyrics];
+        // récupérer une phrase aléatoire et retirer l'élément du tableau
+        const randomArtistNumber = Math.floor(Math.random() * artists_names.length);
+        const randomLyricsNumber = Math.floor(Math.random() * lyrics[randomArtistNumber].length);
+        const randomPhrase = lyrics[randomArtistNumber].splice(randomLyricsNumber, 1)[0]; // on retire l'élément du tableau
         // console.log(randomPhrase);
 
         // affichage de la phrase
