@@ -9,11 +9,6 @@
     text-align: center;
 }
 
-.div-header>.title {
-    font-size: 4vw;
-    font-weight: bold;
-}
-
 .div-header>button {
     display: flex;
     justify-content: center;
@@ -62,4 +57,20 @@
 
 .button-help {
     cursor: help;
+}
+
+@media only screen and (max-width: 800px) {    
+    .div-header {
+        width: 95%;
+        margin: 30px 10px 40px;
+    }
+
+    .div-header>button {
+        width: 8vh;
+        height: 8vh;
+    }
+    
+    .div-header>button>span {
+        font-size: 3rem;
+    }
 }

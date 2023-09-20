@@ -126,10 +126,10 @@ async function updateCardWithArtistsInfo() {
         if (imgLongExists) { cardImgLong.src = imgLongPath; }
         else { cardImgLong.src = "img/blank-long.png"; }
 
-        // const imgWidePath = `img/${artistName}-wide.png`;
-        // const imgWideExists = await checkFileExists(imgWidePath);
-        // if (imgWideExists) { cardImgWide.src = imgWidePath; }
-        // else { cardImgWide.src = "img/blank-wide.png";
+        const imgWidePath = `img/${artistName}-wide.png`;
+        const imgWideExists = await checkFileExists(imgWidePath);
+        if (imgWideExists) { cardImgWide.src = imgWidePath; }
+        else { cardImgWide.src = "img/blank-wide.png"; }
     }
 
     if (artists_names.length == 3) { cardArtists4.classList.add("card-hidden"); }

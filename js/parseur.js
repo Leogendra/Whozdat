@@ -16,10 +16,11 @@ async function loadAndParseJSON(fichier) {
 
 
 async function checkFileExists(url) {
-    return await fetch(url)
-        .then((response) => {
-            if (response.status === 200) { return true; }
-            else { return false; }
-        })
-        .catch(() => { return false; });
+    try {
+        const response = await fetch(url);
+        return response.ok;
+    } 
+    catch (error) {
+        return false;
+    }
 }
