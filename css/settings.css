@@ -253,7 +253,7 @@
 }
 
 .settings-modes>.div-slider {
-    padding-top: 24px;
+    padding-top: 20px;
     display: block;
     position: absolute;
     top: -4px;
@@ -268,16 +268,12 @@
     transition: transform 0.3s;
 }
 
-.settings-modes>.div-slider:hover {
-    transform: scale(1.1);
-}
-
 .settings-modes label {
     color: black;
     position: relative;
     width: calc(33.333% - 1px);
     float: left;
-    padding: 20px 0px 41px;
+    padding: 20px 0px 42px;
     overflow: hidden;
     -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
     cursor: pointer;
@@ -298,7 +294,6 @@
     position: absolute;
     width: 100%;
     color: white;
-    font-family: Calibri, Roboto, Sans-Serif;
 }
 
 .settings-modes label.selected {

@@ -62,7 +62,7 @@
 
 .score, .streak {
     margin: 0 10px;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: 700;
     transition: transform 0.3s ease-out;
 }
@@ -70,7 +70,7 @@
 .best {
     margin: 10px;
     font-weight: 0;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .score:hover, .streak:hover {

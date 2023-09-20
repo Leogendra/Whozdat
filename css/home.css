@@ -1,9 +1,14 @@
+@font-face {
+    font-family: "Righteous-Regular";
+    src: url("font/Righteous-Regular.ttf");
+}
+
 * {
     color: white;
 }
 
 html {
-    font-size: 1.5vw;
+    font-size: 1.4vw;
 }
 
 body {
@@ -15,6 +20,7 @@ body {
     /* background: linear-gradient(90deg, #161625 0%, #0c0c14 100%); */
     background: linear-gradient(90deg, #1e1e33 0%, #20192a 100%);
     overflow: hidden;
+    font-family: 'Righteous-Regular';
 }
 
 dialog::backdrop {
