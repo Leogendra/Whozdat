@@ -205,6 +205,9 @@ async function play() {
 
         // récupérer une phrase aléatoire et retirer l'élément du tableau
         const randomArtistNumber = Math.floor(Math.random() * artists_names.length);
+        if (lyrics[randomArtistNumber].length == 0) { 
+            lyrics[randomArtistNumber] = await getArtistLyrics(artists_names[randomArtistNumber]); // reremplir le tableau
+        }
         const randomLyricsNumber = Math.floor(Math.random() * lyrics[randomArtistNumber].length);
         const randomPhrase = lyrics[randomArtistNumber].splice(randomLyricsNumber, 1)[0]; // on retire l'élément du tableau
         // console.log(randomPhrase);
@@ -225,9 +228,9 @@ async function play() {
         const vote = await votePromise;
 
         //check si réussi ou pas
-        revealSong(randomArtist, randomPhrase, vote);
+        revealSong(randomArtistNumber, randomPhrase, vote);
 
-        if (vote == randomArtist) {
+        if (vote == randomArtistNumber) {
             score += 1;
             if (streak > 0) { streak += 1; }
             else { streak = 1; }
