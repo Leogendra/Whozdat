@@ -29,6 +29,8 @@ var lyrics = [];
 var speed = false;
 var mode = "normal";
 
+
+/********** Utils **********/
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -37,6 +39,8 @@ function max(a, b) {
     if (a > b) { return a; }
     else { return b; }
 }
+
+
 
 window.addEventListener("load", function () {
 
@@ -62,16 +66,14 @@ window.addEventListener("load", function () {
         artists_names = settings.artists_names;
         speed = settings.speed;
         mode = settings.mode;
-
         speedCheckbox.checked = speed;
-
-        radio_mode.forEach(input => {
-            if (input.value === mode) {
-                SliderMode.style.transform = `translateX(${input.dataset.location})`;
-                input.checked = true;
-            }
-        });
     }
+    radio_mode.forEach(input => {
+        if (input.value === mode) {
+            SliderMode.style.transform = `translateX(${input.dataset.location})`;
+            input.checked = true;
+        }
+    });
 
     updateCheckboxes();
     play();
