@@ -1,8 +1,8 @@
 .dialog-settings {
     width: 100vw;
     height: fit-content;
-    max-width: 70%;
     min-width: 30%;
+    max-width: 70%;
     padding: 30px;
     border-radius: 10px;
     background-color: #212529;
@@ -75,6 +75,23 @@
     font-weight: bold;
 }
 
+@media only screen and (max-width: 800px) {  
+    .dialog-settings {
+        padding: 15px;
+        max-width: 80%;
+    }
+
+    .button-close-settings {
+        top: 0;
+        right: 0;
+    }
+
+    .message-erreur {
+        padding: 5px 0px;
+        font-size: .9rem;
+    }
+}
+
 
 
 /* Slider */
@@ -143,25 +160,26 @@
     border-radius: 50%;
 }
 
+/* Media Query pour le bouton speed */
 @media only screen and (max-width: 800px) {
     .speed-mode {
         margin: 20px 0 25px;
     }
 
     .switch {
-        width: 70px;
-        height: 36px;
+        width: 60px;
+        height: 25px;
     }
 
     .slider:before {
-        height: 26px;
-        width: 26px;
+        height: 14px;
+        width: 14px;
         left: 4px;
         bottom: 3px;
     }
 
     .slide:checked+.slider:before {
-        transform: translateX(30px);
+        transform: translateX(32px);
     }
 }
 
@@ -233,6 +251,24 @@
     transition: 0.25s all ease;
 }
 
+/* Media query pour les checkbox des artistes */
+@media only screen and (max-width: 800px) {  
+    .settings-artists {
+        max-height: 30vh;
+        grid-template-columns: repeat(2, 1fr);
+        overflow-y: scroll;
+    }
+
+    .grid-cell label:before {
+        top: 0.5em;
+        left: 0.2em;
+    }
+
+    .grid-cell label {
+        font-size: .9rem;
+    }
+}
+
 
 /*********** Modes ***********/
 .settings-modes {
@@ -298,4 +334,16 @@
 
 .settings-modes label.selected {
     color: white;
+}
+
+/* Media Query pour le bouton modes */
+@media only screen and (max-width: 800px) {  
+    .settings-modes {
+        width: 15rem;
+        height: 2.5rem;
+    }
+    
+    .settings-modes label {
+        padding: 25px 0px 42px;
+    }
 }

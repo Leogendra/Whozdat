@@ -160,6 +160,7 @@ var VanillaTilt = (function () {
         }
 
         update() {
+            if (window.innerWidth < 800) { return; }
             let values = this.getValues();
 
             this.element.style.transform = "perspective(1000px) " +

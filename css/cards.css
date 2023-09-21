@@ -6,6 +6,11 @@
     width: fit-content;
     margin: 50px auto 10px;
     gap: 5vw;
+    /* Pas touche au texte mon grand */
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
 
 .card {
@@ -36,7 +41,7 @@
     text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
 
-.card > .card-img-long {
+.card-img-long {
     display: block;
     height: 100%;
     object-fit: cover;
@@ -68,6 +73,30 @@
 
 @media only screen and (max-width: 800px) {    
     .cards {
-        visibility: hidden;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 2vh;
+        height: 50vh;
+        top: 40%;
+        margin-top: 0;
+    }
+
+    .card {
+        aspect-ratio: 31/9;
+        width: 75vw;
+        /* height: 15vh; */
+    }
+
+    .card-img-long {
+        display: none;
+    }
+
+    .card-img-wide {
+        display: block;
+        width: 100%; 
+        object-fit: fill;
+        object-position: center top;
     }
 }

@@ -7,6 +7,7 @@
     width: 90%;
     margin: 30px 50px 40px;
     text-align: center;
+    z-index: 10;
 }
 
 .div-header>button {
@@ -61,16 +62,16 @@
 
 @media only screen and (max-width: 800px) {    
     .div-header {
-        width: 95%;
-        margin: 30px 10px 40px;
+        width: 90%;
+        margin: 20px 20px 20px 10px;
     }
 
     .div-header>button {
-        width: 8vh;
-        height: 8vh;
+        width: 6vh;
+        height: 6vh;
     }
     
     .div-header>button>span {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 }

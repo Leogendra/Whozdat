@@ -61,3 +61,32 @@
     text-decoration: underline;
     cursor: pointer;
 }
+
+@media only screen and (max-width: 800px) {  
+    .dialog-help {
+        padding: 10px 20px;
+    }
+
+    .button-close-help {
+        top: 0;
+        right: 0;
+    }
+
+    .help-text-welcome {
+        font-size: 1.9rem;
+        margin-bottom: 10px;
+    }
+
+    .help-text {
+        font-size: 1.1rem;
+    }
+
+    .text-separator {
+        margin-top: 10px;
+    }
+
+    .help-text-bye {
+        font-size: 1.5rem;
+        margin: 15px auto 10px;
+    }
+}

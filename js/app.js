@@ -81,7 +81,7 @@ window.addEventListener("load", function () {
 async function updateLyrics() {
     let toKeep = [0, 1]
     if (mode == "facile") { toKeep = [0, 0.3] }
-    if (mode == "normal") { toKeep = [.1, .6] }
+    if (mode == "normal") { toKeep = [0.1, 0.6] }
     if (mode == "difficile") { toKeep = [0.6, 1] }
 
     lyrics = [];
