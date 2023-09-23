@@ -13,8 +13,11 @@ var checkboxElements = document.querySelectorAll('.choice-artist');
 var all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso"] // Projet NOLD Original
 all_artists = all_artists.concat(["Alpha Wann", "Freeze Corleone"]); // Rap Catéchisme Update
 all_artists = all_artists.concat(["Kaaris", "Booba"]); // Bagarre Update
-all_artists = all_artists.concat(["Bigflo & Oli", "Eddy De Pretto"]); // Gentil U pdate
+all_artists = all_artists.concat(["Bigflo & Oli", "Eddy De Pretto"]); // Gentil Update
 all_artists = all_artists.concat(["Tayc", "Dadju"]); // Lover Update
+all_artists = all_artists.concat(["Jul", "SCH"]); // Marseille Update
+all_artists = all_artists.concat(["Angèle", "Aya Nakamura"]); // Chanteuses Update
+all_artists = all_artists.concat(["Laylow", "Jazzy Bazz"]); // New Wave Update
 
 
 buttonSettings.addEventListener('click', () => {

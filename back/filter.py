@@ -97,7 +97,7 @@ def main():
                         continue
 
                     if ":" in section_header:
-                        if section_header.split(":")[1].strip().lower() != artiste_name.lower():
+                        if not any(chanteur in section_header.lower() for chanteur in artiste_name.lower().split(" ")):
                             continue
 
                     if ("..." in ligne1) or ("..." in ligne2):
