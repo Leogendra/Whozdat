@@ -10,8 +10,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 if not os.path.exists("lyrics"):
     os.makedirs("lyrics")
 
-artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo"]
-# artists = ["Orelsan"]
+artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo", "Jazzy Bazz", "Ziak", "Laylow", "Stromae", "Gazo", "Naza", "Tayc", "PNL"]
 # artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso"]
 nb_max_song = 100
 full_total_time = time.time()
@@ -20,7 +19,7 @@ processes = []
 for artist in artists:
 
         try:
-            command = [sys.executable, "python/api.py", str(artist), str(nb_max_song)]
+            command = [sys.executable, "back/api.py", str(artist), str(nb_max_song)]
             process = subprocess.Popen(command)
             processes.append(process)
 

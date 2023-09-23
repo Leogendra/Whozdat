@@ -10,7 +10,12 @@ const buttonValidate = document.querySelector('.settings-text-save');
 const messageErreur = document.querySelector('.message-erreur');
 
 var checkboxElements = document.querySelectorAll('.choice-artist');
-const all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "Kaaris", "Alpha Wann", "Freeze Corleone"]
+var all_artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso"] // Projet NOLD Original
+all_artists = all_artists.concat(["Alpha Wann", "Freeze Corleone"]); // Rap Catéchisme Update
+all_artists = all_artists.concat(["Kaaris", "Booba"]); // Bagarre Update
+all_artists = all_artists.concat(["Bigflo & Oli", "Eddy De Pretto"]); // Gentil U pdate
+all_artists = all_artists.concat(["Tayc", "Dadju"]); // Lover Update
+
 
 buttonSettings.addEventListener('click', () => {
     dialogSettings.showModal();
