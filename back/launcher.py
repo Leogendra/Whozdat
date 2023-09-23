@@ -10,7 +10,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 if not os.path.exists("lyrics"):
     os.makedirs("lyrics")
 
-artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo", "Jazzy Bazz", "Ziak", "Laylow", "Stromae", "Gazo", "Naza", "Tayc", "PNL"]
+artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Bigflo & Oli", "SCH", "Ninho", "Booba", "Kaaris", "Aya Nakamura", "Angèle", "Vald", "Koba LaD", "Hamza", "Jul", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Gringe", "Alpha Wann", "Freeze Corleone", "Lorenzo", "Jazzy Bazz", "Ziak", "Laylow", "Stromae", "Gazo", "Naza", "Tayc", "PNL", "Caballero & JeanJass"]
 # artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso"]
 nb_max_song = 100
 full_total_time = time.time()
@@ -31,5 +31,11 @@ for artist in artists:
 # Attendre que toutes les instances se terminent
 for process in processes:
     process.wait()
+
+print("\n\nFiltrage des paroles")
+
+command = [sys.executable, "back/filter.py"]
+process = subprocess.Popen(command)
+process.wait()
 
 print(BLUE + f"Temps total du programme : {time.time() - full_total_time:.1f}s" + RESET)

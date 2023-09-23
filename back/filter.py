@@ -29,6 +29,8 @@ def cleanText(line):
     while '(' in line and ')' in line:
         debut_parenthese = line.index('(')
         fin_parenthese = line.index(')')
+        if debut_parenthese > fin_parenthese:
+            return "[?]"
         line = line[:debut_parenthese] + line[fin_parenthese + 1:]
 
     line = line.replace("You might also like", "")
@@ -43,15 +45,15 @@ def getParagraphes(texte):
     lines = texte.strip().split('\n')
 
     for line in lines:
+        if line.strip() == "":
+            continue
         line = cleanText(line)
         if line.startswith("[") and line.endswith("]"):
             if nom_du_paragraphe is not None:
                 paragraphes.append((nom_du_paragraphe, lines_du_paragraphe))
-
+            
             nom_du_paragraphe = line.strip("[]")
             lines_du_paragraphe = []
-        elif line == "":
-            continue
         else:
             lines_du_paragraphe.append(line)
 
@@ -93,12 +95,15 @@ def main():
                     ligne1 = lignes[i]
                     ligne2 = lignes[i+1]
 
-                    if "refrain" in section_header.lower():
+                    if ("Refrain" in section_header.lower()) or ("Intro" in section_header.lower()) or ("Outro" in section_header.lower()):
                         continue
 
                     if ":" in section_header:
-                        if not any(chanteur in section_header.lower() for chanteur in artiste_name.lower().split(" ")):
+                        if not any(chanteur in section_header.lower() for chanteur in artiste_name.lower().split(" ") if len(chanteur) > 2):
                             continue
+
+                    if ("[?]" in ligne1) or ("[?]" in ligne2):
+                        continue
 
                     if ("..." in ligne1) or ("..." in ligne2):
                         continue

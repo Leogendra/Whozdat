@@ -196,11 +196,10 @@
 
 /* cellule de checkbox */
 .grid-cell {
-    display: flex;
+    /* display: flex;
     flex-direction: row;
-    /* justify-content: center; */
-    align-content: center;
-
+    align-content: center; */
+    overflow-x: hidden;
 }
 
 /* Checkbox */
@@ -212,10 +211,12 @@
 /* Nom artiste */
 .grid-cell label {
     position: relative;
+    display: inline-flex;
     padding-left: 1.5rem;
     line-height: 2;
+    font-weight: 100;
+    white-space: nowrap;
     cursor: pointer;
-    display: inline-flex;
 }
 
 /* Contours / checkbox */
@@ -236,7 +237,7 @@
 /* Label lorsque coché */
 .grid-cell input[type=checkbox]:checked+label {
     color: #db2626;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 /* Checkbox lorsque coché */
