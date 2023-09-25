@@ -59,6 +59,7 @@ def main():
                 print(RED + f"Erreur sur {artist} : {e}" + RESET)
                 print(RED + f"Redo, essai {i}" + RESET)
 
+        # Sauvegarder les lyrics
         json.dump(all_lyrics, open(lyrics_path, "w", encoding="utf-8"), indent=4, ensure_ascii=False)
 
         print(f"Got {len(all_lyrics)} lyrics from {artist}")

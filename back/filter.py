@@ -76,6 +76,12 @@ def main():
     for filename in os.listdir("lyrics"):
         artiste = json.load(open(f"lyrics/{filename}", "r", encoding="utf-8"))
         artiste_name = filename.replace(".json", "").replace("_", " ")
+        if "TEST" in artiste_name:
+            continue
+        
+        # garder que les 95% du tableau
+        artiste = artiste[:int(len(artiste) * 0.95)]
+        
         print(f"\nAnalyse de {artiste_name}")
 
         rimes = []
