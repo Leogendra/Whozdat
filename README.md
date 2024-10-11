@@ -1,4 +1,4 @@
-# Whozdat : le quizz des lyrics (v1.3)
+# Whozdat : le quizz des lyrics (v1.3.1)
 
 ### Disponible ici : https://whozdat.gatienh.fr
 
@@ -7,6 +7,4 @@ Choissisez 3 ou 4 artistes et devinez de qui viennent les paroles proposées
 
 - 20 artistes déjà disponibles : Nekfeu, Orelsan, Lomepal, Damso, Alpha Wann, Freeze Corleone, Kaaris, Booba, Bigflo & Oli, Caballero & JeanJass, Tayc, Dadju, Jul, SCH, Angèle, Aya Nakamura, Laylow, Jazzy Bazz, Gringe et Vald
 - Différents modes de jeu (Facile/Normal/Difficile) pour changer la popularité des paroles 
-- Interface pour Mobile  
-
-Plus d'artistes arrivent bientot !
+- Interface pour Mobile
