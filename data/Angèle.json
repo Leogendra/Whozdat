@@ -559,42 +559,6 @@
     },
     {
         "artiste": "Angèle",
-        "titre": "Perdus",
-        "date": "2019-10-10",
-        "url": "https://genius.com/Angele-perdus-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'vais avoir l'habitude mais ces derniers mois",
-        "ligne2": "J'ai flanché loin de toi, loin de moi"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Perdus",
-        "date": "2019-10-10",
-        "url": "https://genius.com/Angele-perdus-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Sans prendre la mesure de c'qui m'arrivait",
-        "ligne2": "Et c'est arrivé sans le voir venir"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Perdus",
-        "date": "2019-10-10",
-        "url": "https://genius.com/Angele-perdus-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Vouloir trop réussir, la pression du succès",
-        "ligne2": "Les gens, les autres, et nous qu'est-ce qu'on va devenir ?"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Perdus",
-        "date": "2019-10-10",
-        "url": "https://genius.com/Angele-perdus-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Ça me manque les jours tendres du début",
-        "ligne2": "À s'aimer pour la première fois"
-    },
-    {
-        "artiste": "Angèle",
         "titre": "Bruxelles je t'aime",
         "date": "2021-10-21",
         "url": "https://genius.com/Angele-bruxelles-je-taime-lyrics",
@@ -691,6 +655,42 @@
         "couplet": "Post-refrain",
         "ligne1": "Les villes sont belles , mais moi je ne pense qu'à toi",
         "ligne2": "Quand mon pays et ma ville me manquent, moi  je ne t'oublie pas"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Perdus",
+        "date": "2019-10-10",
+        "url": "https://genius.com/Angele-perdus-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'vais avoir l'habitude mais ces derniers mois",
+        "ligne2": "J'ai flanché loin de toi, loin de moi"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Perdus",
+        "date": "2019-10-10",
+        "url": "https://genius.com/Angele-perdus-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Sans prendre la mesure de c'qui m'arrivait",
+        "ligne2": "Et c'est arrivé sans le voir venir"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Perdus",
+        "date": "2019-10-10",
+        "url": "https://genius.com/Angele-perdus-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Vouloir trop réussir, la pression du succès",
+        "ligne2": "Les gens, les autres, et nous qu'est-ce qu'on va devenir ?"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Perdus",
+        "date": "2019-10-10",
+        "url": "https://genius.com/Angele-perdus-lyrics",
+        "couplet": "Outro",
+        "ligne1": "Ça me manque les jours tendres du début",
+        "ligne2": "À s'aimer pour la première fois"
     },
     {
         "artiste": "Angèle",
@@ -1045,6 +1045,132 @@
     },
     {
         "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Ce soir dans un taxi, par une dispute sans queue ni tête",
+        "ligne2": "La buée et la pluie se reflètent dans tes yeux fâchés"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Si tu disparais demain, mon cœur se sera vidé",
+        "ligne2": "Et il me glissera des mains, oh, tu vois, tu m'as bien changée"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "L'attente de tes appels me fait réaliser",
+        "ligne2": "Qu'j'serai plus jamais la même, depuis qu'je t'ai"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "On en reparlera demain, quand tu m'auras pardonnée",
+        "ligne2": "Je sais, j'ai été trop loin, première fois que j'te vois t'énerver"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Avant toi, c'était moins bien, demain, tu vas me manquer",
+        "ligne2": "C'est beau mais ça me rend dingue, et je n'cesse de me demander"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Avant toi, c'était moins bien, même si on veut la cité",
+        "ligne2": "Quand la lumière, elle s'éteint, on ne peut plus vraiment changer"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Ce soir, il est minuit, tes grands yeux noirs me font la tête",
+        "ligne2": "La buée et la pluie se collent à tes cheveux lâchés"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Si tu disparais demain, mon cœur se sera vidé",
+        "ligne2": "Et il me glissera des mains, j'pense à ça quand j'te vois fâchée"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Si j'te prends la tête, c'est que la mienne va exploser",
+        "ligne2": "Les autres, les traitres, depuis qu'ma vie est exposée"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "D'ailleurs, j'peux pas m'empêcher de composer comme exutoire",
+        "ligne2": "Racontant ma vie privée, et puis ensuite de m'en vouloir"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Avant toi, c'était moins bien, demain, tu vas me manquer",
+        "ligne2": "C'est beau mais ça me rend dingue, et je n'cesse de me demander"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Avant toi, c'était moins bien, même si on veut décider",
+        "ligne2": "Quand la lumière, elle s'éteint, on ne peut plus vraiment changer"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Ce soir, dans un taxi, notre histoire m'a fait perdre la tête",
+        "ligne2": "J'aimerais te voir sourire, pourquoi j'me sens si bête?"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Taxi",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-taxi-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Et même si c'est fini, si j'avais envie d'être honnête",
+        "ligne2": "Quand je te vois souffrir, j'aimerais guérir ta peine"
+    },
+    {
+        "artiste": "Angèle",
         "titre": "J'entends",
         "date": "2019-11-08",
         "url": "https://genius.com/Angele-jentends-lyrics",
@@ -1186,132 +1312,6 @@
         "couplet": "Outro",
         "ligne1": "J'l'entends, c'est un cauchemar, je pense",
         "ligne2": "Ce même bruit, j'en peux plus, il me tue, encore lui"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Ce soir dans un taxi, par une dispute sans queue ni tête",
-        "ligne2": "La buée et la pluie se reflètent dans tes yeux fâchés"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Si tu disparais demain, mon cœur se sera vidé",
-        "ligne2": "Et il me glissera des mains, oh, tu vois, tu m'as bien changée"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "L'attente de tes appels me fait réaliser",
-        "ligne2": "Qu'j'serai plus jamais la même, depuis qu'je t'ai"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "On en reparlera demain, quand tu m'auras pardonnée",
-        "ligne2": "Je sais, j'ai été trop loin, première fois que j'te vois t'énerver"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Avant toi, c'était moins bien, demain, tu vas me manquer",
-        "ligne2": "C'est beau mais ça me rend dingue, et je n'cesse de me demander"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Avant toi, c'était moins bien, même si on veut la cité",
-        "ligne2": "Quand la lumière, elle s'éteint, on ne peut plus vraiment changer"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Ce soir, il est minuit, tes grands yeux noirs me font la tête",
-        "ligne2": "La buée et la pluie se collent à tes cheveux lâchés"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Si tu disparais demain, mon cœur se sera vidé",
-        "ligne2": "Et il me glissera des mains, j'pense à ça quand j'te vois fâchée"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Si j'te prends la tête, c'est que la mienne va exploser",
-        "ligne2": "Les autres, les traitres, depuis qu'ma vie est exposée"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "D'ailleurs, j'peux pas m'empêcher de composer comme exutoire",
-        "ligne2": "Racontant ma vie privée, et puis ensuite de m'en vouloir"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Avant toi, c'était moins bien, demain, tu vas me manquer",
-        "ligne2": "C'est beau mais ça me rend dingue, et je n'cesse de me demander"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Avant toi, c'était moins bien, même si on veut décider",
-        "ligne2": "Quand la lumière, elle s'éteint, on ne peut plus vraiment changer"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Ce soir, dans un taxi, notre histoire m'a fait perdre la tête",
-        "ligne2": "J'aimerais te voir sourire, pourquoi j'me sens si bête?"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Taxi",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-taxi-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Et même si c'est fini, si j'avais envie d'être honnête",
-        "ligne2": "Quand je te vois souffrir, j'aimerais guérir ta peine"
     },
     {
         "artiste": "Angèle",
@@ -1553,7 +1553,7 @@
         "date": "2021-12-10",
         "url": "https://genius.com/Angele-solo-lyrics",
         "couplet": "Pont",
-        "ligne1": "Et la prochaine fois, c'est promis, on pourra réinventer les rêves",
+        "ligne1": "Et la prochaine fois, c'est promis, on pourra réinventer les règles",
         "ligne2": "On choisit ce qu'on définit, l'amour, l'amitié, le reste"
     },
     {
@@ -1837,6 +1837,42 @@
     },
     {
         "artiste": "Angèle",
+        "titre": "Plus de sens",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et je ne vais pas vous mentir, la vie sans vous est triste à mourir",
+        "ligne2": "Ce que je dis est vrai et si on le pouvait, on se retrouverait"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Plus de sens",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et je ne vais pas vous mentir, la vie sans vous est triste à mourir",
+        "ligne2": "Ce que je dis est vrai et si on le pouvait, on se retrouverait"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Plus de sens",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Quand on pourra fêter en grand",
+        "ligne2": "Quand on aura retrouvé l'important"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Plus de sens",
+        "date": "2021-12-03",
+        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et je ne vais pas vous mentir, la vie sans vous est triste à mourir",
+        "ligne2": "Ce que je dis est vrai et si on le pouvait, on se retrouverait"
+    },
+    {
+        "artiste": "Angèle",
         "titre": "Pensées positives",
         "date": "2021-12-03",
         "url": "https://genius.com/Angele-pensees-positives-lyrics",
@@ -2005,42 +2041,6 @@
         "couplet": "Couplet 3",
         "ligne1": "Il faut rester solide, de tout, on se souvient",
         "ligne2": "Et soyons réalistes, le monde nous appartient"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Plus de sens",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Et je ne vais pas vous mentir, la vie sans vous est triste à mourir",
-        "ligne2": "Ce que je dis est vrai et si on le pouvait, on se retrouverait"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Plus de sens",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Et je ne vais pas vous mentir, la vie sans vous est triste à mourir",
-        "ligne2": "Ce que je dis est vrai et si on le pouvait, on se retrouverait"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Plus de sens",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Quand on pourra fêter en grand",
-        "ligne2": "Quand on aura retrouvé l'important"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Plus de sens",
-        "date": "2021-12-03",
-        "url": "https://genius.com/Angele-plus-de-sens-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Et je ne vais pas vous mentir, la vie sans vous est triste à mourir",
-        "ligne2": "Ce que je dis est vrai et si on le pouvait, on se retrouverait"
     },
     {
         "artiste": "Angèle",
@@ -2350,78 +2350,6 @@
     },
     {
         "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Elle était occupée à couper du pécu",
-        "ligne2": "Car on lui piquait les fesses, une victime de la mode"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Lumière, scène 2, l'as de trèfle lui propose",
-        "ligne2": "Une toute nouvelle donne et en voici la cause"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tellement d'efforts et pour quels résultats ?",
-        "ligne2": "Elle perd de l'oseille au lieu de perdre du poids"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Dominique, réplique, puis très vite m'explique",
-        "ligne2": "Qu'elle veut être la réplique d'une créature de clip"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Ainsi font font font les petites filles coquettes",
-        "ligne2": "Elle suivent un modèle qui leur fait perdre la tête"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Le régime, le jogging, la liposuccion",
-        "ligne2": "Sont à tester mais il faut faire attention"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Espérons que vous aurez compris",
-        "ligne2": "Les bases très claires de ce code de déontologie"
-    },
-    {
-        "artiste": "Angèle",
-        "titre": "Victime de la mode",
-        "date": "2017-11-27",
-        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Prendre ou perdre quelques kilos",
-        "ligne2": "L'essentiel est vraiment d'être bien dans sa peau"
-    },
-    {
-        "artiste": "Angèle",
         "titre": "Patrick",
         "date": "2022-11-18",
         "url": "https://genius.com/Angele-patrick-lyrics",
@@ -2539,6 +2467,78 @@
     },
     {
         "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Elle était occupée à couper du pécu",
+        "ligne2": "Car on lui piquait les fesses, une victime de la mode"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Lumière, scène 2, l'as de trèfle lui propose",
+        "ligne2": "Une toute nouvelle donne et en voici la cause"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tellement d'efforts et pour quels résultats ?",
+        "ligne2": "Elle perd de l'oseille au lieu de perdre du poids"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Dominique, réplique, puis très vite m'explique",
+        "ligne2": "Qu'elle veut être la réplique d'une créature de clip"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Ainsi font font font les petites filles coquettes",
+        "ligne2": "Elle suivent un modèle qui leur fait perdre la tête"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Le régime, le jogging, la liposuccion",
+        "ligne2": "Sont à tester mais il faut faire attention"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Espérons que vous aurez compris",
+        "ligne2": "Les bases très claires de ce code de déontologie"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Victime de la mode",
+        "date": "2017-11-27",
+        "url": "https://genius.com/Angele-victime-de-la-mode-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Prendre ou perdre quelques kilos",
+        "ligne2": "L'essentiel est vraiment d'être bien dans sa peau"
+    },
+    {
+        "artiste": "Angèle",
         "titre": "Promets-moi",
         "date": "2022-11-18",
         "url": "https://genius.com/Angele-promets-moi-lyrics",
@@ -2626,5 +2626,59 @@
         "couplet": "Verse 2",
         "ligne1": "Caught in this pool held in your eyes",
         "ligne2": "Caught like a fool without a line"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Désenchantée",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Angele-desenchantee-lyrics",
+        "couplet": "Pré-Refrain",
+        "ligne1": "Si je dois tomber de haut que ma chute soit lente",
+        "ligne2": "Je n'ai trouvé de repos que dans l'indifférence"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Désenchantée",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Angele-desenchantee-lyrics",
+        "couplet": "Pré-Refrain",
+        "ligne1": "Pourtant, je voudrais retrouver l'innocence",
+        "ligne2": "Mais rien n'a de sens, et rien ne va"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Désenchantée",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Angele-desenchantee-lyrics",
+        "couplet": "Pré-Refrain",
+        "ligne1": "Si la mort est un mystère, la vie n'a rien de tendre",
+        "ligne2": "Si le ciel a un enfer, le ciel peut bien m'attendre"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Désenchantée",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Angele-desenchantee-lyrics",
+        "couplet": "Pré-Refrain",
+        "ligne1": "Dis-moi, dans ces vents contraires, comment s'y prendre ?",
+        "ligne2": "Plus rien n'a de sens, plus rien ne va"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Désenchantée",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Angele-desenchantee-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Je cherche une âme qui pourra m'aider",
+        "ligne2": "Je suis d'une génération désenchantée"
+    },
+    {
+        "artiste": "Angèle",
+        "titre": "Désenchantée",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Angele-desenchantee-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tous mes idéaux : des mots abîmés",
+        "ligne2": "Je cherche une âme qui pourra m'aider"
     }
 ]

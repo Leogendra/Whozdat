@@ -802,21 +802,21 @@
     },
     {
         "artiste": "SCH",
-        "titre": "John Lennon",
-        "date": "2015-03-25",
-        "url": "https://genius.com/Sch-john-lennon-lyrics",
-        "couplet": "Couplet unique",
-        "ligne1": "Faut qu'on quitte la France à l'aise, ai-je raison d'gérer ça ?",
-        "ligne2": "J'ai des vampires en bas qui boiraient l'sang d'Mère Teresa"
-    },
-    {
-        "artiste": "SCH",
         "titre": "Morpheus",
         "date": "2015-11-24",
         "url": "https://genius.com/Sch-morpheus-lyrics",
         "couplet": "Refrain",
         "ligne1": "J'suis Neo, Morpheus vend d'la cocaïne",
         "ligne2": "Tu l'as dans ton nez, ton nez, ton nez, ton nez"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "John Lennon",
+        "date": "2015-03-25",
+        "url": "https://genius.com/Sch-john-lennon-lyrics",
+        "couplet": "Couplet unique",
+        "ligne1": "Faut qu'on quitte la France à l'aise, ai-je raison d'gérer ça ?",
+        "ligne2": "J'ai des vampires en bas qui boiraient l'sang d'Mère Teresa"
     },
     {
         "artiste": "SCH",
@@ -1162,6 +1162,24 @@
     },
     {
         "artiste": "SCH",
+        "titre": "Je la connais",
+        "date": "2016-04-25",
+        "url": "https://genius.com/Sch-je-la-connais-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'ai vu son boule, son prénom, j'en ai rien à foutre",
+        "ligne2": "Je sais, j'avoue, c'est toi que j'veux maintenant, maintenant"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Je la connais",
+        "date": "2016-04-25",
+        "url": "https://genius.com/Sch-je-la-connais-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oh, oh, oh, oh, oh, oh, oh, oh, oh\"",
+        "ligne2": "J'me demande vraiment si c'est pas pas un hologramme"
+    },
+    {
+        "artiste": "SCH",
         "titre": "Poupée russe",
         "date": "2017-04-26",
         "url": "https://genius.com/Sch-poupee-russe-lyrics",
@@ -1258,24 +1276,6 @@
         "couplet": "Refrain",
         "ligne1": "J'rêvais d'plein d'fric dans des sacs, aujourd'hui, on a tout",
         "ligne2": "J'vois la traîtrise dans ton regard, j'ai pas l'moindre doute"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Je la connais",
-        "date": "2016-04-25",
-        "url": "https://genius.com/Sch-je-la-connais-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'ai vu son boule, son prénom, j'en ai rien à foutre",
-        "ligne2": "Je sais, j'avoue, c'est toi que j'veux maintenant, maintenant"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Je la connais",
-        "date": "2016-04-25",
-        "url": "https://genius.com/Sch-je-la-connais-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Oh, oh, oh, oh, oh, oh, oh, oh, oh\"",
-        "ligne2": "J'me demande vraiment si c'est pas pas un hologramme"
     },
     {
         "artiste": "SCH",
@@ -1483,6 +1483,87 @@
         "couplet": "Refrain",
         "ligne1": "T'es outillé mais t'es pas mécano",
         "ligne2": "Toute l'année, faire du papier, oh"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Loup noir",
+        "date": "2021-03-15",
+        "url": "https://genius.com/Sch-loup-noir-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Les sourires et les faux semblants et quelques gouttes ont suffi",
+        "ligne2": "À l'élixir pour être mortel, que des caisses noires dans l'cortège"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Loup noir",
+        "date": "2021-03-15",
+        "url": "https://genius.com/Sch-loup-noir-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tu veux tuer un Homme ? Prends du 'sky et des faux espoirs",
+        "ligne2": "Et quand les mômes s'perdent dans les sinueux couloirs des enfers"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'crois qu'tu veux qu'on baise  J'crois qu'tu veux qu'on baise",
+        "ligne2": "Prends tout l'tiekson, fils de putain, j'garde mon Himalaya"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'crois qu'ce flic m'parle mal parce qu'il sait qu'j'le hais",
+        "ligne2": "Souvent, la vie m'a fait du mal, j'l'aime autant qu'j'la hais"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "C'est dur d'parler à un bout d'marbre, c'est dur d'parler à un gosse",
+        "ligne2": "Lui-dires qu'papa s'est pris une balle, il t'emmènera plus à l'école"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Pauvreté, misère sociale, fiston pète un fusible",
+        "ligne2": "Ton père peut pas s'racheter un foie, il doit d'jà payer tes études"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'fais le tour du monde, tu trouves ça détestable ? Non",
+        "ligne2": "J'le vois comme un grand homme, j'nous vois comme des esclaves, non"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'crois qu'tu veux qu'on baise  J'crois qu'tu veux qu'on baise",
+        "ligne2": "Prends tout l'tiekson, fils de putain, j'garde mon Himalaya"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Himalaya",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-himalaya-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'crois qu'ce flic m'parle mal parce qu'il sait qu'j'le hais",
+        "ligne2": "Souvent, la vie m'a fait du mal, j'l'aime autant qu'j'la hais"
     },
     {
         "artiste": "SCH",
@@ -1720,87 +1801,6 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Loup noir",
-        "date": "2021-03-15",
-        "url": "https://genius.com/Sch-loup-noir-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Les sourires et les faux semblants et quelques gouttes ont suffi",
-        "ligne2": "À l'élixir pour être mortel, que des caisses noires dans l'cortège"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Loup noir",
-        "date": "2021-03-15",
-        "url": "https://genius.com/Sch-loup-noir-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Tu veux tuer un Homme ? Prends du 'sky et des faux espoirs",
-        "ligne2": "Et quand les mômes s'perdent dans les sinueux couloirs des enfers"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'crois qu'tu veux qu'on baise  J'crois qu'tu veux qu'on baise",
-        "ligne2": "Prends tout l'tiekson, fils de putain, j'garde mon Himalaya"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'crois qu'ce flic m'parle mal parce qu'il sait qu'j'le hais",
-        "ligne2": "Souvent, la vie m'a fait du mal, j'l'aime autant qu'j'la hais"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "C'est dur d'parler à un bout d'marbre, c'est dur d'parler à un gosse",
-        "ligne2": "Lui-dires qu'papa s'est pris une balle, il t'emmènera plus à l'école"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Pauvreté, misère sociale, fiston pète un fusible",
-        "ligne2": "Ton père peut pas s'racheter un foie, il doit d'jà payer tes études"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'fais le tour du monde, tu trouves ça détestable ? Non",
-        "ligne2": "J'le vois comme un grand homme, j'nous vois comme des esclaves, non"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'crois qu'tu veux qu'on baise  J'crois qu'tu veux qu'on baise",
-        "ligne2": "Prends tout l'tiekson, fils de putain, j'garde mon Himalaya"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Himalaya",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-himalaya-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'crois qu'ce flic m'parle mal parce qu'il sait qu'j'le hais",
-        "ligne2": "Souvent, la vie m'a fait du mal, j'l'aime autant qu'j'la hais"
-    },
-    {
-        "artiste": "SCH",
         "titre": "Massimo",
         "date": "2015-05-10",
         "url": "https://genius.com/Sch-massimo-lyrics",
@@ -1816,6 +1816,186 @@
         "couplet": "Outro",
         "ligne1": "On veut d'l'or et une pute câline",
         "ligne2": "Bébé, l'amour n'remplace pas l'khalis"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Viser la lune, un sourire au diable",
+        "ligne2": "J'ai commis des fautes et j'ai fait face à l'orage"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Seul dans la vallée tant qu'va durer l'année",
+        "ligne2": "J'connais le bruit du charbon, j'connais la vie dure"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "À toute allure, mon sac est plein d'thunes",
+        "ligne2": "On s'allie, on sévit et c'est pas contre-nature"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Des fous rires aux larmes, des peines à la joie",
+        "ligne2": "Mon flingue me rassure et j'attends qu'se lève le jour"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Vivre et mourir, du vent sur la dune",
+        "ligne2": "Porté par le sable, violent donc sanguinolent"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Pour gagner à terme, ils veulent voler la Terre",
+        "ligne2": "J'ai cogné ma tête, j'me suis réveillé millionnaire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Des millions d'amis, des millions d'ennemis",
+        "ligne2": "T'as tout fait pour y être, on a tout fait pour partir"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tu connais ma bande, on veut tenir le center",
+        "ligne2": "C'est tout pour la bande, laissez-moi partir"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sur le rivage , mes potos sont tis-par",
+        "ligne2": "Au son des guitares, guitares, rappelle-toi, hey"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sur le rivage , j'crois qu'en mon Beretta",
+        "ligne2": "On a quitté l'école, quitté l'école, tout pour le code"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Pire que l'enfer, pire que le pire",
+        "ligne2": "Sous prométhazine, tout n'est pas plus facile"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Si la chance va m'sourire, j'veux pas tellement l'savoir",
+        "ligne2": "J'ai porté mon fardeau, j'ai porté mes soucis"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Tu sais d'où j'viens, c'est hard, tu n'as qu'à t'nir ma main",
+        "ligne2": "Les torrents, les avalanches, tant qu'mon ego va bien"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sur le rivage , mes potos sont tis-par",
+        "ligne2": "Au son des guitares, guitares, rappelle-toi, hey"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Le code",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-le-code-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sur le rivage , j'crois qu'en mon Beretta",
+        "ligne2": "On a quitté l'école, quitté l'école, tout pour le code"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prêt à partir",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
+        "couplet": "Couplet 1 : Sch",
+        "ligne1": "Classe de ministre dans les endroits sordides",
+        "ligne2": "T'es prêt à partir comme un puto qu'on a mis à la porte"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prêt à partir",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
+        "couplet": "Couplet 1 : Sch",
+        "ligne1": "J'vais faire la Une et j'ai vu mes gens morts",
+        "ligne2": "J'ai r'gardé la Lune, au paradis : les soldats d'infortune"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prêt à partir",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
+        "couplet": "Refrain : Ninho & Sch",
+        "ligne1": "J'ai traîné la moitié d'ma vie",
+        "ligne2": "J'leur ai tout volé pendant la nuit"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prêt à partir",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
+        "couplet": "Refrain : Ninho & Sch",
+        "ligne1": "J'ai traîné la moitié d'ma vie",
+        "ligne2": "J'leur ai tout volé pendant la nuit"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prêt à partir",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
+        "couplet": "Refrain : Ninho & Sch",
+        "ligne1": "Mais t'as pas idée, en vrai, j'suis prêt à partir",
+        "ligne2": "J'sais déjà à combien, combien elle m'appartient"
     },
     {
         "artiste": "SCH",
@@ -2035,186 +2215,6 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Prêt à partir",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
-        "couplet": "Couplet 1 : Sch",
-        "ligne1": "Classe de ministre dans les endroits sordides",
-        "ligne2": "T'es prêt à partir comme un puto qu'on a mis à la porte"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Prêt à partir",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
-        "couplet": "Couplet 1 : Sch",
-        "ligne1": "J'vais faire la Une et j'ai vu mes gens morts",
-        "ligne2": "J'ai r'gardé la Lune, au paradis : les soldats d'infortune"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Prêt à partir",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
-        "couplet": "Refrain : Ninho & Sch",
-        "ligne1": "J'ai traîné la moitié d'ma vie",
-        "ligne2": "J'leur ai tout volé pendant la nuit"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Prêt à partir",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
-        "couplet": "Refrain : Ninho & Sch",
-        "ligne1": "J'ai traîné la moitié d'ma vie",
-        "ligne2": "J'leur ai tout volé pendant la nuit"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Prêt à partir",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-pret-a-partir-lyrics",
-        "couplet": "Refrain : Ninho & Sch",
-        "ligne1": "Mais t'as pas idée, en vrai, j'suis prêt à partir",
-        "ligne2": "J'sais déjà à combien, combien elle m'appartient"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Viser la lune, un sourire au diable",
-        "ligne2": "J'ai commis des fautes et j'ai fait face à l'orage"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Seul dans la vallée tant qu'va durer l'année",
-        "ligne2": "J'connais le bruit du charbon, j'connais la vie dure"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "À toute allure, mon sac est plein d'thunes",
-        "ligne2": "On s'allie, on sévit et c'est pas contre-nature"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Des fous rires aux larmes, des peines à la joie",
-        "ligne2": "Mon flingue me rassure et j'attends qu'se lève le jour"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Vivre et mourir, du vent sur la dune",
-        "ligne2": "Porté par le sable, violent donc sanguinolent"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Pour gagner à terme, ils veulent voler la Terre",
-        "ligne2": "J'ai cogné ma tête, j'me suis réveillé millionnaire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Des millions d'amis, des millions d'ennemis",
-        "ligne2": "T'as tout fait pour y être, on a tout fait pour partir"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tu connais ma bande, on veut tenir le center",
-        "ligne2": "C'est tout pour la bande, laissez-moi partir"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sur le rivage , mes potos sont tis-par",
-        "ligne2": "Au son des guitares, guitares, rappelle-toi, hey"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sur le rivage , j'crois qu'en mon Beretta",
-        "ligne2": "On a quitté l'école, quitté l'école, tout pour le code"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Pire que l'enfer, pire que le pire",
-        "ligne2": "Sous prométhazine, tout n'est pas plus facile"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Si la chance va m'sourire, j'veux pas tellement l'savoir",
-        "ligne2": "J'ai porté mon fardeau, j'ai porté mes soucis"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Tu sais d'où j'viens, c'est hard, tu n'as qu'à t'nir ma main",
-        "ligne2": "Les torrents, les avalanches, tant qu'mon ego va bien"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sur le rivage , mes potos sont tis-par",
-        "ligne2": "Au son des guitares, guitares, rappelle-toi, hey"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Le code",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-le-code-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sur le rivage , j'crois qu'en mon Beretta",
-        "ligne2": "On a quitté l'école, quitté l'école, tout pour le code"
-    },
-    {
-        "artiste": "SCH",
         "titre": "Mayday",
         "date": "2019-11-29",
         "url": "https://genius.com/Sch-mayday-lyrics",
@@ -2284,60 +2284,6 @@
         "couplet": "Pré-refrain : SCH & Ninho",
         "ligne1": "Hier, c'était la dèch' , j'avais une anti-sèche",
         "ligne2": "Un SG puis, un 'èg et on fait tomber la fraîche"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "La mallette",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Sch-la-mallette-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'pousse pas la fonte je la traîne, normal",
-        "ligne2": "J'veux pas la vendre mais j'm'entête, j'en dors mal"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "La mallette",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Sch-la-mallette-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'pousse pas la fonte je la traîne, normal",
-        "ligne2": "J'veux pas la vendre mais j'm'entête"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "La mallette",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Sch-la-mallette-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Donc pédé donne la mallette, mallette, mallette, arrête",
-        "ligne2": "On sait qui tient les manettes, arrête, donne la mallette, allez"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "La mallette",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Sch-la-mallette-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'pousse pas la fonte je la traîne, normal",
-        "ligne2": "J'veux pas la vendre mais j'm'entête, j'en dors mal"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "La mallette",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Sch-la-mallette-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'pousse pas la fonte je la traîne, normal",
-        "ligne2": "J'veux pas la vendre mais j'm'entête"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "La mallette",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Sch-la-mallette-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Donc pédé donne la mallette, mallette, mallette, arrête",
-        "ligne2": "On sait qui tient les manettes, arrête, donne la mallette, allez"
     },
     {
         "artiste": "SCH",
@@ -2494,66 +2440,57 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
-        "couplet": "Intro",
-        "ligne1": "Ils ont fait les rudeboys, non, non, non",
-        "ligne2": "J'sais qu'ils ont les couilles à Ru-Paul"
+        "titre": "La mallette",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Sch-la-mallette-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'pousse pas la fonte je la traîne, normal",
+        "ligne2": "J'veux pas la vendre mais j'm'entête, j'en dors mal"
     },
     {
         "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
+        "titre": "La mallette",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Sch-la-mallette-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Puto, j'suis pas d'ton avis , ouais",
-        "ligne2": "Millionnaires, on s'rait tous heureux , ouais"
+        "ligne1": "J'pousse pas la fonte je la traîne, normal",
+        "ligne2": "J'veux pas la vendre mais j'm'entête"
     },
     {
         "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
+        "titre": "La mallette",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Sch-la-mallette-lyrics",
         "couplet": "Refrain",
-        "ligne1": "J's'rais par terre, j'aurais rien qu'des amis, eh",
-        "ligne2": "Elle connait l'gang, elle enlève ses habits, ouais, ouais"
+        "ligne1": "Donc pédé donne la mallette, mallette, mallette, arrête",
+        "ligne2": "On sait qui tient les manettes, arrête, donne la mallette, allez"
     },
     {
         "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
+        "titre": "La mallette",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Sch-la-mallette-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Donc, j'suis pas d'ton avis, ouais",
-        "ligne2": "Millionnaires, on s'rait tous heureux, ouais"
+        "ligne1": "J'pousse pas la fonte je la traîne, normal",
+        "ligne2": "J'veux pas la vendre mais j'm'entête, j'en dors mal"
     },
     {
         "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
+        "titre": "La mallette",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Sch-la-mallette-lyrics",
         "couplet": "Refrain",
-        "ligne1": "J's'rais par terre, j'aurais rien qu'des amis",
-        "ligne2": "Elle connait l'gang, elle enlève ses habits, ouais, ouais"
+        "ligne1": "J'pousse pas la fonte je la traîne, normal",
+        "ligne2": "J'veux pas la vendre mais j'm'entête"
     },
     {
         "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
+        "titre": "La mallette",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Sch-la-mallette-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Donc, j'suis pas d'ton avis, ouais",
-        "ligne2": "Millionnaires, on s'rait tous heureux, ouais"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Gedeon",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-gedeon-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J's'rais par terre, j'aurais rien qu'des amis, ouais",
-        "ligne2": "Elle connait l'gang, elle enlève ses habits, ouais, ouais"
+        "ligne1": "Donc pédé donne la mallette, mallette, mallette, arrête",
+        "ligne2": "On sait qui tient les manettes, arrête, donne la mallette, allez"
     },
     {
         "artiste": "SCH",
@@ -2656,129 +2593,66 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
+        "couplet": "Intro",
+        "ligne1": "Ils ont fait les rudeboys, non, non, non",
+        "ligne2": "J'sais qu'ils ont les couilles à Ru-Paul"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
         "couplet": "Refrain",
-        "ligne1": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire",
-        "ligne2": "T'es mort, on est mort de rire"
+        "ligne1": "Puto, j'suis pas d'ton avis , ouais",
+        "ligne2": "Millionnaires, on s'rait tous heureux , ouais"
     },
     {
         "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Ce soir, tu nous mets du champagne",
-        "ligne2": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire"
+        "ligne1": "J's'rais par terre, j'aurais rien qu'des amis, eh",
+        "ligne2": "Elle connait l'gang, elle enlève ses habits, ouais, ouais"
     },
     {
         "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
         "couplet": "Refrain",
-        "ligne1": "T'es mort, on est mort de rire",
-        "ligne2": "Ce soir, tu nous mets dix tapins"
+        "ligne1": "Donc, j'suis pas d'ton avis, ouais",
+        "ligne2": "Millionnaires, on s'rait tous heureux, ouais"
     },
     {
         "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
         "couplet": "Refrain",
-        "ligne1": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire",
-        "ligne2": "T'es mort, on est mort de rire"
+        "ligne1": "J's'rais par terre, j'aurais rien qu'des amis",
+        "ligne2": "Elle connait l'gang, elle enlève ses habits, ouais, ouais"
     },
     {
         "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Ce soir, tu nous mets du champagne",
-        "ligne2": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire"
+        "ligne1": "Donc, j'suis pas d'ton avis, ouais",
+        "ligne2": "Millionnaires, on s'rait tous heureux, ouais"
     },
     {
         "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "titre": "Gedeon",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-gedeon-lyrics",
         "couplet": "Refrain",
-        "ligne1": "T'es mort, on est mort de rire",
-        "ligne2": "Ce soir, tu nous mets dix tapins"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire",
-        "ligne2": "T'es mort, on est mort de rire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Ce soir, tu nous mets du champagne",
-        "ligne2": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "T'es mort, on est mort de rire",
-        "ligne2": "Ce soir, tu nous mets dix tapins"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Pont 1",
-        "ligne1": "Sers-moi un thé, j'ai grandi, pas un radis",
-        "ligne2": "Tu fais boxe thaï et karaté, j'ai un SigSau' automatic"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Pont 1",
-        "ligne1": "T'es un maux d'tête, nous, on t'évite Saint-Honoré, Rue Paradis",
-        "ligne2": "J'ai vici avant vidi, viens qu'on t'montre c'quoi un rrain-te"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire",
-        "ligne2": "T'es mort, on est mort de rire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Ce soir, tu nous mets du champagne",
-        "ligne2": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Mort de rire",
-        "date": "2018-07-20",
-        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "T'es mort, on est mort de rire",
-        "ligne2": "Ce soir tu nous mets dix tapins"
+        "ligne1": "J's'rais par terre, j'aurais rien qu'des amis, ouais",
+        "ligne2": "Elle connait l'gang, elle enlève ses habits, ouais, ouais"
     },
     {
         "artiste": "SCH",
@@ -2926,6 +2800,132 @@
     },
     {
         "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire",
+        "ligne2": "T'es mort, on est mort de rire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ce soir, tu nous mets du champagne",
+        "ligne2": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "T'es mort, on est mort de rire",
+        "ligne2": "Ce soir, tu nous mets dix tapins"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire",
+        "ligne2": "T'es mort, on est mort de rire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ce soir, tu nous mets du champagne",
+        "ligne2": "J'sais qu'elle va revenir et j'sais qu'elle va rien me dire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "T'es mort, on est mort de rire",
+        "ligne2": "Ce soir, tu nous mets dix tapins"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire",
+        "ligne2": "T'es mort, on est mort de rire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ce soir, tu nous mets du champagne",
+        "ligne2": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "T'es mort, on est mort de rire",
+        "ligne2": "Ce soir, tu nous mets dix tapins"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Pont 1",
+        "ligne1": "Sers-moi un thé, j'ai grandi, pas un radis",
+        "ligne2": "Tu fais boxe thaï et karaté, j'ai un SigSau' automatic"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Pont 1",
+        "ligne1": "T'es un maux d'tête, nous, on t'évite Saint-Honoré, Rue Paradis",
+        "ligne2": "J'ai vici avant vidi, viens qu'on t'montre c'quoi un rrain-te"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire",
+        "ligne2": "T'es mort, on est mort de rire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ce soir, tu nous mets du champagne",
+        "ligne2": "J'sais qu'elle va revenir  et j'sais qu'elle va rien me dire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Mort de rire",
+        "date": "2018-07-20",
+        "url": "https://genius.com/Sch-mort-de-rire-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "T'es mort, on est mort de rire",
+        "ligne2": "Ce soir tu nous mets dix tapins"
+    },
+    {
+        "artiste": "SCH",
         "titre": "VNTM",
         "date": "2018-04-24",
         "url": "https://genius.com/Sch-vntm-lyrics",
@@ -2959,150 +2959,6 @@
         "couplet": "Outro",
         "ligne1": "J'ai perdu l'sommeil, qu'est-c'qu'on aurait pas fait pour l'respect ?",
         "ligne2": "Jeune, j'aurais dû avoir peur d'percer"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Un blauer, un cuir noir, j'tue comme Nino Brown",
-        "ligne2": "Ta bitch réclame ta CB, nue dans la baignoire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'suis venu, j'ai vu, j'ai ué-t, là, j'rappe en peignoir",
-        "ligne2": "Mon bigo qui fait \"brr, brr\" : j'rappellerai plus tard"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'me r'garde plus dans les yeux, comme si c'était ma faute",
-        "ligne2": "Tu connais quoi d'ma vie, d'puis qu't'en es sorti ?"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'parle aux étoiles du Rooftop, il va manquer du temps",
-        "ligne2": "Mes potes qu'étaient d'dans sont toujours pas sortis"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Un blauer, un cuir noir, j'tue comme Nino Brown",
-        "ligne2": "J'suis venu, j'ai vu, j'ai ué-t, là j'rappe en peignoir"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pull-pull up des bitchs dans mon Range Rov'",
-        "ligne2": "Des eu', des cagoules et pleins d'gloves, oh"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'me r'garde plus dans les yeux, comme si c'était ma faute",
-        "ligne2": "Tu connais quoi d'ma vie, d'puis qu't'en es sorti ?"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'parle aux étoiles du Rooftop, il va manquer du temps",
-        "ligne2": "Mes potes qu'étaient d'dans sont toujours pas sortis"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Un blauer, un cuir noir, j'tue comme Nino Brown",
-        "ligne2": "J'suis venu, j'ai vu, j'ai ué-t, là, j'rappe en peignoir"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Nino Brown",
-        "date": "2017-05-05",
-        "url": "https://genius.com/Sch-nino-brown-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pu-pull up des bitchs dans mon Range Rov'",
-        "ligne2": "Des eu', des cagoules et pleins d'gloves, oh"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Quand on était mômes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "C'était moi mes kheys, tous mes kheys",
-        "ligne2": "On s'serait vus ensemble dix ans plus tard"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Quand on était mômes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "On s'croyait invincibles quand on était mômes",
-        "ligne2": "Insouciant, parents soucieux, de la veille à l'aube"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Quand on était mômes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Tailles-moi des pipes, j't'emmenerais en vacances",
-        "ligne2": "On rentre on laisse la foule en état de transe"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Quand on était mômes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "C'était moi mes kheys, tous mes kheys",
-        "ligne2": "On s'serait vus ensemble dix ans plus tard"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Quand on était mômes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "On s'croyait invincibles quand on était mômes",
-        "ligne2": "Insouciant, parents soucieux, de la veille à l'aube"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Quand on était mômes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Tailles-moi des pipes, j't'emmenerais en vacances",
-        "ligne2": "On rentre on laisse la foule en état de transe"
     },
     {
         "artiste": "SCH",
@@ -3238,6 +3094,60 @@
         "couplet": "Outro",
         "ligne1": "Maintenant, maman cauchemarde jour et nuit",
         "ligne2": "La nuit, on voit les sommes, on voit les hommes en gris"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Quand on était mômes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "C'était moi mes kheys, tous mes kheys",
+        "ligne2": "On s'serait vus ensemble dix ans plus tard"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Quand on était mômes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "On s'croyait invincibles quand on était mômes",
+        "ligne2": "Insouciant, parents soucieux, de la veille à l'aube"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Quand on était mômes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Tailles-moi des pipes, j't'emmenerais en vacances",
+        "ligne2": "On rentre on laisse la foule en état de transe"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Quand on était mômes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "C'était moi mes kheys, tous mes kheys",
+        "ligne2": "On s'serait vus ensemble dix ans plus tard"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Quand on était mômes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "On s'croyait invincibles quand on était mômes",
+        "ligne2": "Insouciant, parents soucieux, de la veille à l'aube"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Quand on était mômes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-quand-on-etait-momes-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Tailles-moi des pipes, j't'emmenerais en vacances",
+        "ligne2": "On rentre on laisse la foule en état de transe"
     },
     {
         "artiste": "SCH",
@@ -3382,6 +3292,69 @@
         "couplet": "Pré-refrain",
         "ligne1": "J'ai des soucis, j'ai du Goyard, de pare-balles, on est couverts",
         "ligne2": "Une casserole et ça fait du crack"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'tire et les balles traversent , j'suis l'odeur et l'bruit",
+        "ligne2": "Viens on cause en privé, quand y'a des gens autour, rien qu'tu cries"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'vais faire la part des choses, ivresse et Hennessy",
+        "ligne2": "J'crois qu'on y perdra la foi à chercher la trésorerie"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Askip, t'es un rigolo, t'es client sur le négatif",
+        "ligne2": "C'est l'béton qui crie akha, moi, j'suis l'odeur et l'bruit"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Avant d'partir d'une cirrhose, ivresse, Hennessy",
+        "ligne2": "Comme une abeille dans du sirop, j'veux m'en aller d'ici"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Pont",
+        "ligne1": "J'rendrai ta vie moins morose, chérie si tu m'astiques",
+        "ligne2": "J'ai trouvé remède à mes névroses, ivresse, Hennessy"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'vais faire la part des choses, ivresse et Hennessy",
+        "ligne2": "J'crois qu'on y perdra la foi à chercher la trésorerie"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Ivresse & Hennessy",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Askip, t'es un rigolo, t'es client sur le négatif",
+        "ligne2": "C'est l'béton qui crie akha, moi, j'suis l'odeur et l'bruit"
     },
     {
         "artiste": "SCH",
@@ -3682,69 +3655,6 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'tire et les balles traversent , j'suis l'odeur et l'bruit",
-        "ligne2": "Viens on cause en privé, quand y'a des gens autour, rien qu'tu cries"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'vais faire la part des choses, ivresse et Hennessy",
-        "ligne2": "J'crois qu'on y perdra la foi à chercher la trésorerie"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Askip, t'es un rigolo, t'es client sur le négatif",
-        "ligne2": "C'est l'béton qui crie akha, moi, j'suis l'odeur et l'bruit"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Avant d'partir d'une cirrhose, ivresse, Hennessy",
-        "ligne2": "Comme une abeille dans du sirop, j'veux m'en aller d'ici"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Pont",
-        "ligne1": "J'rendrai ta vie moins morose, chérie si tu m'astiques",
-        "ligne2": "J'ai trouvé remède à mes névroses, ivresse, Hennessy"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'vais faire la part des choses, ivresse et Hennessy",
-        "ligne2": "J'crois qu'on y perdra la foi à chercher la trésorerie"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Ivresse & Hennessy",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-ivresse-and-hennessy-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Askip, t'es un rigolo, t'es client sur le négatif",
-        "ligne2": "C'est l'béton qui crie akha, moi, j'suis l'odeur et l'bruit"
-    },
-    {
-        "artiste": "SCH",
         "titre": "Alleluia",
         "date": "2016-05-27",
         "url": "https://genius.com/Sch-alleluia-lyrics",
@@ -3778,132 +3688,6 @@
         "couplet": "Refrain",
         "ligne1": "Ô mon ange, j'prie Maria, ils sont morts, Alléluia",
         "ligne2": "Ça pue l'crime comme à Rio, ils sont morts, Alléluia"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Pour un oui ou un non on va se buter pour si peu",
-        "ligne2": "On veut vivre de respect, tant qu'on respire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'crois qu'on se doit rien, même pas un peu d'estime",
-        "ligne2": "J'suis dans les bacs, sous la light, sur les vestiges"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Bébé le temps nous manque réellement mais j'ai la trique",
-        "ligne2": "Ça pue la mort, fait moi me sentir en vie"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "La gloire me ment tellement donc j'suis sceptique",
-        "ligne2": "J'ai tué ce gosse à tuer l'ennui"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Pont 2",
-        "ligne1": "J'me vois en mon père, je l'sais mais j'le fuis",
-        "ligne2": "J'ai fermé la porte, j'en ai laissé derrière"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Ta tainp' est dans l'lit, j'drive",
-        "ligne2": "Mathafack, j'suis bon en 'sique, elle m'dit \"t'es bon en tout\""
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Tchin, quoi, Quartiers Nords, puto j'suis dans la ligue",
-        "ligne2": "Sous les, lights, évidemment qu'elle croit en nous"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "J't'en prie, j'dors mal, j'me réveille",
-        "ligne2": "J'transpire, fais moi un signe"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Essuie tes larmes",
-        "date": "2016-05-27",
-        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "On a poussé en marge, tainp, sans jamais cligner d'un cil",
-        "ligne2": "J't'en prie, j'dors mal, j'me réveille"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Haut standing",
-        "date": "2019-07-05",
-        "url": "https://genius.com/Sch-haut-standing-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "SIG Sauer contre ta tête , elle est bonne mais y a toujours un \"mais\"",
-        "ligne2": "Candy kush et son effet , vrai, donc j'sais qui sont les fakes"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Haut standing",
-        "date": "2019-07-05",
-        "url": "https://genius.com/Sch-haut-standing-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "C'est la rue, le haut du panier, c'est le crime mais le haut standing",
-        "ligne2": ".44 dans mon jean , 44K comme mon bling"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Haut standing",
-        "date": "2019-07-05",
-        "url": "https://genius.com/Sch-haut-standing-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Au lycée, ça vend dans l'casier, que la frappe, c'est Marseille, bébé",
-        "ligne2": "Quatorze, quinzième arrondissement, mon fric sent bon l'assouplissant"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Haut standing",
-        "date": "2019-07-05",
-        "url": "https://genius.com/Sch-haut-standing-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'vis ici, moi et j'rôde ici, bétonneur et tueur sympa",
-        "ligne2": "J'ai sapé ma pute en Versace, cent balles et tu m'joues les \"Zampa\""
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Haut standing",
-        "date": "2019-07-05",
-        "url": "https://genius.com/Sch-haut-standing-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "On met la muerte dans les sachets, après la descente, on t'descendra",
-        "ligne2": "Prends ta pièce et ta cesslard, on prend la tess et la Tesla"
     },
     {
         "artiste": "SCH",
@@ -3967,6 +3751,51 @@
         "couplet": "Refrain",
         "ligne1": "Il m'faudrait une piscine de lean pour oublier mes peines",
         "ligne2": "T'es chaud et alors ? J'ai pissé dans la fournaise"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Haut standing",
+        "date": "2019-07-05",
+        "url": "https://genius.com/Sch-haut-standing-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "SIG Sauer contre ta tête , elle est bonne mais y a toujours un \"mais\"",
+        "ligne2": "Candy kush et son effet , vrai, donc j'sais qui sont les fakes"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Haut standing",
+        "date": "2019-07-05",
+        "url": "https://genius.com/Sch-haut-standing-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "C'est la rue, le haut du panier, c'est le crime mais le haut standing",
+        "ligne2": ".44 dans mon jean , 44K comme mon bling"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Haut standing",
+        "date": "2019-07-05",
+        "url": "https://genius.com/Sch-haut-standing-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Au lycée, ça vend dans l'casier, que la frappe, c'est Marseille, bébé",
+        "ligne2": "Quatorze, quinzième arrondissement, mon fric sent bon l'assouplissant"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Haut standing",
+        "date": "2019-07-05",
+        "url": "https://genius.com/Sch-haut-standing-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'vis ici, moi et j'rôde ici, bétonneur et tueur sympa",
+        "ligne2": "J'ai sapé ma pute en Versace, cent balles et tu m'joues les \"Zampa\""
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Haut standing",
+        "date": "2019-07-05",
+        "url": "https://genius.com/Sch-haut-standing-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "On met la muerte dans les sachets, après la descente, on t'descendra",
+        "ligne2": "Prends ta pièce et ta cesslard, on prend la tess et la Tesla"
     },
     {
         "artiste": "SCH",
@@ -4177,6 +4006,87 @@
     },
     {
         "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Pour un oui ou un non on va se buter pour si peu",
+        "ligne2": "On veut vivre de respect, tant qu'on respire"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'crois qu'on se doit rien, même pas un peu d'estime",
+        "ligne2": "J'suis dans les bacs, sous la light, sur les vestiges"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Bébé le temps nous manque réellement mais j'ai la trique",
+        "ligne2": "Ça pue la mort, fait moi me sentir en vie"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "La gloire me ment tellement donc j'suis sceptique",
+        "ligne2": "J'ai tué ce gosse à tuer l'ennui"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Pont 2",
+        "ligne1": "J'me vois en mon père, je l'sais mais j'le fuis",
+        "ligne2": "J'ai fermé la porte, j'en ai laissé derrière"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Ta tainp' est dans l'lit, j'drive",
+        "ligne2": "Mathafack, j'suis bon en 'sique, elle m'dit \"t'es bon en tout\""
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Tchin, quoi, Quartiers Nords, puto j'suis dans la ligue",
+        "ligne2": "Sous les, lights, évidemment qu'elle croit en nous"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "J't'en prie, j'dors mal, j'me réveille",
+        "ligne2": "J'transpire, fais moi un signe"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Essuie tes larmes",
+        "date": "2016-05-27",
+        "url": "https://genius.com/Sch-essuie-tes-larmes-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "On a poussé en marge, tainp, sans jamais cligner d'un cil",
+        "ligne2": "J't'en prie, j'dors mal, j'me réveille"
+    },
+    {
+        "artiste": "SCH",
         "titre": "Facile",
         "date": "2018-10-19",
         "url": "https://genius.com/Sch-facile-lyrics",
@@ -4309,6 +4219,132 @@
         "couplet": "Post-refrain",
         "ligne1": "Là, j'suis dans l'vrai, j'ai plaidé maintenant , bah ouais",
         "ligne2": "C'est trop énorme, tasse-pé, mon bif est mauve"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Pont",
+        "ligne1": "En selle, vroum, vroum, drive-by, ça fait chuter l'prix du mètre carré",
+        "ligne2": "Grande liste d'amis plus ou moins proches, y a des prénoms barrés"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
+        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
+        "ligne2": "Les liens qu'on a noués, grandi dans la fournaise"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
+        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
+        "ligne2": "Les liens qu'on a noué, grandi dans la fournaise"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tête dure comme Charles Bronson, s'il faut, on t'rançonne",
+        "ligne2": "P'tite logistique, véhicule déjà garé dans l'box, oh"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'respecte moins l'homme depuis qu'j'ai un chien, regarde-moi bien",
+        "ligne2": "En vrai, même un marron, ici, qui t'le donne sans arrière pensée ?"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Sur la vie d'ma mère, c'qu'on t'donne, c'est déjà bien, p'tit enculé",
+        "ligne2": "J'ai un grand .45 comme Nicky, anonyme comme Hidden Wiki"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Deux-deux roues dans l'box au cas où, che-lou si t'es contre nous",
+        "ligne2": "On, on arrive genre Ocean's 8, t'sais qu'on repart genre Heat"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "T'sais qu'on nous félicite, t'sais qu'on nous plébiscite",
+        "ligne2": "Tu vas flouter les têtes, ça pue l'illicite"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
+        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
+        "ligne2": "Les liens qu'on a noués, grandi dans la fournaise"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
+        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Fournaise",
+        "date": "2021-03-19",
+        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
+        "ligne2": "Les liens qu'on a noué, grandi dans la fournaise"
     },
     {
         "artiste": "SCH",
@@ -4528,129 +4564,12 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
+        "titre": "Mauvaises idées",
+        "date": "2015-11-13",
+        "url": "https://genius.com/Sch-mauvaises-idees-lyrics",
         "couplet": "Pont",
-        "ligne1": "En selle, vroum, vroum, drive-by, ça fait chuter l'prix du mètre carré",
-        "ligne2": "Grande liste d'amis plus ou moins proches, y a des prénoms barrés"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
-        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
-        "ligne2": "Les liens qu'on a noués, grandi dans la fournaise"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
-        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
-        "ligne2": "Les liens qu'on a noué, grandi dans la fournaise"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tête dure comme Charles Bronson, s'il faut, on t'rançonne",
-        "ligne2": "P'tite logistique, véhicule déjà garé dans l'box, oh"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'respecte moins l'homme depuis qu'j'ai un chien, regarde-moi bien",
-        "ligne2": "En vrai, même un marron, ici, qui t'le donne sans arrière pensée ?"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Sur la vie d'ma mère, c'qu'on t'donne, c'est déjà bien, p'tit enculé",
-        "ligne2": "J'ai un grand .45 comme Nicky, anonyme comme Hidden Wiki"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Deux-deux roues dans l'box au cas où, che-lou si t'es contre nous",
-        "ligne2": "On, on arrive genre Ocean's 8, t'sais qu'on repart genre Heat"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "T'sais qu'on nous félicite, t'sais qu'on nous plébiscite",
-        "ligne2": "Tu vas flouter les têtes, ça pue l'illicite"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
-        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
-        "ligne2": "Les liens qu'on a noués, grandi dans la fournaise"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Schlass dans la trousse, doré dans la shoes, ouais",
-        "ligne2": "Flingues dans les blousons, t'sais qu'on n'est pas tous seuls"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fournaise",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fournaise-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Doré dans la tour, ouais, doré dans la fouille, ouais",
-        "ligne2": "Les liens qu'on a noué, grandi dans la fournaise"
+        "ligne1": "Faut pas qu'j'traine, j'trouve un clin's pour chaque gramme",
+        "ligne2": "On a les mains sales, tu veux les rincer ?"
     },
     {
         "artiste": "SCH",
@@ -4762,15 +4681,6 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Mauvaises idées",
-        "date": "2015-11-13",
-        "url": "https://genius.com/Sch-mauvaises-idees-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Faut pas qu'j'traine, j'trouve un clin's pour chaque gramme",
-        "ligne2": "On a les mains sales, tu veux les rincer ?"
-    },
-    {
-        "artiste": "SCH",
         "titre": "Baden Baden",
         "date": "2019-11-29",
         "url": "https://genius.com/Sch-baden-baden-lyrics",
@@ -4849,6 +4759,159 @@
         "couplet": "Pré-refrain : SCH",
         "ligne1": "Toujours au milieu quand ça dégénère",
         "ligne2": "Tout prendre si c'est éphémère"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Deux gamins qui traversent écrasés, l'autre sort de l'alim'",
+        "ligne2": "Ta mère la tchoin, on ouvre des sociétés, j'rentre avec un Kbis"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Maintenant, c'est moi qui décide et j'ai raison même si j'ai tort",
+        "ligne2": "Toujours le choix, faire un gros paquet d'love en crossant le dabiste"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Des armes, un appart', une vue sur la baie",
+        "ligne2": "Toujours le choix, vivre ou mourir pour la paix"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'ferais naître les plus belles flammes si l'froid s'amène",
+        "ligne2": "Crois-moi, babe , crois-moi, baby"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Trop cher à mon cœur, donc j'ferai pas mon deuil",
+        "ligne2": "Morphée viendra p't-être si j'tue la 'teille"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'veux cette nuit avec toi mais l'dehors m'appelle",
+        "ligne2": "Crois-moi, babe , crois-moi, baby"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Louis Vui', Fendi, car j'ai pas vu ma vie , pieds dans des Huarache",
+        "ligne2": "Cess et gras, tu viens, tu baisses ta vitre, tu connais notre panel"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Un flingue pour t'la mettre en veilleuse, mec à gros bravas m'appelle",
+        "ligne2": "J't'aurais jamais contrarié si j'étais jamais parti"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'ai des potes qu'ont niqué leur vie juste en goûtant à l'adré'",
+        "ligne2": "Vérif' et quoi ? j'finis mon pétard, allez vous faire foutre"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Des armes, un appart', une vue sur la baie",
+        "ligne2": "Toujours le choix, vivre ou mourir pour la paix"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'ferais naître les plus belles flammes si l'froid s'amène",
+        "ligne2": "Crois-moi, babe , crois-moi, baby"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Trop cher à mon cœur, donc j'ferai pas mon deuil",
+        "ligne2": "Morphée viendra p't-être si j'tue la 'teille"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'veux cette nuit avec toi mais l'dehors m'appelle",
+        "ligne2": "Crois-moi, babe , crois-moi, baby"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Des armes, un appart', une vue sur la baie",
+        "ligne2": "Toujours le choix, vivre ou mourir pour la paix"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'ferais naître les plus belles flammes si l'froid s'amène",
+        "ligne2": "Crois-moi, babe , crois-moi, baby"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Trop cher à mon cœur, donc j'ferai pas mon deuil",
+        "ligne2": "Morphée viendra p't-être si j'tue la 'teille"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Crois-moi",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-crois-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'veux cette nuit avec toi mais l'dehors m'appelle",
+        "ligne2": "Crois-moi, babe , crois-moi, baby"
     },
     {
         "artiste": "SCH",
@@ -4969,7 +5032,7 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Ca va",
+        "titre": "Ça va",
         "date": "2017-05-05",
         "url": "https://genius.com/Sch-ca-va-lyrics",
         "couplet": "Refrain : SCH",
@@ -4978,7 +5041,7 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Ca va",
+        "titre": "Ça va",
         "date": "2017-05-05",
         "url": "https://genius.com/Sch-ca-va-lyrics",
         "couplet": "Refrain : SCH",
@@ -4987,7 +5050,7 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Ca va",
+        "titre": "Ça va",
         "date": "2017-05-05",
         "url": "https://genius.com/Sch-ca-va-lyrics",
         "couplet": "Refrain : SCH",
@@ -5009,7 +5072,7 @@
         "date": "2017-05-05",
         "url": "https://genius.com/Sch-temps-mort-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Encore, encore si toute la terre était contre moi",
+        "ligne1": "Encore, encore si toute la Terre était contre moi",
         "ligne2": "Peu m'importe, j'vois ton cœur qui saigne et qui brûle en toi"
     },
     {
@@ -5036,7 +5099,7 @@
         "date": "2017-05-05",
         "url": "https://genius.com/Sch-temps-mort-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Encore, encore si toute la terre était contre moi",
+        "ligne1": "Encore, encore si toute la Terre était contre moi",
         "ligne2": "Peu m'importe, j'vois ton cœur qui saigne et qui brûle en toi"
     },
     {
@@ -5203,6 +5266,60 @@
     },
     {
         "artiste": "SCH",
+        "titre": "Prequel",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-prequel-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tu causes mais tu fais zéro, ta parole vaut que dalle",
+        "ligne2": "J'suis un rat, j'suis pas un héros, j'mets ton nom sur une balle"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prequel",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-prequel-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Des peines à deux numéros qui tombent au tribunal",
+        "ligne2": "Pour ces foutus dineros, cent sacs au fond du dial"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prequel",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-prequel-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'ai la ne-hai pour mon vieux, j'ai la ne-hai pour l'enviеux",
+        "ligne2": "Boîtes Nike en d'ssous du piеu, la daronne pète un câble"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prequel",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-prequel-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Dix lourds au fond du crâne , dix litres au fond d'une cale",
+        "ligne2": "On mélange pas les survêt' aux stards-co, dans la tour comme OG Maco"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prequel",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-prequel-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "P'tit, j'ai la Widow, le feu sous l'imperméable",
+        "ligne2": "Moi, j'préfère leur faire de l'ombre que faire d'la peine à ces trav'"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Prequel",
+        "date": "2024-05-31",
+        "url": "https://genius.com/Sch-prequel-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'fais twerker cette jolie bitch sur les g'noux d'un rappeur engagé",
+        "ligne2": "J'suis comme un Cerbère en rage qu'on a sorti des cages"
+    },
+    {
+        "artiste": "SCH",
         "titre": "Booska Jvlivs",
         "date": "2018-10-16",
         "url": "https://genius.com/Sch-booska-jvlivs-lyrics",
@@ -5230,15 +5347,6 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Incompris",
-        "date": "2018-10-19",
-        "url": "https://genius.com/Sch-incompris-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Merde, oh oui, la ne-hai qu'y a dans le fond des yeux d'mes ennemis",
-        "ligne2": "Oh merde, oh oui, j'ai tout compris mais pou eux, j'reste un incompris"
-    },
-    {
-        "artiste": "SCH",
         "titre": "J't'en prie",
         "date": "2018-10-19",
         "url": "https://genius.com/Sch-jten-prie-lyrics",
@@ -5263,6 +5371,15 @@
         "couplet": "Couplet 1",
         "ligne1": "On a l'même souvenir d'hier, tu changeras quand tu m'verras briller",
         "ligne2": "S'il-te-plaît, d'la pierre et des loves, j'crois qu'on y est"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Incompris",
+        "date": "2018-10-19",
+        "url": "https://genius.com/Sch-incompris-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Merde, oh oui, la ne-hai qu'y a dans le fond des yeux d'mes ennemis",
+        "ligne2": "Oh merde, oh oui, j'ai tout compris mais pou eux, j'reste un incompris"
     },
     {
         "artiste": "SCH",
@@ -5383,6 +5500,60 @@
     },
     {
         "artiste": "SCH",
+        "titre": "LIF",
+        "date": "2022-10-27",
+        "url": "https://genius.com/Sch-lif-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu sais comment on fait un son, tu sais comment on coupe une",
+        "ligne2": "Une clé d'sol, une casserole et ça fait du crack"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "LIF",
+        "date": "2022-10-27",
+        "url": "https://genius.com/Sch-lif-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sacoche remplie d'olives, tracker sous les bolides",
+        "ligne2": "Sept ans qu'on arrache, tu mets des bâtons dans les roues libres"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "LIF",
+        "date": "2022-10-27",
+        "url": "https://genius.com/Sch-lif-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu sais comment on fait un son, tu sais comment on coupe une",
+        "ligne2": "Une clé d'sol, une casserole et ça fait du crack"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "LIF",
+        "date": "2022-10-27",
+        "url": "https://genius.com/Sch-lif-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sacoche remplie d'olives, tracker sous les bolides",
+        "ligne2": "Sept ans qu'on arrache, tu mets des bâtons dans les roues libres"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "LIF",
+        "date": "2022-10-27",
+        "url": "https://genius.com/Sch-lif-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu sais comment on fait un son, tu sais comment on coupe une",
+        "ligne2": "Une clé d'sol, une casserole et ça fait du crack"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "LIF",
+        "date": "2022-10-27",
+        "url": "https://genius.com/Sch-lif-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Sacoche remplie d'olives, tracker sous les bolides",
+        "ligne2": "Sept ans qu'on arrache, tu mets des bâtons dans les roues libres"
+    },
+    {
+        "artiste": "SCH",
         "titre": "Day Date",
         "date": "2017-05-05",
         "url": "https://genius.com/Sch-day-date-lyrics",
@@ -5397,7 +5568,7 @@
         "url": "https://genius.com/Sch-day-date-lyrics",
         "couplet": "Couplet 1",
         "ligne1": "Racli dans mon lit, trop d'ient-cli devant l'bon-char",
-        "ligne2": "Olive, moula, devant l'alim' : \"Houla \""
+        "ligne2": "Olive, moula, devant l'alim' : \"Houla\""
     },
     {
         "artiste": "SCH",
@@ -5608,60 +5779,6 @@
     },
     {
         "artiste": "SCH",
-        "titre": "LIF",
-        "date": "2022-10-27",
-        "url": "https://genius.com/Sch-lif-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu sais comment on fait un son, tu sais comment on coupe une",
-        "ligne2": "Une clé d'sol, une casserole et ça fait du crack"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "LIF",
-        "date": "2022-10-27",
-        "url": "https://genius.com/Sch-lif-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sacoche remplie d'olives, tracker sous les bolides",
-        "ligne2": "Sept ans qu'on arrache, tu mets des bâtons dans les roues libres"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "LIF",
-        "date": "2022-10-27",
-        "url": "https://genius.com/Sch-lif-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu sais comment on fait un son, tu sais comment on coupe une",
-        "ligne2": "Une clé d'sol, une casserole et ça fait du crack"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "LIF",
-        "date": "2022-10-27",
-        "url": "https://genius.com/Sch-lif-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sacoche remplie d'olives, tracker sous les bolides",
-        "ligne2": "Sept ans qu'on arrache, tu mets des bâtons dans les roues libres"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "LIF",
-        "date": "2022-10-27",
-        "url": "https://genius.com/Sch-lif-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu sais comment on fait un son, tu sais comment on coupe une",
-        "ligne2": "Une clé d'sol, une casserole et ça fait du crack"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "LIF",
-        "date": "2022-10-27",
-        "url": "https://genius.com/Sch-lif-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Sacoche remplie d'olives, tracker sous les bolides",
-        "ligne2": "Sept ans qu'on arrache, tu mets des bâtons dans les roues libres"
-    },
-    {
-        "artiste": "SCH",
         "titre": "Grand bain",
         "date": "2021-03-19",
         "url": "https://genius.com/Sch-grand-bain-lyrics",
@@ -5788,39 +5905,201 @@
     },
     {
         "artiste": "SCH",
-        "titre": "Every Day",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-every-day-lyrics",
-        "couplet": "Couplet 3 : SCH",
-        "ligne1": "Tous les jours, une nouvelle galère, on s'en remet à Dieu",
-        "ligne2": "Agir, c'est beaucoup mieux qu'avoir d'l'espoir dans les yeux"
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Qu'une seule mi-f', mentalité Napoli, P.38, piaggio, cannelloni",
+        "ligne2": "Trop faim des llets-bi, j'aurais ni cassé Tokyo ni Nairobi, hey"
     },
     {
         "artiste": "SCH",
-        "titre": "Every Day",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-every-day-lyrics",
-        "couplet": "Couplet 3 : SCH",
-        "ligne1": "Tous les jours, un nouveau salaire et j'fais pétiller ses yeux",
-        "ligne2": "Demain sera meilleur qu'hier, si la violence a des fils"
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pour garer l'Mercedes , il faut deux places",
+        "ligne2": "J'vais ramener toute la tess' , faut plus de 'tasses"
     },
     {
         "artiste": "SCH",
-        "titre": "Every Day",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-every-day-lyrics",
-        "couplet": "Couplet 3 : SCH",
-        "ligne1": "J'suis certain d'être leur oncle, j'suis dehors quand tu ronfles",
-        "ligne2": "Et tous les vices qu'on a pu mettre en œuvre pour faire des euros"
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'pense qu'à rouler ma bosse , niquer la Terre",
+        "ligne2": "La p'tite, elle veut deux gosses  et qu'j'sois l'père"
     },
     {
         "artiste": "SCH",
-        "titre": "Every Day",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-every-day-lyrics",
-        "couplet": "Couplet 3 : SCH",
-        "ligne1": "P'tit con, c'est every day, every day, c'parti d'une idée",
-        "ligne2": "J'suis trop serein, j'suis trop équipé pour les éviter"
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "La meilleure défense, c'est l'attaque ou la contre-attaque",
+        "ligne2": "Claque, claque, claque, MotorSport, Autobahn"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "La meilleure défense, c'est l'attaque ou la contre-attaque",
+        "ligne2": "Claque, claque, claque, MotorSport, Autobahn"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'ai un .44 pour la tchoutche, mon vieux, j'ai du fer pour les Miocic",
+        "ligne2": "Hachisch, backshish, j'ai des reufs sur dix piges, okay"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Hier, y avait R, là, il m'faut un hélicoptère",
+        "ligne2": "Plata dans l'ADN, regarde bien la dégaine"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Tu as mis la charrue devant les bœufs, du coup, t'es numéro deux",
+        "ligne2": "S'brouncha dans le 4x4, j'fais demi-tour devant les bleus"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pour garer l'Mercedes , il faut deux places",
+        "ligne2": "J'vais ramener toute la tess' , faut plus de 'tasses"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'pense qu'à rouler ma bosse , niquer la Terre",
+        "ligne2": "La p'tite, elle veut deux gosses  et qu'j'sois l'père"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "La meilleure défense, c'est l'attaque ou la contre-attaque",
+        "ligne2": "Claque, claque, claque, MotorSport, Autobahn"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Autobahn",
+        "date": "2022-11-18",
+        "url": "https://genius.com/Sch-autobahn-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "La meilleure défense, c'est l'attaque ou la contre-attaque",
+        "ligne2": "Claque, claque, claque, MotorSport, Autobahn"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ces foutues manos sont faites pour l'or",
+        "ligne2": "J'sais combien ça coûte, moi, de t'faire du sale"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'suis l'même pourri qu'les politicards",
+        "ligne2": "Mais dans mon environnement, on vieillit rarement"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ces foutues manos sont faites pour l'or",
+        "ligne2": "J'sais combien ça coûte de t'faire du sale"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'suis l'même pourri qu'les politicards",
+        "ligne2": "Dans mon environnement, on vieillit rarement"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Oh, et ceux-là vont jamais laisser d'ADN",
+        "ligne2": "Non, ce foutu blaze est gravé dans la pierre"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Les bons mecs s'sont fait tuer par des hyènes",
+        "ligne2": "Noir sur blanc dans les faits divers"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'la fait planer sans lean, Cohiba dans l'lounge",
+        "ligne2": "Ça tire au canon scié, on s'fait crever par les gendarmes"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Rockstar dans le carrosse, tu vois pas les yeux sous les carreaux",
+        "ligne2": "Reste tranquille ou ça t'arrose, oh"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ces foutues manos sont faites pour l'or",
+        "ligne2": "J'sais combien ça coûte de t'faire du sale"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Cannelloni",
+        "date": "2024-05-16",
+        "url": "https://genius.com/Sch-cannelloni-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'suis l'même pourri qu'les politicards",
+        "ligne2": "Mais dans mon environnement, on vieillit rarement"
     },
     {
         "artiste": "SCH",
@@ -5893,6 +6172,42 @@
         "couplet": "Refrain",
         "ligne1": "Gros bénéfice, tu nous prends pour des jeunes hommes",
         "ligne2": "Capuché dans la caisse, rhum dans mon Seven Up"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Every Day",
+        "date": "2019-11-29",
+        "url": "https://genius.com/Sch-every-day-lyrics",
+        "couplet": "Couplet 3 : SCH",
+        "ligne1": "Tous les jours, une nouvelle galère, on s'en remet à Dieu",
+        "ligne2": "Agir, c'est beaucoup mieux qu'avoir d'l'espoir dans les yeux"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Every Day",
+        "date": "2019-11-29",
+        "url": "https://genius.com/Sch-every-day-lyrics",
+        "couplet": "Couplet 3 : SCH",
+        "ligne1": "Tous les jours, un nouveau salaire et j'fais pétiller ses yeux",
+        "ligne2": "Demain sera meilleur qu'hier, si la violence a des fils"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Every Day",
+        "date": "2019-11-29",
+        "url": "https://genius.com/Sch-every-day-lyrics",
+        "couplet": "Couplet 3 : SCH",
+        "ligne1": "J'suis certain d'être leur oncle, j'suis dehors quand tu ronfles",
+        "ligne2": "Et tous les vices qu'on a pu mettre en œuvre pour faire des euros"
+    },
+    {
+        "artiste": "SCH",
+        "titre": "Every Day",
+        "date": "2019-11-29",
+        "url": "https://genius.com/Sch-every-day-lyrics",
+        "couplet": "Couplet 3 : SCH",
+        "ligne1": "P'tit con, c'est every day, every day, c'parti d'une idée",
+        "ligne2": "J'suis trop serein, j'suis trop équipé pour les éviter"
     },
     {
         "artiste": "SCH",
@@ -5992,221 +6307,5 @@
         "couplet": "Refrain",
         "ligne1": "J'les fourre, attends, mets la slow mo'",
         "ligne2": "J'viens t'trouer comme à chaque hiver"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Frime",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-frime-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Yeux dans les yeux, tu nous connais",
-        "ligne2": "Me donne pas ton cœur, j'vais l'abimer"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Frime",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-frime-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'ai la plus nne-bo pour la frime",
-        "ligne2": "J'bois du Ruinart toute la nuit, ouais"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Frime",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-frime-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Yeux dans les yeux, tu nous connais",
-        "ligne2": "Me donne pas ton cœur, j'vais l'abimer"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Frime",
-        "date": "2019-11-29",
-        "url": "https://genius.com/Sch-frime-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'ai la plus nne-bo pour la frime",
-        "ligne2": "J'bois du Ruinart toute la nuit, ouais"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Pas d'ABS, gros, là c'est les fantômes",
-        "ligne2": "Majeur sur, Navarro, Julie Lescaut"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Panamé' S, gros, tueurs et escroc",
-        "ligne2": "Fourgon noir, cagoulé, place Vendôme"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Pas d'ABS, gros, là c'est les fantômes",
-        "ligne2": "Majeur sur, Navarro, Julie Lescaut"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Panamé' S, gros, tueurs et escroc",
-        "ligne2": "Fourgon noir, cagoulé, place Vendôme"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Pas d'ABS, gros, là c'est les fantômes",
-        "ligne2": "Majeur sur, Navarro, Julie Lescaut"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Panamé' S, gros, tueurs et escroc",
-        "ligne2": "Fourgon noir, cagoulé, place Vendôme"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Pas d'ABS, gros, là c'est les fantômes",
-        "ligne2": "Majeur sur, Navarro, Julie Lescaut"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Panamé' S, gros, tueurs et escroc",
-        "ligne2": "Fourgon noir, cagoulé, place Vendôme"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Pas d'ABS, gros, là c'est les fantômes",
-        "ligne2": "Majeur sur, Navarro, Julie Lescaut"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Panamé' S, gros, tueurs et escroc",
-        "ligne2": "Fourgon noir, cagoulé, place Vendôme"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Pas d'ABS, gros, là c'est les fantômes",
-        "ligne2": "Majeur sur, Navarro, Julie Lescaut"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Fantôme",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-fantome-lyrics",
-        "couplet": "Refrain : SCH",
-        "ligne1": "Panamé' S, gros, tueurs et escroc",
-        "ligne2": "Fourgon noir, cagoulé, place Vendôme"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'aimerais te dire : \"Le monde est magique\"",
-        "ligne2": "Ma jolie, quand tu m'dis : \"Si on s'aime, c'est pour la vie\""
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Pont",
-        "ligne1": "J'écris sans chercher les rimes, j'ai besoin d'décharger le cœur",
-        "ligne2": "J'rêvais d'finir sur une île, non, j'rêve de pas finir seul"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Pont",
-        "ligne1": "L'enfer m'attend, vertu et vice mais j'ai des habits neufs",
-        "ligne2": "Et j's'rais là si j'te l'ai dit, qu'il sun ou qu'il pleuve"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'ai mis trop de choses avant toi, t'as plus rien à me dire",
-        "ligne2": "Et si t'as déjà fait tes choix, j'ai plus rien à te dire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "On s'éloigne, on n'a plus rien à se dire",
-        "ligne2": "J'ai mis trop de choses avant toi"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'apprends de mes choix, de ma foi, c'que la soif m'a fait vivre",
-        "ligne2": "On s'aimait, on s'aime, la routine, on n'a plus rien à se dire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'apprends de mes choix, de ma foi, c'que la soif m'a fait vivre",
-        "ligne2": "On s'aimait, on s'aime, la routine, on n'a plus rien à se dire"
-    },
-    {
-        "artiste": "SCH",
-        "titre": "Plus rien à se dire",
-        "date": "2021-03-19",
-        "url": "https://genius.com/Sch-plus-rien-a-se-dire-lyrics",
-        "couplet": "Outro",
-        "ligne1": "J'ai mis trop de choses avant toi, t'as plus rien à me dire",
-        "ligne2": "Et si t'as déjà fait tes choix, j'ai plus rien à te dire"
     }
 ]

@@ -550,6 +550,33 @@
     },
     {
         "artiste": "Jazzy Bazz",
+        "titre": "Élément 115",
+        "date": "2022-01-20",
+        "url": "https://genius.com/Jazzy-bazz-element-115-lyrics",
+        "couplet": "Couplet 2 : Jazzy Bazz & Nekfeu",
+        "ligne1": "Tu m'sens ?  Parfum musqué, auditeur parfois brusqué",
+        "ligne2": "Ah non mais , t'as entendu c'mec ? Ennemis tous embusqués"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Élément 115",
+        "date": "2022-01-20",
+        "url": "https://genius.com/Jazzy-bazz-element-115-lyrics",
+        "couplet": "Couplet 2 : Jazzy Bazz & Nekfeu",
+        "ligne1": "J'la soulève dans la gova car elle mérite pas l'hôtel",
+        "ligne2": "J'croyais qu'j'étais pas bourré mais c'est pas c'qu'a dit l'alcootest"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Élément 115",
+        "date": "2022-01-20",
+        "url": "https://genius.com/Jazzy-bazz-element-115-lyrics",
+        "couplet": "Couplet 2 : Jazzy Bazz & Nekfeu",
+        "ligne1": "J'bédave au calme sur le quai comme les crackers à Jaurès",
+        "ligne2": "J'lève la main et m'voilà armé d'une épée de Damoclès"
+    },
+    {
+        "artiste": "Jazzy Bazz",
         "titre": "3h33",
         "date": "2015-06-24",
         "url": "https://genius.com/Jazzy-bazz-3h33-lyrics",
@@ -664,33 +691,6 @@
         "couplet": "Couplet 2",
         "ligne1": "J'demande à mes frangins qu'ils gardent leur sang-froid",
         "ligne2": "À cette heure, cet endroit, dans mon district"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Élément 115",
-        "date": "2022-01-20",
-        "url": "https://genius.com/Jazzy-bazz-element-115-lyrics",
-        "couplet": "Couplet 2 : Jazzy Bazz & Nekfeu",
-        "ligne1": "Tu m'sens ?  Parfum musqué, auditeur parfois brusqué",
-        "ligne2": "Ah non mais , t'as entendu c'mec ? Ennemis tous embusqués"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Élément 115",
-        "date": "2022-01-20",
-        "url": "https://genius.com/Jazzy-bazz-element-115-lyrics",
-        "couplet": "Couplet 2 : Jazzy Bazz & Nekfeu",
-        "ligne1": "J'la soulève dans la gova car elle mérite pas l'hôtel",
-        "ligne2": "J'croyais qu'j'étais pas bourré mais c'est pas c'qu'a dit l'alcootest"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Élément 115",
-        "date": "2022-01-20",
-        "url": "https://genius.com/Jazzy-bazz-element-115-lyrics",
-        "couplet": "Couplet 2 : Jazzy Bazz & Nekfeu",
-        "ligne1": "J'bédave au calme sur le quai comme les crackers à Jaurès",
-        "ligne2": "J'lève la main et m'voilà armé d'une épée de Damoclès"
     },
     {
         "artiste": "Jazzy Bazz",
@@ -933,7 +933,7 @@
         "url": "https://genius.com/Jazzy-bazz-panorama-lyrics",
         "couplet": "Refrain : Jazzy Bazz",
         "ligne1": "Paris  Nord-Est, famille modeste",
-        "ligne2": "Trafic, bordel , la nuit j'observe"
+        "ligne2": "Trafic, bordel , la nuit, j'observe"
     },
     {
         "artiste": "Jazzy Bazz",
@@ -2278,6 +2278,15 @@
     },
     {
         "artiste": "Jazzy Bazz",
+        "titre": "Memoria",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-memoria-lyrics",
+        "couplet": "Pont",
+        "ligne1": "La vie n'est qu'un brouillon donc je rappe que des essais",
+        "ligne2": "Cœur noirci jusqu'aux poumons, mais j'trouve un charme dans l'excès"
+    },
+    {
+        "artiste": "Jazzy Bazz",
         "titre": "Amen",
         "date": "2016-02-26",
         "url": "https://genius.com/Jazzy-bazz-amen-lyrics",
@@ -2437,15 +2446,6 @@
         "couplet": "Refrain",
         "ligne1": "Encore une prière qui prend de l'altitude",
         "ligne2": "Est-ce illusoire ? Je n'pourrais le prouver avec exactitude"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Memoria",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-memoria-lyrics",
-        "couplet": "Pont",
-        "ligne1": "La vie n'est qu'un brouillon donc je rappe que des essais",
-        "ligne2": "Cœur noirci jusqu'aux poumons, mais j'trouve un charme dans l'excès"
     },
     {
         "artiste": "Jazzy Bazz",
@@ -2854,60 +2854,6 @@
     },
     {
         "artiste": "Jazzy Bazz",
-        "titre": "Arkham Anthem",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tout le monde sait qu'le bon tir et que Paris a marqué",
-        "ligne2": "Tu prends de haut alors qu'on t'a appris à rapper"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Arkham Anthem",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tu fais le mec de la rue mais t'as refusé qu'on se batte",
-        "ligne2": "Perdre contre eux, sur ma vie qu'c'est inconcevable"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Arkham Anthem",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tu mens comme ce pays qui se dit terre d'accueil",
-        "ligne2": "J'ai même pas besoin de crier pour que tu fermes ta gueule"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Arkham Anthem",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Aucun remord, que Dieu me pardonne",
-        "ligne2": "J'ride jusqu'à l'aurore, tout devient presque indolore"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Arkham Anthem",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Hennessy au sol pour honorer nos morts",
-        "ligne2": "Dehors à l'aurore, tout devient presque indolore"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Arkham Anthem",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Souvenirs dans mes yeux, j'me sens high",
-        "ligne2": "Jour de pluie dans les cieux, longue ride"
-    },
-    {
-        "artiste": "Jazzy Bazz",
         "titre": "Mental",
         "date": "2022-01-21",
         "url": "https://genius.com/Jazzy-bazz-mental-lyrics",
@@ -2962,6 +2908,60 @@
     },
     {
         "artiste": "Jazzy Bazz",
+        "titre": "Arkham Anthem",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tout le monde célèbre, on dirait que Paris a marqué",
+        "ligne2": "Tu prends de haut alors qu'on t'a appris à rapper"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Arkham Anthem",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tu fais le mec de la rue mais t'as refusé qu'on se batte",
+        "ligne2": "Perdre contre eux, sur ma vie qu'c'est inconcevable"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Arkham Anthem",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tu mens comme ce pays qui se dit terre d'accueil",
+        "ligne2": "J'ai même pas besoin de crier pour que tu fermes ta gueule"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Arkham Anthem",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Aucun remord, que Dieu me pardonne",
+        "ligne2": "J'ride jusqu'à l'aurore, tout devient presque indolore"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Arkham Anthem",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Hennessy au sol pour honorer nos morts",
+        "ligne2": "Dehors à l'aurore, tout devient presque indolore"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Arkham Anthem",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-arkham-anthem-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Souvenirs dans mes yeux, j'me sens high",
+        "ligne2": "Jour de pluie dans les cieux, longue ride"
+    },
+    {
+        "artiste": "Jazzy Bazz",
         "titre": "Destinée",
         "date": "2022-01-21",
         "url": "https://genius.com/Jazzy-bazz-destinee-lyrics",
@@ -2986,6 +2986,141 @@
         "couplet": "Refrain",
         "ligne1": "Je me dévoile à chaque paragraphe",
         "ligne2": "Dire que j'ai commencé par hasard"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Intro",
+        "ligne1": "J'ai compris qu'avec ou sans moi, elle est seule",
+        "ligne2": "J'pense qu'à ma liasse et à son épaisseur"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Pour m'changer les idées, j'suis sorti toute la nuit",
+        "ligne2": "Pour m'évader, j'me laisse tenter par cette fille facile"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Elle veut quitter la soirée avec le Jazzy",
+        "ligne2": "J'l'ai mise dans la poche comme son pochon d'ecstasy"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tous les soirs, je ridе, j'abandonne ma vie d'famille",
+        "ligne2": "J'ai pеur qu'en rentrant chez oim, ma femme ait fait ses valises"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'lui dirai qu'je l'aime encore d'un air évasif",
+        "ligne2": "J'retourne dans le hood, c'est cette vie que j'ai choisi"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "J'sais qu'c'est die, elle s'est taillée",
+        "ligne2": "Étape par étape, le love s'est dégradé"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "Ça m'fait mal, elle s'est taillée",
+        "ligne2": "J'ai fait tant d'choses que j'peux pas réparer"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Plus le temps passe , on se lasse",
+        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Plus le temps passe , on se lasse",
+        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "J'sais qu'c'est die, elle s'est taillée",
+        "ligne2": "Étape par étape, le love s'est dégradé"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "Ça m'fait mal, elle s'est taillée",
+        "ligne2": "J'ai fait tant d'choses que j'peux pas réparer"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Plus le temps passe , on se lasse",
+        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Plus le temps passe , on se lasse",
+        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Plus le temps passe , on se lasse",
+        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
+    },
+    {
+        "artiste": "Jazzy Bazz",
+        "titre": "Sablier",
+        "date": "2022-01-21",
+        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Plus le temps passe , on se lasse",
+        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
     },
     {
         "artiste": "Jazzy Bazz",
@@ -3130,141 +3265,6 @@
         "couplet": "Pont",
         "ligne1": "J'écris c'que j'ai dans la tête",
         "ligne2": "Personne se soucie de ma peine"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Intro",
-        "ligne1": "J'ai compris qu'avec ou sans moi, elle est seule",
-        "ligne2": "J'pense qu'à ma liasse et à son épaisseur"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Pour m'changer les idées, j'suis sorti toute la nuit",
-        "ligne2": "Pour m'évader, j'me laisse tenter par cette fille facile"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Elle veut quitter la soirée avec le Jazzy",
-        "ligne2": "J'l'ai mise dans la poche comme son pochon d'ecstasy"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Tous les soirs, je ridе, j'abandonne ma vie d'famille",
-        "ligne2": "J'ai pеur qu'en rentrant chez oim, ma femme ait fait ses valises"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'lui dirai qu'je l'aime encore d'un air évasif",
-        "ligne2": "J'retourne dans le hood, c'est cette vie que j'ai choisi"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "J'sais qu'c'est die, elle s'est taillée",
-        "ligne2": "Étape par étape, le love s'est dégradé"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "Ça m'fait mal, elle s'est taillée",
-        "ligne2": "J'ai fait tant d'choses que j'peux pas réparer"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Plus le temps passe , on se lasse",
-        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Plus le temps passe , on se lasse",
-        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "J'sais qu'c'est die, elle s'est taillée",
-        "ligne2": "Étape par étape, le love s'est dégradé"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "Ça m'fait mal, elle s'est taillée",
-        "ligne2": "J'ai fait tant d'choses que j'peux pas réparer"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Plus le temps passe , on se lasse",
-        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Plus le temps passe , on se lasse",
-        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Plus le temps passe , on se lasse",
-        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
-    },
-    {
-        "artiste": "Jazzy Bazz",
-        "titre": "Sablier",
-        "date": "2022-01-21",
-        "url": "https://genius.com/Jazzy-bazz-sablier-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Plus le temps passe , on se lasse",
-        "ligne2": "On s'fait du mal sans l'voir donc on s'éloigne"
     },
     {
         "artiste": "Jazzy Bazz",

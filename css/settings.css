@@ -190,15 +190,10 @@
 .settings-artists {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    /* grid-template-columns: repeat(auto-fill, minmax(200px, 4fr)); */
-    /* grid-gap: 5px; */
 }
 
 /* cellule de checkbox */
 .grid-cell {
-    /* display: flex;
-    flex-direction: row;
-    align-content: center; */
     overflow-x: hidden;
 }
 

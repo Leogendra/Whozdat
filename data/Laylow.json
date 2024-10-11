@@ -24,7 +24,7 @@
         "url": "https://genius.com/Laylow-une-histoire-etrange-lyrics",
         "couplet": "Refrain",
         "ligne1": "Donc tu cours toute la semaine",
-        "ligne2": "Tu vois même plus les étoiles dans le ciel"
+        "ligne2": "Tu vois même plus les étoiles dans l'ciel"
     },
     {
         "artiste": "Laylow",
@@ -78,7 +78,7 @@
         "url": "https://genius.com/Laylow-une-histoire-etrange-lyrics",
         "couplet": "Refrain",
         "ligne1": "Donc tu cours toute la semaine",
-        "ligne2": "Tu vois même plus les étoiles dans le ciel"
+        "ligne2": "Tu vois même plus les étoiles dans l'ciel"
     },
     {
         "artiste": "Laylow",
@@ -87,7 +87,7 @@
         "url": "https://genius.com/Laylow-une-histoire-etrange-lyrics",
         "couplet": "Refrain",
         "ligne1": "Si t'arrêtes de courir juste une minute",
-        "ligne2": "Tu verras ta propre étoile dans le ciel"
+        "ligne2": "Tu verras ta propre étoile dans l'ciel"
     },
     {
         "artiste": "Laylow",
@@ -559,42 +559,6 @@
     },
     {
         "artiste": "Laylow",
-        "titre": "MILLION FLOWERZ",
-        "date": "2020-02-28",
-        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Oh my, j'espère qu't'as pas trouvé bonheur ailleurs",
-        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "MILLION FLOWERZ",
-        "date": "2020-02-28",
-        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Oh my, j'espère qu't'as pas trouvé bonheur ailleurs",
-        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "MILLION FLOWERZ",
-        "date": "2020-02-28",
-        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Oh my, j'espère que t'as pas trouvé bonheur ailleurs",
-        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "MILLION FLOWERZ",
-        "date": "2020-02-28",
-        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Oh my, j'espère qu't'as pas trouvé bonheur ailleurs",
-        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
-    },
-    {
-        "artiste": "Laylow",
         "titre": "WINDOW SHOPPER PART. 2",
         "date": "2021-07-16",
         "url": "https://genius.com/Laylow-window-shopper-part-2-lyrics",
@@ -673,6 +637,42 @@
         "couplet": "Refrain : Laylow & Hamza",
         "ligne1": "Window shoppin' sur la croisette",
         "ligne2": "J'ai l'impression tu m'as toisé"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "MILLION FLOWERZ",
+        "date": "2020-02-28",
+        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oh my, j'espère qu't'as pas trouvé bonheur ailleurs",
+        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "MILLION FLOWERZ",
+        "date": "2020-02-28",
+        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oh my, j'espère qu't'as pas trouvé bonheur ailleurs",
+        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "MILLION FLOWERZ",
+        "date": "2020-02-28",
+        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oh my, j'espère que t'as pas trouvé bonheur ailleurs",
+        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "MILLION FLOWERZ",
+        "date": "2020-02-28",
+        "url": "https://genius.com/Laylow-million-flowerz-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oh my, j'espère qu't'as pas trouvé bonheur ailleurs",
+        "ligne2": "Oh my, j'suis d'vant ta porte avec million d'flowers"
     },
     {
         "artiste": "Laylow",
@@ -1023,7 +1023,7 @@
         "url": "https://genius.com/Laylow-window-shopper-part-1-lyrics",
         "couplet": "Intro : Laylow",
         "ligne1": "2-0-0-5 j'matte je clip de Fifty",
-        "ligne2": "J'ai même pas cinquante balles, j'me sens window shopper"
+        "ligne2": "J'ai même pas cinquante balles, j'me sens Window Shopper"
     },
     {
         "artiste": "Laylow",
@@ -1045,11 +1045,29 @@
     },
     {
         "artiste": "Laylow",
+        "titre": "QUE LA PLUIE",
+        "date": "2021-07-16",
+        "url": "https://genius.com/Laylow-que-la-pluie-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'ai erré, cherché euros toute la noche dans la ville",
+        "ligne2": "Le daron s'éloigne aïe aïe, j'étais high"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "QUE LA PLUIE",
+        "date": "2021-07-16",
+        "url": "https://genius.com/Laylow-que-la-pluie-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Moi, j'croyais qu'c'était ça la life",
+        "ligne2": "J'ai l'sac plein d'remords quand j'claque la porte"
+    },
+    {
+        "artiste": "Laylow",
         "titre": "PIRANHA BABY",
         "date": "2020-02-28",
         "url": "https://genius.com/Laylow-piranha-baby-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Chut, piranha baby, hémoglobine sur le Levis",
+        "ligne1": "Chut, piranha baby, hémoglobine sur le Levi's",
         "ligne2": "J'suis sûrement ton nouveau love, on va tout bouffer, c'est prévu"
     },
     {
@@ -1067,7 +1085,7 @@
         "date": "2020-02-28",
         "url": "https://genius.com/Laylow-piranha-baby-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Chut, piranha baby , hémoglobine sur le Levis",
+        "ligne1": "Chut, piranha baby , hémoglobine sur le Levi's",
         "ligne2": "On va tout bouffer, c'est prévu, plus rien à fêter, piranha baby"
     },
     {
@@ -1094,7 +1112,7 @@
         "date": "2020-02-28",
         "url": "https://genius.com/Laylow-piranha-baby-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Chut, piranha baby, hémoglobine sur le Levis",
+        "ligne1": "Chut, piranha baby, hémoglobine sur le Levi's",
         "ligne2": "J'suis sûrement ton nouveau love, on va tout bouffer, c'est prévu"
     },
     {
@@ -1105,24 +1123,6 @@
         "couplet": "Refrain",
         "ligne1": "Plus rien à fêter, piranha baby",
         "ligne2": "Ramène tes gars, rien à péter, on va tout bouffer, c'est prévu"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "QUE LA PLUIE",
-        "date": "2021-07-16",
-        "url": "https://genius.com/Laylow-que-la-pluie-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'ai erré, cherché euros toute la noche dans la ville",
-        "ligne2": "Le daron s'éloigne aïe aïe, j'étais high"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "QUE LA PLUIE",
-        "date": "2021-07-16",
-        "url": "https://genius.com/Laylow-que-la-pluie-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Moi, j'croyais qu'c'était ça la life",
-        "ligne2": "J'ai l'sac plein d'remords quand j'claque la porte"
     },
     {
         "artiste": "Laylow",
@@ -1225,15 +1225,6 @@
     },
     {
         "artiste": "Laylow",
-        "titre": "Lime",
-        "date": "2016-01-18",
-        "url": "https://genius.com/Laylow-lime-lyrics",
-        "couplet": "Pont",
-        "ligne1": "J'ai personne à graisser, j'vais tout dépenser dans l'excès",
-        "ligne2": "J'vois rouge, j'vois la Féfé, revanchard comme Végéta"
-    },
-    {
-        "artiste": "Laylow",
         "titre": "Gogo",
         "date": "2017-05-29",
         "url": "https://genius.com/Laylow-gogo-lyrics",
@@ -1267,6 +1258,15 @@
         "couplet": "Couplet 2: Laylow",
         "ligne1": "Sur ma ive', tu sais pas à quel point t'es égoïste",
         "ligne2": "Autotuné à mort, que des mélodies tristes"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Lime",
+        "date": "2016-01-18",
+        "url": "https://genius.com/Laylow-lime-lyrics",
+        "couplet": "Pont",
+        "ligne1": "J'ai personne à graisser, j'vais tout dépenser dans l'excès",
+        "ligne2": "J'vois rouge, j'vois la Féfé, revanchard comme Végéta"
     },
     {
         "artiste": "Laylow",
@@ -1369,24 +1369,6 @@
     },
     {
         "artiste": "Laylow",
-        "titre": "No Love (Oh Na)",
-        "date": "2016-12-09",
-        "url": "https://genius.com/Laylow-no-love-oh-na-lyrics",
-        "couplet": "Couplet 1 : Laylow",
-        "ligne1": "Tu m'as trahi : t'es la énième ; tu m'as sali : t'es la dernière",
-        "ligne2": "J'te verrai de loin, tu ne verras que l'ombre et le logo AMG-G-G"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "No Love (Oh Na)",
-        "date": "2016-12-09",
-        "url": "https://genius.com/Laylow-no-love-oh-na-lyrics",
-        "couplet": "Couplet 1 : Laylow",
-        "ligne1": "Toi-même tu sais qu'on est très déter', paie les trente minutes en TTC",
-        "ligne2": "On n'est pas v'nu pour le fun, c'est eux contre nous"
-    },
-    {
-        "artiste": "Laylow",
         "titre": "Prince de sang-mêlé",
         "date": "2018-12-07",
         "url": "https://genius.com/Laylow-prince-de-sang-mele-lyrics",
@@ -1438,6 +1420,87 @@
         "couplet": "Refrain",
         "ligne1": "225, yeah, you know me, j'fais du shit avec le cro-mi",
         "ligne2": "Les pousser jusqu'à l'agonie, jusqu'à la folie"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "No Love (Oh Na)",
+        "date": "2016-12-09",
+        "url": "https://genius.com/Laylow-no-love-oh-na-lyrics",
+        "couplet": "Couplet 1 : Laylow",
+        "ligne1": "Tu m'as trahi : t'es la énième ; tu m'as sali : t'es la dernière",
+        "ligne2": "J'te verrai de loin, tu ne verras que l'ombre et le logo AMG-G-G"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "No Love (Oh Na)",
+        "date": "2016-12-09",
+        "url": "https://genius.com/Laylow-no-love-oh-na-lyrics",
+        "couplet": "Couplet 1 : Laylow",
+        "ligne1": "Toi-même tu sais qu'on est très déter', paie les trente minutes en TTC",
+        "ligne2": "On n'est pas v'nu pour le fun, c'est eux contre nous"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Y2",
+        "date": "2018-05-24",
+        "url": "https://genius.com/Laylow-y2-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Bien sûr qu'on donne pas des noms",
+        "ligne2": "Eux, c'est que des putes comme au Parlement"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Y2",
+        "date": "2018-05-24",
+        "url": "https://genius.com/Laylow-y2-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'kicke plutôt brutalement quand ça va pas trop mentalement",
+        "ligne2": "Tony Montana mec, fais pas des tralalas, j'ai la tronçonneuse ah bah"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Y2",
+        "date": "2018-05-24",
+        "url": "https://genius.com/Laylow-y2-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Un chemin grave embouteillé pour que t'aies l'blaze au bout des lèvres",
+        "ligne2": "Il est tard quand je me lève, j'ai du r'tard, j't'ai niquée la veille"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Y2",
+        "date": "2018-05-24",
+        "url": "https://genius.com/Laylow-y2-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Bah forcément, t'avais l'verre plein d'molly",
+        "ligne2": "Moteur modifié comme dans Tokyo Drift"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Y2",
+        "date": "2018-05-24",
+        "url": "https://genius.com/Laylow-y2-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'leur ai tout fait sauf l'amour",
+        "ligne2": "Parce que bitch fait du yo-yo, rien qu'on pense au seille-o"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Division rouge",
+        "date": "2016-12-09",
+        "url": "https://genius.com/Laylow-division-rouge-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Madame a fait sa crise comme d'hab donc je sors ce soir",
+        "ligne2": "Mentalité douze ans d'âge, j'étais bien bien die"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Division rouge",
+        "date": "2016-12-09",
+        "url": "https://genius.com/Laylow-division-rouge-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'sais pas pourquoi tu m'en parles, tu sais qu'mon égo peut t'blesser",
+        "ligne2": "Pourquoi tu m'en parles ? C'est à prendre, à laisser"
     },
     {
         "artiste": "Laylow",
@@ -1546,69 +1609,6 @@
         "couplet": "Outro",
         "ligne1": "Elle attend ma venue, ma venue, j'suis sur l'avenue, l'avenue",
         "ligne2": "J'ai aimé nos vacances à Venise mais je sais qu'le printemps va finir"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Division rouge",
-        "date": "2016-12-09",
-        "url": "https://genius.com/Laylow-division-rouge-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Madame a fait sa crise comme d'hab donc je sors ce soir",
-        "ligne2": "Mentalité douze ans d'âge, j'étais bien bien die"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Division rouge",
-        "date": "2016-12-09",
-        "url": "https://genius.com/Laylow-division-rouge-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'sais pas pourquoi tu m'en parles, tu sais qu'mon égo peut t'blesser",
-        "ligne2": "Pourquoi tu m'en parles ? C'est à prendre, à laisser"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Y2",
-        "date": "2018-05-24",
-        "url": "https://genius.com/Laylow-y2-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Bien sûr qu'on donne pas des noms",
-        "ligne2": "Eux, c'est que des putes comme au Parlement"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Y2",
-        "date": "2018-05-24",
-        "url": "https://genius.com/Laylow-y2-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'kicke plutôt brutalement quand ça va pas trop mentalement",
-        "ligne2": "Tony Montana mec, fais pas des tralalas, j'ai la tronçonneuse ah bah"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Y2",
-        "date": "2018-05-24",
-        "url": "https://genius.com/Laylow-y2-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Un chemin grave embouteillé pour que t'aies l'blaze au bout des lèvres",
-        "ligne2": "Il est tard quand je me lève, j'ai du r'tard, j't'ai niquée la veille"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Y2",
-        "date": "2018-05-24",
-        "url": "https://genius.com/Laylow-y2-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Bah forcément, t'avais l'verre plein d'molly",
-        "ligne2": "Moteur modifié comme dans Tokyo Drift"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Y2",
-        "date": "2018-05-24",
-        "url": "https://genius.com/Laylow-y2-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'leur ai tout fait sauf l'amour",
-        "ligne2": "Parce que bitch fait du yo-yo, rien qu'on pense au seille-o"
     },
     {
         "artiste": "Laylow",
@@ -1945,6 +1945,24 @@
     },
     {
         "artiste": "Laylow",
+        "titre": "Bonsoir Mon Vieil Ami",
+        "date": "2021-07-16",
+        "url": "https://genius.com/Laylow-bonsoir-mon-vieil-ami-lyrics",
+        "couplet": "Appel téléphonique",
+        "ligne1": "- Ami 2 : Ouais bien, et toi ?",
+        "ligne2": "- Laylow : Alors, quoi d'neuf ?"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Bonsoir Mon Vieil Ami",
+        "date": "2021-07-16",
+        "url": "https://genius.com/Laylow-bonsoir-mon-vieil-ami-lyrics",
+        "couplet": "Appel téléphonique",
+        "ligne1": "- Ami 2 : Ça cherche le trésor comme d'habitude, tu connais",
+        "ligne2": "- Ami 1 : Ça cherche les pépites, hein. Mais c'est dur"
+    },
+    {
+        "artiste": "Laylow",
         "titre": "Bad romance",
         "date": "2017-07-05",
         "url": "https://genius.com/Laylow-bad-romance-lyrics",
@@ -1969,24 +1987,6 @@
         "couplet": "Outro",
         "ligne1": "Moi, j'suis dans cette romance, romance, romance",
         "ligne2": "Et toi, tu demandes, demandes, demandes"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Bonsoir Mon Vieil Ami",
-        "date": "2021-07-16",
-        "url": "https://genius.com/Laylow-bonsoir-mon-vieil-ami-lyrics",
-        "couplet": "Appel téléphonique",
-        "ligne1": "- Ami 2 : Ouais bien, et toi ?",
-        "ligne2": "- Laylow : Alors, quoi d'neuf ?"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Bonsoir Mon Vieil Ami",
-        "date": "2021-07-16",
-        "url": "https://genius.com/Laylow-bonsoir-mon-vieil-ami-lyrics",
-        "couplet": "Appel téléphonique",
-        "ligne1": "- Ami 2 : Ça cherche le trésor comme d'habitude, tu connais",
-        "ligne2": "- Ami 1 : Ça cherche les pépites, hein. Mais c'est dur"
     },
     {
         "artiste": "Laylow",
@@ -2392,6 +2392,24 @@
         "couplet": "Dialogue",
         "ligne1": "- Voisine : J't'en supplie, arrête !",
         "ligne2": "- Voisin : C'est terminé, tu sortiras plus d'ici !"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "DOGZ (In the Studio)",
+        "date": "2024-06-14",
+        "url": "https://genius.com/Laylow-dogz-in-the-studio-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Mais qui est l'nég' ?  Qui est l'GOAT ? Qui est l'Dogz",
+        "ligne2": "Quarante Dogz, jump sur ta meuf, jump comme Tony Hawk"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "DOGZ (In the Studio)",
+        "date": "2024-06-14",
+        "url": "https://genius.com/Laylow-dogz-in-the-studio-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Qui est l'nég' ?  Qui est l'GOAT ? Qui est l'Dogz ?",
+        "ligne2": "Quarante Dogz, jump sur ta meuf, jump comme Tony Hawk"
     },
     {
         "artiste": "Laylow",
@@ -2885,7 +2903,7 @@
         "date": "2017-07-05",
         "url": "https://genius.com/Laylow-malentendu-lyrics",
         "couplet": "Coupet 2",
-        "ligne1": "Toute la soirée c'était pompelup",
+        "ligne1": "Toute la soirée c'était pump it up",
         "ligne2": "J'ai quelques addictions, rien qu'ça pompe mes loves"
     },
     {
@@ -2912,26 +2930,8 @@
         "date": "2017-07-05",
         "url": "https://genius.com/Laylow-malentendu-lyrics",
         "couplet": "Coupet 2",
-        "ligne1": "Elle se fout du lendemain eh, même si c'est toujours un dimanche",
+        "ligne1": "Elle se fout du lendemain eh, comme si c'est toujours un dimanche",
         "ligne2": "Parce qu'au fond on savait qu'on se mentait"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Toyotarola",
-        "date": "2016-08-03",
-        "url": "https://genius.com/Laylow-toyotarola-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'viens de tirer dans le mille, les yeux dans le vide, Digital Vice",
-        "ligne2": "Glisse ton numéro, que des mélodies tristes"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Toyotarola",
-        "date": "2016-08-03",
-        "url": "https://genius.com/Laylow-toyotarola-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Et t'es souvent déçu mais le Diable a de bonnes excuses, j'abuse",
-        "ligne2": "Nous, on trouve ça cool, quand la basse sature dans la vieille voiture"
     },
     {
         "artiste": "Laylow",
@@ -3022,6 +3022,24 @@
         "couplet": "Pont",
         "ligne1": "J'regrette rien, tout est magnifique",
         "ligne2": "À part quelques moments, tellement de temps"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Toyotarola",
+        "date": "2016-08-03",
+        "url": "https://genius.com/Laylow-toyotarola-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'viens de tirer dans le mille, les yeux dans le vide, Digital Vice",
+        "ligne2": "Glisse ton numéro, que des mélodies tristes"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Toyotarola",
+        "date": "2016-08-03",
+        "url": "https://genius.com/Laylow-toyotarola-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Et t'es souvent déçu mais le Diable a de bonnes excuses, j'abuse",
+        "ligne2": "Nous, on trouve ça cool, quand la basse sature dans la vieille voiture"
     },
     {
         "artiste": "Laylow",
@@ -3232,6 +3250,114 @@
     },
     {
         "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Refrain : Wit. & Laylow",
+        "ligne1": "Gauche, droite, Mbappé, vision rouge",
+        "ligne2": "J'roule big tard-pé d'vant les bleus qui tournent"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Refrain : Wit. & Laylow",
+        "ligne1": "Police cherche le bout, solides sont les troupes",
+        "ligne2": "Folie dans mon groove, shawty veut son coup"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Refrain : Wit. & Laylow",
+        "ligne1": "Money mon amour, j'mets sous molly toute la foule yeah",
+        "ligne2": "J'rentre en bolide dans ta cour"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Couplet 2 : Laylow",
+        "ligne1": "Il est six du mat', va dire à ta pote elle fait trop d'manières",
+        "ligne2": "Dis-lui que l'appartement est haussmannien"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Couplet 2 : Laylow",
+        "ligne1": "Dis-lui qu'elle a pas besoin de porte-monnaie",
+        "ligne2": "Elle va pas parler yeah, on sait pas se contrôler"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Couplet 2 : Laylow",
+        "ligne1": "Mais vu qu'elle est jamais dans le compromis",
+        "ligne2": "Comme nous quand on récupère cette money"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Couplet 2 : Laylow",
+        "ligne1": "L plus Wit. que des actions, j'kiffe mes frères pas la radio",
+        "ligne2": "Jette-moi la ration, crypté comme ma génération"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Couplet 2 : Laylow",
+        "ligne1": "Paraît qu'c'est fashion, augmente les basses",
+        "ligne2": "J'danse comme Johnny Quid dans rock'n'rolla"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Couplet 2 : Laylow",
+        "ligne1": "Tout est noir dans l'scénario de mon polar",
+        "ligne2": "Jusqu'où t'irais pour soutirer ta poignée d'dollars ?"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Refrain : Wit. & Laylow",
+        "ligne1": "Gauche, droite, Mbappé, vision rouge",
+        "ligne2": "J'roule big tard-pé d'vant les bleus qui tournent"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Refrain : Wit. & Laylow",
+        "ligne1": "Police cherche le bout, solides sont les troupes",
+        "ligne2": "Folie dans mon groove, shawty veut son coup"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Action Men",
+        "date": "2018-06-19",
+        "url": "https://genius.com/Laylow-action-men-lyrics",
+        "couplet": "Refrain : Wit. & Laylow",
+        "ligne1": "Money mon amour, j'mets sous molly toute la foule, yeah",
+        "ligne2": "J'rentre en bolide dans ta cour"
+    },
+    {
+        "artiste": "Laylow",
         "titre": "Digital Vice City",
         "date": "2017-07-05",
         "url": "https://genius.com/Laylow-digital-vice-city-lyrics",
@@ -3346,114 +3472,6 @@
         "couplet": "Outro",
         "ligne1": "Elle veut un mec pas raisonnable, j'veux des gosses, pas des emmerdes",
         "ligne2": "Dis-moi c'qui est vraisemblable, t'as la tête en bas, cul en l'air"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Refrain : Wit. & Laylow",
-        "ligne1": "Gauche, droite, Mbappé, vision rouge",
-        "ligne2": "J'roule big tard-pé d'vant les bleus qui tournent"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Refrain : Wit. & Laylow",
-        "ligne1": "Police cherche le bout, solides sont les troupes",
-        "ligne2": "Folie dans mon groove, shawty veut son coup"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Refrain : Wit. & Laylow",
-        "ligne1": "Money mon amour, j'mets sous molly toute la foule yeah",
-        "ligne2": "J'rentre en bolide dans ta cour"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Couplet 2 : Laylow",
-        "ligne1": "Il est six du mat', va dire à ta pote elle fait trop d'manières",
-        "ligne2": "Dis-lui que l'appartement est haussmannien"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Couplet 2 : Laylow",
-        "ligne1": "Dis-lui qu'elle a pas besoin de porte-monnaie",
-        "ligne2": "Elle va pas parler yeah, on sait pas se contrôler"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Couplet 2 : Laylow",
-        "ligne1": "Mais vu qu'elle est jamais dans le compromis",
-        "ligne2": "Comme nous quand on récupère cette money"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Couplet 2 : Laylow",
-        "ligne1": "L plus Wit. que des actions, j'kiffe mes frères pas la radio",
-        "ligne2": "Jette-moi la ration, crypté comme ma génération"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Couplet 2 : Laylow",
-        "ligne1": "Paraît qu'c'est fashion, augmente les basses",
-        "ligne2": "J'danse comme Johnny Quid dans rock'n'rolla"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Couplet 2 : Laylow",
-        "ligne1": "Tout est noir dans l'scénario de mon polar",
-        "ligne2": "Jusqu'où t'irais pour soutirer ta poignée d'dollars ?"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Refrain : Wit. & Laylow",
-        "ligne1": "Gauche, droite, Mbappé, vision rouge",
-        "ligne2": "J'roule big tard-pé d'vant les bleus qui tournent"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Refrain : Wit. & Laylow",
-        "ligne1": "Police cherche le bout, solides sont les troupes",
-        "ligne2": "Folie dans mon groove, shawty veut son coup"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Action Men",
-        "date": "2018-06-19",
-        "url": "https://genius.com/Laylow-action-men-lyrics",
-        "couplet": "Refrain : Wit. & Laylow",
-        "ligne1": "Money mon amour, j'mets sous molly toute la foule, yeah",
-        "ligne2": "J'rentre en bolide dans ta cour"
     },
     {
         "artiste": "Laylow",
@@ -3655,6 +3673,24 @@
     },
     {
         "artiste": "Laylow",
+        "titre": "Babylone St",
+        "date": "2020-03-31",
+        "url": "https://genius.com/Laylow-babylone-st-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Substances hallucinogènes, j'suis dans les rues d'Babylone",
+        "ligne2": "J'la prends par le jean, ah ouais, j'passe pas par 36 chemins"
+    },
+    {
+        "artiste": "Laylow",
+        "titre": "Babylone St",
+        "date": "2020-03-31",
+        "url": "https://genius.com/Laylow-babylone-st-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'la prends par le jean, ah ouais, j'passe pas par 36 chemins",
+        "ligne2": "J'suis dur comme le ciment, ouais j'retrouve plus mes sentiments"
+    },
+    {
+        "artiste": "Laylow",
         "titre": "ELV LE MONTANT",
         "date": "2014-04-10",
         "url": "https://genius.com/Laylow-elv-le-montant-lyrics",
@@ -3706,24 +3742,6 @@
         "couplet": "Couplet 1",
         "ligne1": "J'ai pas eu le temps de t'analyser",
         "ligne2": "J'aime autant pas la branlette d'intello que ta musique limitée"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Babylone St",
-        "date": "2020-03-31",
-        "url": "https://genius.com/Laylow-babylone-st-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Substances hallucinogènes, j'suis dans les rues d'Babylone",
-        "ligne2": "J'la prends par le jean, ah ouais, j'passe pas par 36 chemins"
-    },
-    {
-        "artiste": "Laylow",
-        "titre": "Babylone St",
-        "date": "2020-03-31",
-        "url": "https://genius.com/Laylow-babylone-st-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'la prends par le jean, ah ouais, j'passe pas par 36 chemins",
-        "ligne2": "J'suis dur comme le ciment, ouais j'retrouve plus mes sentiments"
     },
     {
         "artiste": "Laylow",

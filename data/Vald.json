@@ -329,7 +329,7 @@
         "date": "2015-06-03",
         "url": "https://genius.com/Vald-bonjour-lyrics",
         "couplet": "Refrain 1",
-        "ligne1": "Il est parti chez lui, \"Bonjour madame, j'vais t'niquer ta mère\"",
+        "ligne1": "Il est parti chez lui : \"Bonjour madame, j'vais t'niquer ta mère\"",
         "ligne2": "Il a niqué la mère de sa mère, pour enfin niquer sa mère"
     },
     {
@@ -339,7 +339,7 @@
         "url": "https://genius.com/Vald-bonjour-lyrics",
         "couplet": "Refrain 1",
         "ligne1": "Nan, fallait mieux dire bonjour",
-        "ligne2": "Mais lui, il a pas dit bonjour"
+        "ligne2": "Mais lui, il a pas dit : \"Bonjour\""
     },
     {
         "artiste": "Vald",
@@ -1477,96 +1477,6 @@
     },
     {
         "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Le regard des uns, le rejet des autres",
-        "ligne2": "Si t'es bizarre, si t'es pas marrant"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pourquoi t'aimeraient-ils seulement comme tu es ?",
-        "ligne2": "Si t'es pas comme eux quand t'es naturel"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "T'laisser dans un coin, te regarder d'travers",
-        "ligne2": "Avec le temps, tu vas devenir amer"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Pour l'unité, faut des ennemis communs",
-        "ligne2": "Une tête de turc pour se faire des copains"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Faut bien rigoler, faut bien des potes, hein ?",
-        "ligne2": "J't'en prie, bébé, deviens pas un ennemi commun"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J't'en prie, force-toi, fais-toi des copains",
-        "ligne2": "J't'en prie, bébé, ne fais pas les potins"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Le regard des uns, le rejet des autres",
-        "ligne2": "Si t'es bizarre, si t'es pas marrant"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pourquoi t'aimeraient-ils seulement comme tu es ?",
-        "ligne2": "Si t'es pas comme eux quand t'es naturel"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Le regard des uns, le rejet des autres",
-        "ligne2": "Si t'es bizarre, si t'es pas marrant"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Deviens génial",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-deviens-genial-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pourquoi t'aimeraient-ils seulement comme tu es ?",
-        "ligne2": "Si t'es pas comme eux quand t'es naturel"
-    },
-    {
-        "artiste": "Vald",
         "titre": "Rappel",
         "date": "2019-10-11",
         "url": "https://genius.com/Vald-rappel-lyrics",
@@ -1666,6 +1576,96 @@
     },
     {
         "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Le regard des uns, le rejet des autres",
+        "ligne2": "Si t'es bizarre, si t'es pas marrant"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pourquoi t'aimeraient-ils seulement comme tu es ?",
+        "ligne2": "Si t'es pas comme eux quand t'es naturel"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "T'laisser dans un coin, te regarder d'travers",
+        "ligne2": "Avec le temps, tu vas devenir amer"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Pour l'unité, faut des ennemis communs",
+        "ligne2": "Une tête de turc pour se faire des copains"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Faut bien rigoler, faut bien des potes, hein ?",
+        "ligne2": "J't'en prie, bébé, deviens pas un ennemi commun"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J't'en prie, force-toi, fais-toi des copains",
+        "ligne2": "J't'en prie, bébé, ne fais pas les potins"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Le regard des uns, le rejet des autres",
+        "ligne2": "Si t'es bizarre, si t'es pas marrant"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pourquoi t'aimeraient-ils seulement comme tu es ?",
+        "ligne2": "Si t'es pas comme eux quand t'es naturel"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Le regard des uns, le rejet des autres",
+        "ligne2": "Si t'es bizarre, si t'es pas marrant"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Deviens génial",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-deviens-genial-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pourquoi t'aimeraient-ils seulement comme tu es ?",
+        "ligne2": "Si t'es pas comme eux quand t'es naturel"
+    },
+    {
+        "artiste": "Vald",
         "titre": "Primitif",
         "date": "2018-02-02",
         "url": "https://genius.com/Vald-primitif-lyrics",
@@ -1743,7 +1743,7 @@
         "url": "https://genius.com/Vald-possede-lyrics",
         "couplet": "Couplet 1",
         "ligne1": "Dans la rue ou au QG, le sourire est lié au budget",
-        "ligne2": "Le Malin vient d'me posséder ; au Moyen-Âge j's'rais au bûcher"
+        "ligne2": "Le Malin vient d'me posséder ; au Moyen-Âge, j's'rais au bûcher"
     },
     {
         "artiste": "Vald",
@@ -1815,7 +1815,7 @@
         "url": "https://genius.com/Vald-possede-lyrics",
         "couplet": "Couplet 2",
         "ligne1": "Le livreur c'est mon ami  ; tous les jours c'est mon anniv'",
-        "ligne2": "Une seule montée c'est rapide , et puis c'est très long la ie-v"
+        "ligne2": "Une seule montée, c'est rapide , et puis c'est très long la ie-v"
     },
     {
         "artiste": "Vald",
@@ -2251,123 +2251,6 @@
     },
     {
         "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Oki doki, j'doggin' vos rimes, vos stylos bic morvent",
-        "ligne2": "Flows d'immondices hostiles au mic, j'ai l'stylo bic or"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'ramène la paix comme une bombe nucléaire",
-        "ligne2": "Maçons sur mes nerfs, niakson sur mes lèvres"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Chaque seconde j'évolue, car dans le Bultex, j'ai mis de l'uranium",
-        "ligne2": "Quand j'postillonne, j'casse tronc, nuque et tête"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'fais l'don du décès à chaque strophe",
-        "ligne2": "Plus d'or, plus d'or, j'ai ma tombe à custom"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'vis dans un film érotique où les figurantes ne s'excitent",
-        "ligne2": "Même plus correctement, c'est l'bordel, j'te mens pas"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Faudrait qu'tu vois ces bites gémir",
-        "ligne2": "Pour un modèle de montre suisse"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Suis pas la troupe, c'est l'suicide à la fin du sursis",
-        "ligne2": "Survivre c'est mon premier succès"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'fume sec pour soigner mon ulcère",
-        "ligne2": "J'soutire du biff à l'industrie, Super-Sullyvan !"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'les fais ken par des rottweilers",
-        "ligne2": "En leur faisant croire que j'connais Dorcel"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Le Rap va mal et j'ai v'la le remède :",
-        "ligne2": "Toutes ces putes dans du barbelé !"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Ouais, c'est sûr, c'est de l'à-peu-près",
-        "ligne2": "Mais c'est pas l'problème, Sullyvan-Rockefeller !"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'braque les fourgons d'la Brink's, savez-vous qu'on baise tout ?",
-        "ligne2": "Partout où ma clique passe, la foule crie d'joie \"Par toutatis\""
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Par toutatis",
-        "date": "2014-10-02",
-        "url": "https://genius.com/Vald-par-toutatis-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Oki doki, j'doggin' vos rimes, vos stylos bic morvent",
-        "ligne2": "Flows d'immondices hostiles au mic, j'ai l'stylo bic or"
-    },
-    {
-        "artiste": "Vald",
         "titre": "Anunnaki",
         "date": "2022-01-07",
         "url": "https://genius.com/Vald-anunnaki-lyrics",
@@ -2689,6 +2572,123 @@
         "couplet": "Couplet 2",
         "ligne1": "Paraît qu'c'est pas prudent d'vivre à Aulnay sans pare-balles",
         "ligne2": "Paraît qu'je pense tout l'temps à elle et qu'j'lui en parle pas"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Oki doki, j'doggin' vos rimes, vos stylos bic morvent",
+        "ligne2": "Flows d'immondices hostiles au mic, j'ai l'stylo bic or"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'ramène la paix comme une bombe nucléaire",
+        "ligne2": "Maçons sur mes nerfs, niakson sur mes lèvres"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Chaque seconde j'évolue, car dans le Bultex, j'ai mis de l'uranium",
+        "ligne2": "Quand j'postillonne, j'casse tronc, nuque et tête"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'fais l'don du décès à chaque strophe",
+        "ligne2": "Plus d'or, plus d'or, j'ai ma tombe à custom"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'vis dans un film érotique où les figurantes ne s'excitent",
+        "ligne2": "Même plus correctement, c'est l'bordel, j'te mens pas"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Faudrait qu'tu vois ces bites gémir",
+        "ligne2": "Pour un modèle de montre suisse"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Suis pas la troupe, c'est l'suicide à la fin du sursis",
+        "ligne2": "Survivre c'est mon premier succès"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'fume sec pour soigner mon ulcère",
+        "ligne2": "J'soutire du biff à l'industrie, Super-Sullyvan !"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'les fais ken par des rottweilers",
+        "ligne2": "En leur faisant croire que j'connais Dorcel"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Le Rap va mal et j'ai v'la le remède :",
+        "ligne2": "Toutes ces putes dans du barbelé !"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Ouais, c'est sûr, c'est de l'à-peu-près",
+        "ligne2": "Mais c'est pas l'problème, Sullyvan-Rockefeller !"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'braque les fourgons d'la Brink's, savez-vous qu'on baise tout ?",
+        "ligne2": "Partout où ma clique passe, la foule crie d'joie \"Par toutatis\""
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Par toutatis",
+        "date": "2014-10-02",
+        "url": "https://genius.com/Vald-par-toutatis-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Oki doki, j'doggin' vos rimes, vos stylos bic morvent",
+        "ligne2": "Flows d'immondices hostiles au mic, j'ai l'stylo bic or"
     },
     {
         "artiste": "Vald",
@@ -3228,7 +3228,7 @@
         "url": "https://genius.com/Vald-rituel-lyrics",
         "couplet": "Refrain : Vald",
         "ligne1": "Pan pan, calme-toi, bah quoi j'vous libère",
-        "ligne2": "Bats-toi, pussy ; hess : nan, nan"
+        "ligne2": "Bats-toi, pussy-ass : nan, nan"
     },
     {
         "artiste": "Vald",
@@ -3346,15 +3346,6 @@
         "couplet": "Refrain : Vald",
         "ligne1": "Han, han, tout niquer, pas b'soin d'sous-titrer",
         "ligne2": "Jamjam moulinex, ta tête : tourniquet"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rituel",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rituel-lyrics",
-        "couplet": "Refrain : Vald",
-        "ligne1": "Pan pan, calme-toi, bah quoi j'vous libère",
-        "ligne2": "Bats-toi, pussy ; hess : nan, nan"
     },
     {
         "artiste": "Vald",
@@ -3490,6 +3481,168 @@
         "couplet": "Couplet 2 : Vald & Suikon Blaz AD",
         "ligne1": "Tu gaspilles ta vie à vouloir réparer les erreurs de Papy",
         "ligne2": "Et Mamy, la terreur arrive, et ta salive t'servira à crier :"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'cache mes yeux, j'cache leur coloris",
+        "ligne2": "Blanche, ecstasy, sur la table c'est Tel-Aviv"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Lunettes de soleil, même quand fait noir",
+        "ligne2": "Lunettes de soleil dans la baignoire"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pas d'pucelle qui sommeille dans mon peignoir",
+        "ligne2": "Lunettes de soleil devant l'vrai moi"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'suis l'produit d'mon environnement, comme Mac Tyer",
+        "ligne2": "J'suis en colère si les juges environnantes n'portent pas d'tailleurs"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Assis en tailleur, j'pense aux aïeux, d'ailleurs, faut mailler",
+        "ligne2": "J'me suis pas réincarné pour bouillave à Pattaya, Bo-Bomayé"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tu t'es soumis pour grailler, pov' gougnafier",
+        "ligne2": "Heureusement qu't'es pour la paix, t'es doux comme une couille rasée"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'cache mes yeux, j'cache leur coloris",
+        "ligne2": "Blanche, ecstasy, sur la table c'est Tel-Aviv"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Lunettes de soleil, même quand fait noir",
+        "ligne2": "Lunettes de soleil dans la baignoire"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pas d'pucelle qui sommeille dans mon peignoir",
+        "ligne2": "Lunettes de soleil devant l'vrai moi"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Laissent des flaques sur la toile du siège baquet, saletés d'flics",
+        "ligne2": "Laissent des flaques quand ils frappent à la porte"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Sullyvan palpe comme à la morgue",
+        "ligne2": "Mon poing dans l'cul, comme Panacloc"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tu vas vivre le coma d'abord, pas d'commun accord",
+        "ligne2": "Ma, ma commune hardcore a connu la mort"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Ma voix dans l'modulateur, ma bite dans coquine à fleur de peau",
+        "ligne2": "Mon blaze sur Akinator, tout l'monde est là, genre :"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Loin devant, genre des kilomètres, j'papillonne",
+        "ligne2": "J'ai déréglé l'éthylomètre, je sillonne, tu michtonnes ?"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'veux t'dépecer puis te mettre, boire ton sang comme du Lipton",
+        "ligne2": "T'es pas contente ? Tu connais l'code : 93"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'cache mes yeux, j'cache leur coloris",
+        "ligne2": "Blanche, ecstasy, sur la table c'est Tel-Aviv"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Lunettes de soleil, même quand fait noir",
+        "ligne2": "Lunettes de soleil dans la baignoire"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "L.D.S",
+        "date": "2017-01-20",
+        "url": "https://genius.com/Vald-lds-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Pas d'pucelle qui sommeille dans mon peignoir",
+        "ligne2": "Lunettes de soleil devant l'vrai moi"
     },
     {
         "artiste": "Vald",
@@ -3664,168 +3817,6 @@
     },
     {
         "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'cache mes yeux, j'cache leur coloris",
-        "ligne2": "Blanche, ecstasy, sur la table c'est Tel-Aviv"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Lunettes de soleil, même quand fait noir",
-        "ligne2": "Lunettes de soleil dans la baignoire"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pas d'pucelle qui sommeille dans mon peignoir",
-        "ligne2": "Lunettes de soleil devant l'vrai moi"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'suis l'produit d'mon environnement, comme Mac Tyer",
-        "ligne2": "J'suis en colère si les juges environnantes n'portent pas d'tailleurs"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Assis en tailleur, j'pense aux aïeux, d'ailleurs, faut mailler",
-        "ligne2": "J'me suis pas réincarné pour bouillave à Pattaya, Bo-Bomayé"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Tu t'es soumis pour grailler, pov' gougnafier",
-        "ligne2": "Heureusement qu't'es pour la paix, t'es doux comme une couille rasée"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'cache mes yeux, j'cache leur coloris",
-        "ligne2": "Blanche, ecstasy, sur la table c'est Tel-Aviv"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Lunettes de soleil, même quand fait noir",
-        "ligne2": "Lunettes de soleil dans la baignoire"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pas d'pucelle qui sommeille dans mon peignoir",
-        "ligne2": "Lunettes de soleil devant l'vrai moi"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Laissent des flaques sur la toile du siège baquet, saletés d'flics",
-        "ligne2": "Laissent des flaques quand ils frappent à la porte"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Sullyvan palpe comme à la morgue",
-        "ligne2": "Mon poing dans l'cul, comme Panacloc"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tu vas vivre le coma d'abord, pas d'commun accord",
-        "ligne2": "Ma, ma commune hardcore a connu la mort"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Ma voix dans l'modulateur, ma bite dans coquine à fleur de peau",
-        "ligne2": "Mon blaze sur Akinator, tout l'monde est là, genre :"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Loin devant, genre des kilomètres, j'papillonne",
-        "ligne2": "J'ai déréglé l'éthylomètre, je sillonne, tu michtonnes ?"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'veux t'dépecer puis te mettre, boire ton sang comme du Lipton",
-        "ligne2": "T'es pas contente ? Tu connais l'code : 93"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'cache mes yeux, j'cache leur coloris",
-        "ligne2": "Blanche, ecstasy, sur la table c'est Tel-Aviv"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Lunettes de soleil, même quand fait noir",
-        "ligne2": "Lunettes de soleil dans la baignoire"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "L.D.S",
-        "date": "2017-01-20",
-        "url": "https://genius.com/Vald-lds-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Pas d'pucelle qui sommeille dans mon peignoir",
-        "ligne2": "Lunettes de soleil devant l'vrai moi"
-    },
-    {
-        "artiste": "Vald",
         "titre": "Promesse",
         "date": "2015-09-25",
         "url": "https://genius.com/Vald-promesse-lyrics",
@@ -3848,7 +3839,7 @@
         "date": "2015-09-25",
         "url": "https://genius.com/Vald-promesse-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Nan, j'me drogue pas, drogue pas, nan, maman, j'me drogue pas",
+        "ligne1": "Nan, maman, j'me drogue pas, drogue pas, nan, maman, j'me drogue pas",
         "ligne2": "J'essaie d'marcher droit, y'a qu'le dealer, fait des croches-pattes"
     },
     {
@@ -3974,7 +3965,7 @@
         "date": "2015-09-25",
         "url": "https://genius.com/Vald-promesse-lyrics",
         "couplet": "Refrain",
-        "ligne1": "Nan, j'me drogue pas, drogue pas, nan, maman, j'me drogue pas",
+        "ligne1": "Nan, maman, j'me drogue pas, drogue pas, nan, maman, j'me drogue pas",
         "ligne2": "J'essaie d'marcher droit, y'a qu'le dealer, fait des croches-pattes"
     },
     {
@@ -4978,132 +4969,6 @@
     },
     {
         "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Au-d'ssus des conifères , loin des ragots d'vipère",
-        "ligne2": "Y'a jamais trop d'misère , rock star dans rocking chair"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Rock star dans rocking chair, fils de pute prolifère",
-        "ligne2": "Ferme pas les paupières, nan, laisse pas la folie faire"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Pour m'endormir, il m'faut bien plus qu'un bout de somnifère",
-        "ligne2": "J'écoute ton flow pourri, trouvé chez un apothicaire"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Appelez le commissaire , j'suis dans les chaumières",
-        "ligne2": "Depuis ma rocking chair, Sullyvan croque-mitaine"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Comme Léon, j'suis dans l'nettoyage, un genre de pro d'l'hygiène",
-        "ligne2": "J'me balade en slip, défoncé à mort comme un aborigène"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Ouais j'bédave la bolivienne, j'suis sur une autrichienne",
-        "ligne2": "Ou bien une mauricienne, pourquoi pas mongolienne ?"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Au-d'ssus des conifères , loin des ragots d'vipère",
-        "ligne2": "Y'a jamais trop d'misère , rock star dans rocking chair"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Rock star dans rocking chair, ferme ta gueule, pauvre chienne",
-        "ligne2": "Esclave, j'ai déjà le statut, pas b'soin de jolies chaînes"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Je veux de l'oxygène, contrecarrer l'sortilège",
-        "ligne2": "Contre son shorty beige, je contrôle son logiciel"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Nez levé au ciel, j'ai jamais vu la vie aussi belle",
-        "ligne2": "Étoiles dans les yeux mais c'est pas les mêmes qu'à l'hôtel Sofitel"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Caviar dans mes coquillettes, j'rappe pas pour des clopinettes",
-        "ligne2": "Fais pas ta mauviette, t'effrites tout l'olivette"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "À mon sujet, tu t'fais des films, à une étoile sur AlloCiné",
-        "ligne2": "J'suis dans ma rocking chair, arrête d'halluciner"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Pas d'suture à glorifier , ton futur : à modifier",
-        "ligne2": "Chaque seconde, j'suis notifié , j'suis fonce-dé, j'suis momifié"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Rocking chair",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-rocking-chair-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Au-d'ssus des conifères , loin des ragots d'vipère",
-        "ligne2": "Y'a jamais trop d'misère , rock star dans rocking chair"
-    },
-    {
-        "artiste": "Vald",
         "titre": "Chépakichui",
         "date": "2018-02-02",
         "url": "https://genius.com/Vald-chepakichui-lyrics",
@@ -5347,6 +5212,132 @@
     },
     {
         "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Au-d'ssus des conifères , loin des ragots d'vipère",
+        "ligne2": "Y'a jamais trop d'misère , rock star dans rocking chair"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Rock star dans rocking chair, fils de pute prolifère",
+        "ligne2": "Ferme pas les paupières, nan, laisse pas la folie faire"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Pour m'endormir, il m'faut bien plus qu'un bout de somnifère",
+        "ligne2": "J'écoute ton flow pourri, trouvé chez un apothicaire"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Appelez le commissaire , j'suis dans les chaumières",
+        "ligne2": "Depuis ma rocking chair, Sullyvan croque-mitaine"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Comme Léon, j'suis dans l'nettoyage, un genre de pro d'l'hygiène",
+        "ligne2": "J'me balade en slip, défoncé à mort comme un aborigène"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Ouais j'bédave la bolivienne, j'suis sur une autrichienne",
+        "ligne2": "Ou bien une mauricienne, pourquoi pas mongolienne ?"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Au-d'ssus des conifères , loin des ragots d'vipère",
+        "ligne2": "Y'a jamais trop d'misère , rock star dans rocking chair"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Rock star dans rocking chair, ferme ta gueule, pauvre chienne",
+        "ligne2": "Esclave, j'ai déjà le statut, pas b'soin de jolies chaînes"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Je veux de l'oxygène, contrecarrer l'sortilège",
+        "ligne2": "Contre son shorty beige, je contrôle son logiciel"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Nez levé au ciel, j'ai jamais vu la vie aussi belle",
+        "ligne2": "Étoiles dans les yeux mais c'est pas les mêmes qu'à l'hôtel Sofitel"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Caviar dans mes coquillettes, j'rappe pas pour des clopinettes",
+        "ligne2": "Fais pas ta mauviette, t'effrites tout l'olivette"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "À mon sujet, tu t'fais des films, à une étoile sur AlloCiné",
+        "ligne2": "J'suis dans ma rocking chair, arrête d'halluciner"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Pas d'suture à glorifier , ton futur : à modifier",
+        "ligne2": "Chaque seconde, j'suis notifié , j'suis fonce-dé, j'suis momifié"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Rocking chair",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-rocking-chair-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Au-d'ssus des conifères , loin des ragots d'vipère",
+        "ligne2": "Y'a jamais trop d'misère , rock star dans rocking chair"
+    },
+    {
+        "artiste": "Vald",
         "titre": "Petite chatte",
         "date": "2017-01-06",
         "url": "https://genius.com/Vald-petite-chatte-lyrics",
@@ -5470,33 +5461,6 @@
         "couplet": "Refrain",
         "ligne1": "Petite chatte, ô ma petite chatte",
         "ligne2": "Continue d'faire semblant d'm'écouter, même si tu n'piges pas"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Valise",
-        "date": "2018-04-20",
-        "url": "https://genius.com/Vald-valise-lyrics",
-        "couplet": "Intro : Hornet La Frappe & Vald",
-        "ligne1": "- Eh, gros, imagine, tu trouves une valise",
-        "ligne2": "- Une valise remplie d'kilos et tout ?"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Valise",
-        "date": "2018-04-20",
-        "url": "https://genius.com/Vald-valise-lyrics",
-        "couplet": "Couplet 2 : Vald",
-        "ligne1": "Ah mais j't'ai pas raconté c'truc :",
-        "ligne2": "L'autre fois, j'étais dans la street, ça sentait l'shit de l'enfer"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Valise",
-        "date": "2018-04-20",
-        "url": "https://genius.com/Vald-valise-lyrics",
-        "couplet": "Couplet 2 : Vald",
-        "ligne1": "J'lui dis : \"Frérot, là, c'est Dieu qui m'envoie un signe\"",
-        "ligne2": "J'viens d'tomber sur une camionnette avec dedans cent kil'"
     },
     {
         "artiste": "Vald",
@@ -5860,6 +5824,24 @@
     },
     {
         "artiste": "Vald",
+        "titre": "Aulnay-sous-Bois",
+        "date": "2014-10-27",
+        "url": "https://genius.com/Vald-aulnay-sous-bois-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Car c'est la honte d'être un gosse des pavillons",
+        "ligne2": "Ou quasiment alors ils montrent qu'ils sont pas mignons en s'agitant"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Aulnay-sous-Bois",
+        "date": "2014-10-27",
+        "url": "https://genius.com/Vald-aulnay-sous-bois-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Les airs si graves sur les visages en bref",
+        "ligne2": "Les autres putes sont dérisoires"
+    },
+    {
+        "artiste": "Vald",
         "titre": "Lezarman",
         "date": "2017-01-20",
         "url": "https://genius.com/Vald-lezarman-lyrics",
@@ -5941,21 +5923,57 @@
     },
     {
         "artiste": "Vald",
-        "titre": "Aulnay-sous-Bois",
-        "date": "2014-10-27",
-        "url": "https://genius.com/Vald-aulnay-sous-bois-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Car c'est la honte d'être un gosse des pavillons",
-        "ligne2": "Ou quasiment alors ils montrent qu'ils sont pas mignons en s'agitant"
+        "titre": "DQTP",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-dqtp-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Y'a moi qui jette les billets  et puis il y a toi qui danse",
+        "ligne2": "Y'a pas de coïncidence , ferme ta gueule c'est moi qui pense"
     },
     {
         "artiste": "Vald",
-        "titre": "Aulnay-sous-Bois",
-        "date": "2014-10-27",
-        "url": "https://genius.com/Vald-aulnay-sous-bois-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Les airs si graves sur les visages en bref",
-        "ligne2": "Les autres putes sont dérisoires"
+        "titre": "DQTP",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-dqtp-lyrics",
+        "couplet": "Couplet unique",
+        "ligne1": "J'comprends ton besoin d'exister , mais quand tu l'ouvres c'est moche",
+        "ligne2": "Comprends notre besoin d't'exciser , ton français il fout les pétoches"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "DQTP",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-dqtp-lyrics",
+        "couplet": "Couplet unique",
+        "ligne1": "Bâtard, si t'es dans l'sillon , je peux dévier d'ma mission",
+        "ligne2": "Toujours la même ambition, depuis post-bac admission"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "DQTP",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-dqtp-lyrics",
+        "couplet": "Couplet unique",
+        "ligne1": "Quand j'rappe je sais qu'j'm'abrutis , ma bite dans ta bouche balbutie",
+        "ligne2": "Je l'fais pas pour les \"m'as-tu dit\", , mais pour le salaire d'Matuidi"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "DQTP",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-dqtp-lyrics",
+        "couplet": "Couplet unique",
+        "ligne1": "Ta putain d'pute t'a quitté , ce putain de flic t'a giflé",
+        "ligne2": "Au fond d'la classe agité , pour détailler, t'as vrillé"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "DQTP",
+        "date": "2018-02-02",
+        "url": "https://genius.com/Vald-dqtp-lyrics",
+        "couplet": "Couplet unique",
+        "ligne1": "Toute cette came cachée dans l'cul  : ce putain d'thème j'en peux plus",
+        "ligne2": "Parle plus de ça ou j't'encule , même si c'est pour faire un tube"
     },
     {
         "artiste": "Vald",
@@ -6055,60 +6073,6 @@
         "couplet": "Couplet 3",
         "ligne1": "C'est pas mon projet, c'est pas ma passion",
         "ligne2": "J'fais sauter l'crochet, j'vise l'évasion"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "DQTP",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-dqtp-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Y'a moi qui jette les billets  et puis il y a toi qui danse",
-        "ligne2": "Y'a pas de coïncidence , ferme ta gueule c'est moi qui pense"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "DQTP",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-dqtp-lyrics",
-        "couplet": "Couplet unique",
-        "ligne1": "J'comprends ton besoin d'exister , mais quand tu l'ouvres c'est moche",
-        "ligne2": "Comprends notre besoin d't'exciser , ton français il fout les pétoches"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "DQTP",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-dqtp-lyrics",
-        "couplet": "Couplet unique",
-        "ligne1": "Bâtard, si t'es dans l'sillon , je peux dévier d'ma mission",
-        "ligne2": "Toujours la même ambition, depuis post-bac admission"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "DQTP",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-dqtp-lyrics",
-        "couplet": "Couplet unique",
-        "ligne1": "Quand j'rappe je sais qu'j'm'abrutis , ma bite dans ta bouche balbutie",
-        "ligne2": "Je l'fais pas pour les \"m'as-tu dit\", , mais pour le salaire d'Matuidi"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "DQTP",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-dqtp-lyrics",
-        "couplet": "Couplet unique",
-        "ligne1": "Ta putain d'pute t'a quitté , ce putain de flic t'a giflé",
-        "ligne2": "Au fond d'la classe agité , pour détailler, t'as vrillé"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "DQTP",
-        "date": "2018-02-02",
-        "url": "https://genius.com/Vald-dqtp-lyrics",
-        "couplet": "Couplet unique",
-        "ligne1": "Toute cette came cachée dans l'cul  : ce putain d'thème j'en peux plus",
-        "ligne2": "Parle plus de ça ou j't'encule , même si c'est pour faire un tube"
     },
     {
         "artiste": "Vald",
@@ -7174,24 +7138,6 @@
     },
     {
         "artiste": "Vald",
-        "titre": "Envie",
-        "date": "2016-07-21",
-        "url": "https://genius.com/Vald-envie-lyrics",
-        "couplet": "Couplet",
-        "ligne1": "La première fois qu'j'ai pris d'la D",
-        "ligne2": "J'ai vu que j'pouvais vous aimer"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Envie",
-        "date": "2016-07-21",
-        "url": "https://genius.com/Vald-envie-lyrics",
-        "couplet": "Couplet",
-        "ligne1": "J'connais bien la sympathie des brasseurs",
-        "ligne2": "Pas la symphonie des chargeurs"
-    },
-    {
-        "artiste": "Vald",
         "titre": "La faux le fer",
         "date": "2022-02-04",
         "url": "https://genius.com/Vald-la-faux-le-fer-lyrics",
@@ -7369,6 +7315,24 @@
         "couplet": "Outro",
         "ligne1": "Pandémie, pandémie , pandémie , pandémie",
         "ligne2": "Pauvreté , pain de mie , pain de mie"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Envie",
+        "date": "2016-07-21",
+        "url": "https://genius.com/Vald-envie-lyrics",
+        "couplet": "Couplet",
+        "ligne1": "La première fois qu'j'ai pris d'la D",
+        "ligne2": "J'ai vu que j'pouvais vous aimer"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Envie",
+        "date": "2016-07-21",
+        "url": "https://genius.com/Vald-envie-lyrics",
+        "couplet": "Couplet",
+        "ligne1": "J'connais bien la sympathie des brasseurs",
+        "ligne2": "Pas la symphonie des chargeurs"
     },
     {
         "artiste": "Vald",
@@ -8047,6 +8011,42 @@
     },
     {
         "artiste": "Vald",
+        "titre": "Laisse tomber",
+        "date": "2022-02-04",
+        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "Le jour se lève mais pas l'obscurité",
+        "ligne2": "Ils comprennent pas plus que moi mais ils veulent m'expliquer"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Laisse tomber",
+        "date": "2022-02-04",
+        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "\"Laisse tomber, c'est d'la folie, tu vas pas y arriver\"",
+        "ligne2": "\"Laisse tomber, laisse tomber, laisse tomber\", jamais"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Laisse tomber",
+        "date": "2022-02-04",
+        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "Le jour se lève mais pas l'obscurité",
+        "ligne2": "Ils comprennent pas plus que moi mais ils veulent m'expliquer"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Laisse tomber",
+        "date": "2022-02-04",
+        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
+        "couplet": "Pré-refrain",
+        "ligne1": "\"Laisse tomber, c'est d'la folie, tu vas pas y arriver\"",
+        "ligne2": "\"Laisse tomber, laisse tomber, laisse tomber\", jamais"
+    },
+    {
+        "artiste": "Vald",
         "titre": "Sombre soirée",
         "date": "2018-01-19",
         "url": "https://genius.com/Vald-sombre-soiree-lyrics",
@@ -8269,42 +8269,6 @@
         "couplet": "Refrain",
         "ligne1": "Turn-up, turn-up, turn-up, turn-up, turn-up, turn-up",
         "ligne2": "Là, c'est l'heure du murder, murder, murder"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Laisse tomber",
-        "date": "2022-02-04",
-        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "Le jour se lève mais pas l'obscurité",
-        "ligne2": "Ils comprennent pas plus que moi mais ils veulent m'expliquer"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Laisse tomber",
-        "date": "2022-02-04",
-        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "\"Laisse tomber, c'est d'la folie, tu vas pas y arriver\"",
-        "ligne2": "\"Laisse tomber, laisse tomber, laisse tomber\", jamais"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Laisse tomber",
-        "date": "2022-02-04",
-        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "Le jour se lève mais pas l'obscurité",
-        "ligne2": "Ils comprennent pas plus que moi mais ils veulent m'expliquer"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Laisse tomber",
-        "date": "2022-02-04",
-        "url": "https://genius.com/Vald-laisse-tomber-lyrics",
-        "couplet": "Pré-refrain",
-        "ligne1": "\"Laisse tomber, c'est d'la folie, tu vas pas y arriver\"",
-        "ligne2": "\"Laisse tomber, laisse tomber, laisse tomber\", jamais"
     },
     {
         "artiste": "Vald",
@@ -8533,6 +8497,42 @@
     },
     {
         "artiste": "Vald",
+        "titre": "Retour",
+        "date": "2015-09-25",
+        "url": "https://genius.com/Vald-retour-lyrics",
+        "couplet": "Intro",
+        "ligne1": "C'est l'retour de Stallone, bastos et sueur à l'honneur",
+        "ligne2": "Et j'ai du teu-shi marron, des allures de glandeur"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Retour",
+        "date": "2015-09-25",
+        "url": "https://genius.com/Vald-retour-lyrics",
+        "couplet": "Intro",
+        "ligne1": "La musique, c'est paro, cerveau dans un grinder",
+        "ligne2": "Levis et ch'mise à carreaux, des allures de franges"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Retour",
+        "date": "2015-09-25",
+        "url": "https://genius.com/Vald-retour-lyrics",
+        "couplet": "Pont",
+        "ligne1": "- C'est tout c'que ça vous inspire ?",
+        "ligne2": "- Non, j'accepte cette domination avec calme"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Retour",
+        "date": "2015-09-25",
+        "url": "https://genius.com/Vald-retour-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Que des bouses infinies. Tout pour la playlist ou des pénis",
+        "ligne2": "Vous faites la guerre, mais vous êtes plein d'affinités"
+    },
+    {
+        "artiste": "Vald",
         "titre": "Casimir",
         "date": "2019-10-11",
         "url": "https://genius.com/Vald-casimir-lyrics",
@@ -8677,42 +8677,6 @@
     },
     {
         "artiste": "Vald",
-        "titre": "Retour",
-        "date": "2015-09-25",
-        "url": "https://genius.com/Vald-retour-lyrics",
-        "couplet": "Intro",
-        "ligne1": "C'est l'retour de Stallone, bastos et sueur à l'honneur",
-        "ligne2": "Et j'ai du teu-shi marron, des allures de glandeur"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Retour",
-        "date": "2015-09-25",
-        "url": "https://genius.com/Vald-retour-lyrics",
-        "couplet": "Intro",
-        "ligne1": "La musique, c'est paro, cerveau dans un grinder",
-        "ligne2": "Levis et ch'mise à carreaux, des allures de franges"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Retour",
-        "date": "2015-09-25",
-        "url": "https://genius.com/Vald-retour-lyrics",
-        "couplet": "Pont",
-        "ligne1": "- C'est tout c'que ça vous inspire ?",
-        "ligne2": "- Non, j'accepte cette domination avec calme"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Retour",
-        "date": "2015-09-25",
-        "url": "https://genius.com/Vald-retour-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Que des bouses infinies. Tout pour la playlist ou des pénis",
-        "ligne2": "Vous faites la guerre, mais vous êtes plein d'affinités"
-    },
-    {
-        "artiste": "Vald",
         "titre": "Parle moi",
         "date": "2015-05-08",
         "url": "https://genius.com/Vald-parle-moi-lyrics",
@@ -8827,6 +8791,78 @@
         "couplet": "Refrain ",
         "ligne1": "Prends pas la tête, on fait la paire même si j'parle pas des masses",
         "ligne2": "J'ai passé l'âge des Athéna, mes états d'âme sont assez rares"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'sais pas si c'est symbole de charité",
+        "ligne2": "Les deps sur ondes pour l'respect d'la parité"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Nez fariné, j'ai pas d'idée pour la morale frelon, j'suis narguilé",
+        "ligne2": "Chaque soir : chacun sa voie certains s'font plastiquer"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Meurent devant des vidéos de toxicos qui baisent en bande",
+        "ligne2": "Les passants pensent que j'fais la gueule, que j'suis pas sympa"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Mais qu'ils s'en souviennent longtemps",
+        "ligne2": "Y'a qu'cet instant ou j'fais pas semblant"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tapes en cinq, pour les frappes sans manches, les 'tasses enceintes",
+        "ligne2": "Les cartes en main, je rappe en vain, le cul dans l'501"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "C'est dérisoire frangin si j'suis débile à temps plein",
+        "ligne2": "Moi, le territoire j'm'en branle, c'est comme les pillaves sans d'main"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Ouais, y'a qu'la mélodie d'ton triste sort",
+        "ligne2": "Qu'immobilise le soir, toi et ton égoïsme, soit"
+    },
+    {
+        "artiste": "Vald",
+        "titre": "Lune",
+        "date": "2012-01-29",
+        "url": "https://genius.com/Vald-lune-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Donc viens pas m'voir si tu délaisses tes remps ou perds tes repères",
+        "ligne2": "Ouais re-fré pépère, tant qu'tu remplis la caisse de retraite"
     },
     {
         "artiste": "Vald",
@@ -9016,77 +9052,5 @@
         "couplet": "Refrain",
         "ligne1": "Tant qu'ma baby squirt, tant qu'ma baby squirt",
         "ligne2": "Tout va bien dans l'world, dans l'meilleur des worlds"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'sais pas si c'est symbole de charité",
-        "ligne2": "Les deps sur ondes pour l'respect d'la parité"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Nez fariné, j'ai pas d'idée pour la morale frelon, j'suis narguilé",
-        "ligne2": "Chaque soir : chacun sa voie certains s'font plastiquer"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Meurent devant des vidéos de toxicos qui baisent en bande",
-        "ligne2": "Les passants pensent que j'fais la gueule, que j'suis pas sympa"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Mais qu'ils s'en souviennent longtemps",
-        "ligne2": "Y'a qu'cet instant ou j'fais pas semblant"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Tapes en cinq, pour les frappes sans manches, les 'tasses enceintes",
-        "ligne2": "Les cartes en main, je rappe en vain, le cul dans l'501"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "C'est dérisoire frangin si j'suis débile à temps plein",
-        "ligne2": "Moi, le territoire j'm'en branle, c'est comme les pillaves sans d'main"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Ouais, y'a qu'la mélodie d'ton triste sort",
-        "ligne2": "Qu'immobilise le soir, toi et ton égoïsme, soit"
-    },
-    {
-        "artiste": "Vald",
-        "titre": "Lune",
-        "date": "2012-01-29",
-        "url": "https://genius.com/Vald-lune-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Donc viens pas m'voir si tu délaisses tes remps ou perds tes repères",
-        "ligne2": "Ouais re-fré pépère, tant qu'tu remplis la caisse de retraite"
     }
 ]

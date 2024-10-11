@@ -153,7 +153,7 @@ buttonValidate.addEventListener('click', function () {
     const selectedElements = document.querySelectorAll('.choice-artist:checked');
     const selectionCount = selectedElements.length;
 
-    if (selectionCount === 3 || selectionCount === 4) {
+    if (selectionCount === 2 || selectionCount === 3 || selectionCount === 4) {
         messageErreur.textContent = "";
 
         artists_names = [];
@@ -165,6 +165,6 @@ buttonValidate.addEventListener('click', function () {
         location.reload();
     }
     else {
-        messageErreur.textContent = "Veuillez sélectionner 3 ou 4 artistes";
+        messageErreur.textContent = "Veuillez sélectionner 2, 3 ou 4 artistes";
     }
 });

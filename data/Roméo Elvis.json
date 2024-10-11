@@ -721,6 +721,24 @@
     },
     {
         "artiste": "Roméo Elvis",
+        "titre": "En silence",
+        "date": "2019-04-12",
+        "url": "https://genius.com/Romeo-elvis-en-silence-lyrics",
+        "couplet": "Refrain : Roméo Elvis & Témé Tan",
+        "ligne1": "J'ai vu la mort prendre Simon, un soir de printemps dans ma ville",
+        "ligne2": "Un choc violent pour l'éternité, un jeune gamin contemplatif"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "En silence",
+        "date": "2019-04-12",
+        "url": "https://genius.com/Romeo-elvis-en-silence-lyrics",
+        "couplet": "Refrain : Roméo Elvis & Témé Tan",
+        "ligne1": "J'ai vu la mort prendre Simon, ouais",
+        "ligne2": "La mort prendre Simon, oh oh oh"
+    },
+    {
+        "artiste": "Roméo Elvis",
         "titre": "Normal",
         "date": "2019-03-29",
         "url": "https://genius.com/Romeo-elvis-normal-lyrics",
@@ -853,24 +871,6 @@
         "couplet": "Refrain",
         "ligne1": "J'suis dans l'malaise sans cette saloperie, oh ouais",
         "ligne2": "L'oreille siffle encore, oh ouais"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "En silence",
-        "date": "2019-04-12",
-        "url": "https://genius.com/Romeo-elvis-en-silence-lyrics",
-        "couplet": "Refrain : Roméo Elvis & Témé Tan",
-        "ligne1": "J'ai vu la mort prendre Simon, un soir de printemps dans ma ville",
-        "ligne2": "Un choc violent pour l'éternité, un jeune gamin contemplatif"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "En silence",
-        "date": "2019-04-12",
-        "url": "https://genius.com/Romeo-elvis-en-silence-lyrics",
-        "couplet": "Refrain : Roméo Elvis & Témé Tan",
-        "ligne1": "J'ai vu la mort prendre Simon, ouais",
-        "ligne2": "La mort prendre Simon, oh oh oh"
     },
     {
         "artiste": "Roméo Elvis",
@@ -1756,33 +1756,6 @@
     },
     {
         "artiste": "Roméo Elvis",
-        "titre": "Vinci",
-        "date": "2020-04-24",
-        "url": "https://genius.com/Romeo-elvis-vinci-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Wow, j'ai les idées de Léonard et les idées de Dali",
-        "ligne2": "J'vais te tirer dessus, je dois juste décider le calibre"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Vinci",
-        "date": "2020-04-24",
-        "url": "https://genius.com/Romeo-elvis-vinci-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "Est-c'que j'utilise le fusil qui va bien avec mes yeux ?",
-        "ligne2": "Ou alors le walter chromé dont j'apprécie le mécanisme"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Vinci",
-        "date": "2020-04-24",
-        "url": "https://genius.com/Romeo-elvis-vinci-lyrics",
-        "couplet": "Couplet 3",
-        "ligne1": "À la télé, y a que des Sébastien, y a que des Patrick",
-        "ligne2": "Le seul que je valide à fond s'appelle Michel Drucker"
-    },
-    {
-        "artiste": "Roméo Elvis",
         "titre": "AC",
         "date": "2021-06-17",
         "url": "https://genius.com/Romeo-elvis-ac-lyrics",
@@ -1897,6 +1870,33 @@
         "couplet": "Outro",
         "ligne1": "Explique, plus profondément c'que C'EST la RNG",
         "ligne2": "Le RNG, rien n'est grave, donc c'est pas grave si t'es en retard"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Vinci",
+        "date": "2020-04-24",
+        "url": "https://genius.com/Romeo-elvis-vinci-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Wow, j'ai les idées de Léonard et les idées de Dali",
+        "ligne2": "J'vais te tirer dessus, je dois juste décider le calibre"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Vinci",
+        "date": "2020-04-24",
+        "url": "https://genius.com/Romeo-elvis-vinci-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Est-c'que j'utilise le fusil qui va bien avec mes yeux ?",
+        "ligne2": "Ou alors le walter chromé dont j'apprécie le mécanisme"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Vinci",
+        "date": "2020-04-24",
+        "url": "https://genius.com/Romeo-elvis-vinci-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "À la télé, y a que des Sébastien, y a que des Patrick",
+        "ligne2": "Le seul que je valide à fond s'appelle Michel Drucker"
     },
     {
         "artiste": "Roméo Elvis",
@@ -2440,60 +2440,6 @@
     },
     {
         "artiste": "Roméo Elvis",
-        "titre": "TPA",
-        "date": "2021-05-07",
-        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
-        "couplet": "Intro",
-        "ligne1": "J'suis jamais à l'aise dans les cocktails, la foule dévie la gravité",
-        "ligne2": "La musique m'emmène loin du bordel, le feu de Johnny Hallyday"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "TPA",
-        "date": "2021-05-07",
-        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'suis jamais à l'aise dans les cocktails, la foule dévie la gravité",
-        "ligne2": "La musique m'emmène loin du bordel, le fеu de Johnny Hallyday"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "TPA",
-        "date": "2021-05-07",
-        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'arrive pas à descendre, le stress m'étrangle",
-        "ligne2": "Maintenant qu'j'suis au sommet, j'peux que tomber"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "TPA",
-        "date": "2021-05-07",
-        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Maintenant qu'j'suis au sommet, j'peux que tomber",
-        "ligne2": "La fin de la prophétie se complète"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "TPA",
-        "date": "2021-05-07",
-        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'arrive pas à descendre, le stress m'étrangle",
-        "ligne2": "Maintenant qu'j'suis au sommet, j'peux que tomber"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "TPA",
-        "date": "2021-05-07",
-        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Maintenant qu'j'suis au sommet, j'peux que tomber",
-        "ligne2": "La fin de la prophétie se complète"
-    },
-    {
-        "artiste": "Roméo Elvis",
         "titre": "L'ADRESSE",
         "date": "2022-05-27",
         "url": "https://genius.com/Romeo-elvis-ladresse-lyrics",
@@ -2620,12 +2566,102 @@
     },
     {
         "artiste": "Roméo Elvis",
+        "titre": "TPA",
+        "date": "2021-05-07",
+        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
+        "couplet": "Intro",
+        "ligne1": "J'suis jamais à l'aise dans les cocktails, la foule dévie la gravité",
+        "ligne2": "La musique m'emmène loin du bordel, le feu de Johnny Hallyday"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "TPA",
+        "date": "2021-05-07",
+        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'suis jamais à l'aise dans les cocktails, la foule dévie la gravité",
+        "ligne2": "La musique m'emmène loin du bordel, le fеu de Johnny Hallyday"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "TPA",
+        "date": "2021-05-07",
+        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'arrive pas à descendre, le stress m'étrangle",
+        "ligne2": "Maintenant qu'j'suis au sommet, j'peux que tomber"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "TPA",
+        "date": "2021-05-07",
+        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Maintenant qu'j'suis au sommet, j'peux que tomber",
+        "ligne2": "La fin de la prophétie se complète"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "TPA",
+        "date": "2021-05-07",
+        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'arrive pas à descendre, le stress m'étrangle",
+        "ligne2": "Maintenant qu'j'suis au sommet, j'peux que tomber"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "TPA",
+        "date": "2021-05-07",
+        "url": "https://genius.com/Romeo-elvis-tpa-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Maintenant qu'j'suis au sommet, j'peux que tomber",
+        "ligne2": "La fin de la prophétie se complète"
+    },
+    {
+        "artiste": "Roméo Elvis",
         "titre": "MAQUETTE",
         "date": "2022-05-20",
         "url": "https://genius.com/Romeo-elvis-maquette-lyrics",
         "couplet": "Couplet 1",
         "ligne1": "Encore dans ma déf', loin du téléphone car il ensorcelle ma tête",
         "ligne2": "J'étais dépassé par les énergies, aujourd'hui, je me sens plus fort"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Cactus",
+        "date": "2023-05-26",
+        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
+        "couplet": "Refrain : Luv Resval & Roméo Elvis",
+        "ligne1": "'teille de couleur azur, le ciel dessine une fracture",
+        "ligne2": "Avant d'nous voir, d'abord le malin s'est déguisé"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Cactus",
+        "date": "2023-05-26",
+        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
+        "couplet": "Refrain : Luv Resval & Roméo Elvis",
+        "ligne1": "'teille de couleur azur, le ciel dessine une fracture",
+        "ligne2": "Avant d'nous voir, d'abord le malin s'est déguisé"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Cactus",
+        "date": "2023-05-26",
+        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
+        "couplet": "Outro : Luv Resval & Romeo Elvis",
+        "ligne1": "Le sauveur, on prie pour sa venue",
+        "ligne2": "L'Homme, le mal dans sa nature"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Cactus",
+        "date": "2023-05-26",
+        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
+        "couplet": "Outro : Luv Resval & Romeo Elvis",
+        "ligne1": "Le sauveur, on prie pour sa venue",
+        "ligne2": "Tu comprends c'que j'écris ou pas ?"
     },
     {
         "artiste": "Roméo Elvis",
@@ -2800,51 +2836,6 @@
     },
     {
         "artiste": "Roméo Elvis",
-        "titre": "Mon cousin dégueulasse",
-        "date": "2014-03-05",
-        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Et j'aime les dames simples avec une touche de complication",
-        "ligne2": "J'avoue que j'irais pas faire traîner mon zboub"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Mon cousin dégueulasse",
-        "date": "2014-03-05",
-        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Qu'une troupe de fils de putes en slip chez Morandini",
-        "ligne2": "Donc, j'attend la bonne phase comme un bus en jour de grève"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Mon cousin dégueulasse",
-        "date": "2014-03-05",
-        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Je lis sur tes lèvres quand tu prolifère tes messes-basses",
-        "ligne2": "J'aimerais tant disparaître, le temps d'un soupçon"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Mon cousin dégueulasse",
-        "date": "2014-03-05",
-        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "L'espace d'un instant pour reprendre mon souffle, souffre",
-        "ligne2": "J'ai donné toute ma hargne dans cette aventure"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Mon cousin dégueulasse",
-        "date": "2014-03-05",
-        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Le péril s'arrête sur une note cool",
-        "ligne2": "La musique est le sparadrap de tous mes coups de blues"
-    },
-    {
-        "artiste": "Roméo Elvis",
         "titre": "FLANCHIN",
         "date": "2022-05-27",
         "url": "https://genius.com/Romeo-elvis-flanchin-lyrics",
@@ -2932,6 +2923,168 @@
         "couplet": "Refrain 2",
         "ligne1": "Et je me prends le poids des mots",
         "ligne2": "Tu crois que j'vais lâcher l'affaire"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "La vie a un sens, il faut la finir pour s'en apercevoir",
+        "ligne2": "En attendant, j'agis comme un élève qu'a pas fait ses devoirs"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "L'énergie des grandes villes se transforme vite en rouleau",
+        "ligne2": "Prêt à compresser celui qui n'ose pas occuper l'accoudoir"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Quand j'vais à Paris, j'ressens l'gouffre qui sépare les gens",
+        "ligne2": "C'est pas alléchant , j'me pose des questions"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Ce soir, j'ai vingt-sept ans et j'regarde en arrière",
+        "ligne2": "J'fête mon anniversaire en écrivant un texte"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'crois plus en Dieu mais j'remercie les responsables",
+        "ligne2": "On réussit quand on s'entoure bien, y a que quand on aime qu'on gagne"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'avais pas prévu autant de love , il faut qu'j'le rende",
+        "ligne2": "Y aura jamais assez d'enveloppes  et j'ai la flemme"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Y a forcément une forme d'injustice dans l'amour à contresens",
+        "ligne2": "On fera des bébés au concert car c'est là-bas qu'on s'ressent"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Oui, y a qu'là-bas qu'on s'ressent",
+        "ligne2": "Concentré comme pour les études parce que les réseaux c'est sympa"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Mais j'y ai d'jà laissé des plumes",
+        "ligne2": "J'suis maladroit et le p'tit oiseau bleu m'a fait payer les frais"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Ce monde est cruel comme dirait Valentin",
+        "ligne2": "Les mauvaises ondes sont omniprésentes mais j'suis chanceux"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'vais pas m'inventer un malheur pour faire des chansons",
+        "ligne2": "Quand on a d'la chance on se retient de pleurer mais j'suis sensible"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Refrain 1",
+        "ligne1": "C'est fou comme la vie est belle",
+        "ligne2": "Il faut juste prendre le temps de la r'garder dans les yeux"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "13/12",
+        "date": "2022-05-27",
+        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
+        "couplet": "Refrain 1",
+        "ligne1": "J'ai pas compris c'que j'ai dit mais ça sonne bien en refrain",
+        "ligne2": "Et c'est comme ça qu'ça fonctionne, han, han"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Mon cousin dégueulasse",
+        "date": "2014-03-05",
+        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Et j'aime les dames simples avec une touche de complication",
+        "ligne2": "J'avoue que j'irais pas faire traîner mon zboub"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Mon cousin dégueulasse",
+        "date": "2014-03-05",
+        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Qu'une troupe de fils de putes en slip chez Morandini",
+        "ligne2": "Donc, j'attend la bonne phase comme un bus en jour de grève"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Mon cousin dégueulasse",
+        "date": "2014-03-05",
+        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Je lis sur tes lèvres quand tu prolifère tes messes-basses",
+        "ligne2": "J'aimerais tant disparaître, le temps d'un soupçon"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Mon cousin dégueulasse",
+        "date": "2014-03-05",
+        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "L'espace d'un instant pour reprendre mon souffle, souffre",
+        "ligne2": "J'ai donné toute ma hargne dans cette aventure"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Mon cousin dégueulasse",
+        "date": "2014-03-05",
+        "url": "https://genius.com/Romeo-elvis-mon-cousin-degueulasse-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Le péril s'arrête sur une note cool",
+        "ligne2": "La musique est le sparadrap de tous mes coups de blues"
     },
     {
         "artiste": "Roméo Elvis",
@@ -3076,159 +3229,6 @@
         "couplet": "Couplet 1",
         "ligne1": "Excitée par la cellulite des divas, merde !",
         "ligne2": "L'idéal, c'est tranquille, sans transpiration"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Cactus",
-        "date": "2023-05-26",
-        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
-        "couplet": "Refrain : Luv Resval & Roméo Elvis",
-        "ligne1": "'teille de couleur azur, le ciel dessine une fracture",
-        "ligne2": "Avant d'nous voire, d'abord le malin s'est déguisé"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Cactus",
-        "date": "2023-05-26",
-        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
-        "couplet": "Refrain : Luv Resval & Roméo Elvis",
-        "ligne1": "'teille de couleur azur, le ciel dessine une fracture",
-        "ligne2": "Avant d'nous voire, d'abord le malin s'est déguisé"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Cactus",
-        "date": "2023-05-26",
-        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
-        "couplet": "Outro : Luv Resval & Romeo Elvis",
-        "ligne1": "Le sauveur, on prie pour sa venue",
-        "ligne2": "L'Homme, le mal dans sa nature"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Cactus",
-        "date": "2023-05-26",
-        "url": "https://genius.com/Romeo-elvis-cactus-lyrics",
-        "couplet": "Outro : Luv Resval & Romeo Elvis",
-        "ligne1": "Le sauveur, on prie pour sa venue",
-        "ligne2": "Tu comprends c'que j'écris ou pas ?"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "La vie a un sens, il faut la finir pour s'en apercevoir",
-        "ligne2": "En attendant, j'agis comme un élève qu'a pas fait ses devoirs"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "L'énergie des grandes villes se transforme vite en rouleau",
-        "ligne2": "Prêt à compresser celui qui n'ose pas occuper l'accoudoir"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Quand j'vais à Paris, j'ressens l'gouffre qui sépare les gens",
-        "ligne2": "C'est pas alléchant , j'me pose des questions"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Ce soir, j'ai vingt-sept ans et j'regarde en arrière",
-        "ligne2": "J'fête mon anniversaire en écrivant un texte"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'crois plus en Dieu mais j'remercie les responsables",
-        "ligne2": "On réussit quand on s'entoure bien, y a que quand on aime qu'on gagne"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'avais pas prévu autant de love , il faut qu'j'le rende",
-        "ligne2": "Y aura jamais assez d'enveloppes  et j'ai la flemme"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Y a forcément une forme d'injustice dans l'amour à contresens",
-        "ligne2": "On fera des bébés au concert car c'est là-bas qu'on s'ressent"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Oui, y a qu'là-bas qu'on s'ressent",
-        "ligne2": "Concentré comme pour les études parce que les réseaux c'est sympa"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Mais j'y ai d'jà laissé des plumes",
-        "ligne2": "J'suis maladroit et le p'tit oiseau bleu m'a fait payer les frais"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Ce monde est cruel comme dirait Valentin",
-        "ligne2": "Les mauvaises ondes sont omniprésentes mais j'suis chanceux"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'vais pas m'inventer un malheur pour faire des chansons",
-        "ligne2": "Quand on a d'la chance on se retient de pleurer mais j'suis sensible"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Refrain 1",
-        "ligne1": "C'est fou comme la vie est belle",
-        "ligne2": "Il faut juste prendre le temps de la r'garder dans les yeux"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "13/12",
-        "date": "2022-05-27",
-        "url": "https://genius.com/Romeo-elvis-13-12-lyrics",
-        "couplet": "Refrain 1",
-        "ligne1": "J'ai pas compris c'que j'ai dit mais ça sonne bien en refrain",
-        "ligne2": "Et c'est comme ça qu'ça fonctionne, han, han"
     },
     {
         "artiste": "Roméo Elvis",
@@ -3484,33 +3484,6 @@
     },
     {
         "artiste": "Roméo Elvis",
-        "titre": "Sablier",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Romeo-elvis-sablier-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Ouais les minutes filent, et tac, tic",
-        "ligne2": "Doucement le sablier s'écoule et je reste statique"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Sablier",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Romeo-elvis-sablier-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Ouais les minutes filent, et tac, tic",
-        "ligne2": "Doucement le sablier s'écoule et je reste statique"
-    },
-    {
-        "artiste": "Roméo Elvis",
-        "titre": "Sablier",
-        "date": "2014-12-14",
-        "url": "https://genius.com/Romeo-elvis-sablier-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Ouais les minutes filent, et tac, tic",
-        "ligne2": "Doucement le sablier s'écoule et je reste statique"
-    },
-    {
-        "artiste": "Roméo Elvis",
         "titre": "BIEN",
         "date": "2022-05-27",
         "url": "https://genius.com/Romeo-elvis-bien-lyrics",
@@ -3580,6 +3553,33 @@
         "couplet": "Couplet 2",
         "ligne1": "Maintenant qu'j'les ai tous réalisés",
         "ligne2": "Avant d'm'endormir, j'veux profiter d'mes rêves"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Sablier",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Romeo-elvis-sablier-lyrics",
+        "couplet": "Outro",
+        "ligne1": "Ouais les minutes filent, et tac, tic",
+        "ligne2": "Doucement le sablier s'écoule et je reste statique"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Sablier",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Romeo-elvis-sablier-lyrics",
+        "couplet": "Outro",
+        "ligne1": "Ouais les minutes filent, et tac, tic",
+        "ligne2": "Doucement le sablier s'écoule et je reste statique"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Sablier",
+        "date": "2014-12-14",
+        "url": "https://genius.com/Romeo-elvis-sablier-lyrics",
+        "couplet": "Outro",
+        "ligne1": "Ouais les minutes filent, et tac, tic",
+        "ligne2": "Doucement le sablier s'écoule et je reste statique"
     },
     {
         "artiste": "Roméo Elvis",
@@ -4075,5 +4075,509 @@
         "couplet": "Refrain",
         "ligne1": "J'avais pas vu qu'au long du chemin qu'j'm'étais frayé",
         "ligne2": "Derrière moi la terre s'était refermée"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Chaque fois qu'on veut changer on change",
+        "ligne2": "Et on passe par différents stades de danger"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Dernier étage avant d'se lancer dans le doute",
+        "ligne2": "Chaque fois qu'on veut changer on change"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et on passe par différents stades de danger",
+        "ligne2": "Dernière étape avant d'se lancer dans le vide"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Chaque fois qu'on veut changer on change",
+        "ligne2": "Et on passe par différents stades de danger"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Dernier étage avant d'se lancer dans le doute",
+        "ligne2": "Chaque fois qu'on veut changer on change"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et on passe par différents stades de danger",
+        "ligne2": "Dernière étape avant d'se lancer dans le vide"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Chaque fois qu'on veut changer on change",
+        "ligne2": "Et on passe par différents stades de danger"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Dernier étage avant d'se lancer dans le doute",
+        "ligne2": "Chaque fois qu'on veut changer on change"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et on passe par différents stades de danger",
+        "ligne2": "Dernière étape avant d'se lancer dans le vide"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Chaque fois qu'on veut changer on change",
+        "ligne2": "Et on passe par différents stades de danger"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Dernier étage avant d'se lancer dans le doute",
+        "ligne2": "Chaque fois qu'on veut changer on change"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Chaque fois",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-chaque-fois-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Et on passe par différents stades de danger",
+        "ligne2": "Dernière étape avant d'se lancer dans le vide"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Hier soir un frère a fini dans l'sang",
+        "ligne2": "Tombé par terre, il a tâché l'ensemble"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Y a autant d'peine qu'y a de camés dans l'centre",
+        "ligne2": "Tout c'que j'ai dans la tête, c'est des mélos dansantes"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'suis en route, direction le 1-0-7-0",
+        "ligne2": "J'parle avec sonnes-per sauf les frérots"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Y a un truc qui brouille mon canal",
+        "ligne2": "J'n'entends que des messes basses et des vacheries"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'suis entouré d'jeunes qui ont la dalle et de tontons repus",
+        "ligne2": "Tu connais déjà les animaux qu'y a sur leurs pulls"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Capitale européenne, j'fais des heures sup'",
+        "ligne2": "30 piges, 9 projets, 9 tirs, 9 buts"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Connexions de plus en plus stables",
+        "ligne2": "J'veux construire de grandes choses"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Hier soir un frère a fini dans l'sang",
+        "ligne2": "Tombé par terre, il a tâché l'ensemble"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Y a autant d'peine qu'y a de camés dans l'centre",
+        "ligne2": "Tout c'que j'ai dans la tête, c'est des mélos dansantes"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'suis en route, direction le 1-0-7-0",
+        "ligne2": "J'parle avec sonnes-per sauf les frérots"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Hier soir un frère a fini dans l'sang",
+        "ligne2": "Tombé par terre, il a tâché l'ensemble"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Y a autant d'peine qu'y a de camés dans l'centre",
+        "ligne2": "Tout c'que j'ai dans la tête, c'est des mélos dansantes"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Hier soir",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-hier-soir-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'suis en route, direction le 1-0-7-0",
+        "ligne2": "J'parle avec sonnes-per sauf les frérots"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Passionnément votre, j'arrive dans le battement, j'accélère",
+        "ligne2": "Le texte en prose, change tous les jours de sous-vêtements"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'élimine peu bêtement les idées préconçues qu'on se fait des MC",
+        "ligne2": "J'fais pas du Rap de rue, j'fréquente pas trop les mecs de té-ci"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Mec rétrécit, XXX dilapident et parfois je décide",
+        "ligne2": "Y'aura pas d'homicide, si j'démissionne, tes hommes aussi"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Moi, j'trouve ça louche et passe du coq à l'âne en décapotable",
+        "ligne2": "Sans embouteillage, ça prend une heure, le jeu d'mot est potable"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Le jeu de mot est potable mais seulement pour les Belges",
+        "ligne2": "Les Français sont des cierges et j'use la mèche"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Pour allumer le petch et je touche la lune qu'avec mon égo",
+        "ligne2": "J'avoue que j'allume pas XXX et jette le reste à la poubelle"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "T'es l'mégot mais tu prends du recul, moi, je vais de l'avant",
+        "ligne2": "Dur en plus j'encule un tas de XXX obscures, c'est fort navrant"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Mais dur comme une enclume, intersidérant, le mal pèse",
+        "ligne2": "Tout le monde fait comme si c'était sidérant quand j'élimine"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Trop de mecs qui tentent de prendre la parole",
+        "ligne2": "Le bar il dégoute, craque et pas l'time pour l'basmati"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "J'alimente mes viscères au double mac et cheese",
+        "ligne2": "Ralentis le tempo quand la cadence devient folle"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Mes potes s'étonnent du sens de mes mots",
+        "ligne2": "Des mémos techniques s'emmêlent et c'est le drame"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Moi j'amenuise les forces de l'ennemi",
+        "ligne2": "De la puissance jusqu'au calme, de l'acquitance jusqu'au bail"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Peu à peu s'efface ton sourire, enivrance jusqu'aux larmes",
+        "ligne2": "Je fume la beuh, j'en perds mes souvenir"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "J'ai jamais mis les points pour arrêter des phrases",
+        "ligne2": "Et ce tas de nazes qui s'disent violents testent"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Quand j'tabasse l'enroule lettre par lettre",
+        "ligne2": "J'aime positiver, j'suis jeune, j'ai déjà perdu des potes"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Style Libre de nuit 1",
+        "date": "2013-01-27",
+        "url": "https://genius.com/Romeo-elvis-style-libre-de-nuit-1-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "J'retourne des crêpes avec un Mawashi-Geri, si tu m'amoches, vite",
+        "ligne2": "J'guéris tel Wolverine et j'transpire comme dans le film"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 1 - Peet",
+        "ligne1": "J'me suis mis une p'tite claque ça fait du bien de temps en temps ok",
+        "ligne2": "Je sais que j'suis trop chaud mais ça fait du bien quand j'l'entend ok"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 1 - Peet",
+        "ligne1": "J'veux 3 enfants une belle maison",
+        "ligne2": "Avec une piscine naturelle 25 degrés toutes les saisons"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Les seules questions que j'devrais m'poser",
+        "ligne2": "Est-ce que j'veux faire du cash, est-ce que j'veux m'poser ?"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oui, faut juste que j'apprenne à doser",
+        "ligne2": "Nan merci, mais c'est gentil d'avoir proposé"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Roméo",
+        "ligne1": "J'fume l'ancienne et la nouvelle génération",
+        "ligne2": "J'ai vu Drucker et Messis de mes yeux le même jour"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Roméo",
+        "ligne1": "Devine qui m'a dit \"Tu es le sang\"",
+        "ligne2": "J'ai la balle sur le pied j'fais le centre"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Roméo",
+        "ligne1": "Là j'ai envie de péter donc je remets le son",
+        "ligne2": "Passe moi un rappeur j'ai la dalle"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Roméo",
+        "ligne1": "Quand j'ai la prod' je l'attrape",
+        "ligne2": "Qui peut venir s'asseoir à ma table"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Peet",
+        "ligne1": "J'fesais d'la musique pour le fun",
+        "ligne2": "Maintenant j'veux des euros des dollars"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Peet",
+        "ligne1": "J'commence à regarder le prix des dar'",
+        "ligne2": "J'veux pas mourir avec des dettes"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Couplet 2 - Peet",
+        "ligne1": "J'peux passer du lion à l'autruche",
+        "ligne2": "Quand y a des choses à affronter"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Les seules questions que j'devrais m'poser",
+        "ligne2": "Est-ce que j'veux faire du cash, est-ce que j'veux m'poser ?"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Smooth 3.0",
+        "date": "2024-01-12",
+        "url": "https://genius.com/Romeo-elvis-smooth-30-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Oui, faut juste que j'apprenne à doser",
+        "ligne2": "Nan merci, mais c'est gentil d'avoir proposé"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Tadumal",
+        "date": "2024-01-05",
+        "url": "https://genius.com/Romeo-elvis-tadumal-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Utilise les mots pour les soigner",
+        "ligne2": "Regarder a deux dans la boussole"
+    },
+    {
+        "artiste": "Roméo Elvis",
+        "titre": "Tadumal",
+        "date": "2024-01-05",
+        "url": "https://genius.com/Romeo-elvis-tadumal-lyrics",
+        "couplet": "Couplet 3",
+        "ligne1": "Il y a pas de bonne ou de mauvaise personne",
+        "ligne2": "Il y a des fautes et des défauts"
     }
 ]

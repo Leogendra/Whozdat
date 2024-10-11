@@ -302,7 +302,7 @@
         "date": "2021-11-12",
         "url": "https://genius.com/Ziak-shonen-lyrics",
         "couplet": "Couplet unique",
-        "ligne1": "Parles vrai, mets pas d'pomade, on est dur, on a été élevé comme a-ç",
+        "ligne1": "Parle vrai, mets pas d'pomade, on est durs, on a été élevés comme a-ç",
         "ligne2": "Nous fallait qu'on sache comment ça marche"
     },
     {
@@ -321,7 +321,7 @@
         "url": "https://genius.com/Ziak-shonen-lyrics",
         "couplet": "Couplet unique",
         "ligne1": "C'est la même partout, tu veux qu'il soit jamais à court",
-        "ligne2": "T'es à l'affut du moindre coup et tu rejettes le moindre doute"
+        "ligne2": "T'es à l'affût du moindre coup et tu rejettes le moindre doute"
     },
     {
         "artiste": "Ziak",
@@ -658,6 +658,24 @@
     },
     {
         "artiste": "Ziak",
+        "titre": "Même pas un grincement",
+        "date": "2023-01-20",
+        "url": "https://genius.com/Ziak-meme-pas-un-grincement-lyrics",
+        "couplet": "Intro",
+        "ligne1": "Quand j'te raconte toutes ces dingueries, c'est pas la vie d'un autre",
+        "ligne2": "Y en a un qui surveille l'adversaire, un autre négocie l'pourcif"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Même pas un grincement",
+        "date": "2023-01-20",
+        "url": "https://genius.com/Ziak-meme-pas-un-grincement-lyrics",
+        "couplet": "Intro",
+        "ligne1": "Il est presque mort, il est presque mort s'il m'a pris pour cible",
+        "ligne2": "Et la bonne partie d'moi prie pour lui, priez pour lui"
+    },
+    {
+        "artiste": "Ziak",
         "titre": "Vrai / Faux",
         "date": "2021-11-12",
         "url": "https://genius.com/Ziak-vrai-faux-lyrics",
@@ -716,8 +734,8 @@
         "date": "2020-10-09",
         "url": "https://genius.com/Ziak-lg-lyrics",
         "couplet": "Couplet 1",
-        "ligne1": "C'bâtard a posé une plainte, t'as cru, j'faisais des feintes",
-        "ligne2": "J'dois protéger une sainte, j'vais leur trancher l'larynx"
+        "ligne1": "C'bâtard a posé une plainte , t'as cru, j'faisais des feintes",
+        "ligne2": "J'dois protéger une sainte , j'vais leur trancher l'larynx"
     },
     {
         "artiste": "Ziak",
@@ -775,30 +793,12 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Même pas un grincement",
-        "date": "2023-01-20",
-        "url": "https://genius.com/Ziak-meme-pas-un-grincement-lyrics",
-        "couplet": "Intro",
-        "ligne1": "Quand j'te raconte toutes ces dingueries, c'est pas la vie d'un autre",
-        "ligne2": "Y en a un qui surveille l'adversaire, un autre négocie l'pourcif"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Même pas un grincement",
-        "date": "2023-01-20",
-        "url": "https://genius.com/Ziak-meme-pas-un-grincement-lyrics",
-        "couplet": "Intro",
-        "ligne1": "Il est presque mort, il est presque mort s'il m'a pris pour cible",
-        "ligne2": "Et la bonne partie d'moi prie pour lui, priez pour lui"
-    },
-    {
-        "artiste": "Ziak",
         "titre": "Quatre",
         "date": "2020-06-06",
         "url": "https://genius.com/Ziak-quatre-lyrics",
         "couplet": "Couplet unique",
         "ligne1": "Il m'faut une AP qui brille, un ennemi qui crie, la famille qui prie",
-        "ligne2": "Zi-A-K sort le nine, c'est Kimbo qui tire, c'est l'bon Dieu qui trie"
+        "ligne2": "Zi-A-K sort le nine, c'est Kimbo qui tire, c'est l'bon Dieu qui trie"
     },
     {
         "artiste": "Ziak",
@@ -806,7 +806,7 @@
         "date": "2020-06-06",
         "url": "https://genius.com/Ziak-quatre-lyrics",
         "couplet": "Couplet unique",
-        "ligne1": "Y a tous mes démons qui misent tapis quand deuspi j'peux t'ôter la vie",
+        "ligne1": "Y a tous mes démons qui misent tapis qu'en deuspi j'peux t'ôter la vie",
         "ligne2": "J'pense aux gendarmes à six, le gun de matar dans le sac plastique"
     },
     {
@@ -950,7 +950,7 @@
         "date": "2021-11-12",
         "url": "https://genius.com/Ziak-coffre-lyrics",
         "couplet": "Couplet 2",
-        "ligne1": "Hardcore rap, nous on cherche pas les armes",
+        "ligne1": "Hardcore rap, nous on cherche pas les harmo'",
         "ligne2": "On n'aime pas les pédés, on a rien contre les homos"
     },
     {
@@ -1643,7 +1643,7 @@
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-le-crime-parfait-lyrics",
         "couplet": "Couplet 2",
-        "ligne1": "Schlass sa putain d'beuj, j'ai fais une croix sur Clairefontaine",
+        "ligne1": "J'schlass sa putain d'beuj, j'ai fais une croix sur Clairefontaine",
         "ligne2": "Tise un verre de rhumpéi, fume la verte de Popeye"
     },
     {
@@ -1654,69 +1654,6 @@
         "couplet": "Couplet 2",
         "ligne1": "Je choisis pas, j'prends un de chaque",
         "ligne2": "Mal à la tête, ferme ta gueule et blinde le sac"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "Fou rires devant les chiffres , mais personne a tapé de ballon",
-        "ligne2": "J'passe mon temps à les **** et j'passe la nuit sur le balcon"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "J'sens plus l'effet du shit , j'sens toujours les bons plavons",
-        "ligne2": "J'pense qu'à passer ma p'tite mif, pas loin du petit lagon"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "Semi-automatique,  l'artisan a scié le canon",
-        "ligne2": "Le poto à ramener le goût et la fimbi a chauffé le charbon"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "Maman a bien nourri le p'tit, le p'tit a touché le plafond",
-        "ligne2": "J'ai vendu à Neuilly, vendu à Bastille, vendu à Nation"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "Pa-Pa-Pas d'compétition, album sorti, démonstration",
-        "ligne2": "Album doré, démonstration, Album platinе, démonstration"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "Ils ont voulu toucher l'Z, msaken ils ont touché l'fond",
-        "ligne2": "Pour nous tout est stеn, la partie est finie, y'a pas d'prolongation"
-    },
-    {
-        "artiste": "Ziak",
-        "titre": "Démonstration",
-        "date": "2023-02-24",
-        "url": "https://genius.com/Ziak-demonstration-lyrics",
-        "couplet": "Couplet Unique",
-        "ligne1": "Et les mauvaises nouvelles ne datent pas d'hier",
-        "ligne2": "J'suis d'mauvaise humeur, mauvaise humeur, là j'suis d'mauvaise humeur"
     },
     {
         "artiste": "Ziak",
@@ -1769,8 +1706,62 @@
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-mauvais-jour-lyrics",
         "couplet": "Couplet 1",
-        "ligne1": "J'ai 19 ans, j'ai 19 ans, j'ai pas grand choses, j'ai un 6,35",
-        "ligne2": "Si j'bouge pas aujourd'hui, j'bougerai pas dans dix ans"
+        "ligne1": "\"J'ai, j'ai 19 ans, j'ai pas grand choses, j'ai un 6,35",
+        "ligne2": "Si j'bouge pas aujourd'hui, j'bougerai pas dans dix ans\""
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Démonstration",
+        "date": "2023-02-24",
+        "url": "https://genius.com/Ziak-demonstration-lyrics",
+        "couplet": "Couplet Unique",
+        "ligne1": "Fou rires devant les chiffres , mais personne a tapé de ballon",
+        "ligne2": "J'passe mon temps à les **** et j'passe la nuit sur le balcon"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Démonstration",
+        "date": "2023-02-24",
+        "url": "https://genius.com/Ziak-demonstration-lyrics",
+        "couplet": "Couplet Unique",
+        "ligne1": "J'sens plus l'effet du shit , j'sens toujours les bons plavons",
+        "ligne2": "J'pense qu'à placer ma p'tite mif, pas loin du petit lagon"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Démonstration",
+        "date": "2023-02-24",
+        "url": "https://genius.com/Ziak-demonstration-lyrics",
+        "couplet": "Couplet Unique",
+        "ligne1": "Semi-automatique,  l'artisan a scié le canon",
+        "ligne2": "Le poto à ramener le goût et la fimbi a chauffé le charbon"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Démonstration",
+        "date": "2023-02-24",
+        "url": "https://genius.com/Ziak-demonstration-lyrics",
+        "couplet": "Couplet Unique",
+        "ligne1": "Maman a bien nourri le p'tit, le p'tit a touché le plafond",
+        "ligne2": "J'ai vendu à Neuilly, vendu à Bastille, vendu à Nation"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Démonstration",
+        "date": "2023-02-24",
+        "url": "https://genius.com/Ziak-demonstration-lyrics",
+        "couplet": "Couplet Unique",
+        "ligne1": "Pa-Pa-Pas d'compétition, album sorti, démonstration",
+        "ligne2": "Album doré, démonstration, Album platinе, démonstration"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Démonstration",
+        "date": "2023-02-24",
+        "url": "https://genius.com/Ziak-demonstration-lyrics",
+        "couplet": "Couplet Unique",
+        "ligne1": "Ils ont voulu toucher l'Z, msaken ils ont touché l'fond",
+        "ligne2": "Pour nous tout est stеn, la partie est finie, y'a pas d'prolongation"
     },
     {
         "artiste": "Ziak",
@@ -1895,7 +1886,7 @@
         "date": "2023-05-26",
         "url": "https://genius.com/Ziak-halla-lyrics",
         "couplet": "Couplet 2",
-        "ligne1": "Fils de pute, t'as fini sous un Jeep piloté par un [p'tit/G ?]",
+        "ligne1": "Fils de pute, t'as fini sous un Jeep piloté par un p'tit",
         "ligne2": "Tout c'qui m'sépare de son gros cul, c'est cinq millimètres de jean"
     },
     {
@@ -1999,25 +1990,25 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Couplet 1",
         "ligne1": "Mon bigo fait qu'sonner, j'crois qu'vos putes se lassent",
-        "ligne2": "Mon poto m'a trahi j'ai changer l'flingue de place"
+        "ligne2": "Mon poto m'a trahi j'ai changé l'flingue de place"
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Couplet 1",
-        "ligne1": "J'les entend qui bavarde, loin d'la où ca s'passe",
-        "ligne2": "Tu sais qu'on les canarde et qu'on fais pas d'chasse"
+        "ligne1": "J'les entends qui bavardent, loin d'la où ca s'passe",
+        "ligne2": "Tu sais qu'on les canarde et qu'on fait pas d'chasse"
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Couplet 1",
@@ -2026,7 +2017,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2035,7 +2026,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2044,7 +2035,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2053,7 +2044,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2062,7 +2053,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Couplet 2",
@@ -2071,16 +2062,16 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Couplet 2",
-        "ligne1": "Pour les habitués c'est le même prix, j'peux pas donner par pitié",
+        "ligne1": "Pour les habitués c'est le même prix, j'fais pas dans les \"par pitié\"",
         "ligne2": "J'ai des gens à mettre à l'abri, j'ai des gens à mettre à l'abri"
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2089,7 +2080,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2098,7 +2089,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2107,7 +2098,7 @@
     },
     {
         "artiste": "Ziak",
-        "titre": "Op Gante",
+        "titre": "Op Ganté",
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-op-gante-lyrics",
         "couplet": "Refrain",
@@ -2210,7 +2201,7 @@
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-la-plage-lyrics",
         "couplet": "Couplet unique",
-        "ligne1": "Créer des pièces, c'est estampiller",
+        "ligne1": "Créer des pièces, CC estampiller",
         "ligne2": "J'ai des infos et c'est toutes des faits"
     },
     {
@@ -2228,7 +2219,7 @@
         "date": "2023-02-24",
         "url": "https://genius.com/Ziak-rappel-des-faits-lyrics",
         "couplet": "Couplet 1",
-        "ligne1": "J'ai la spéciale strat' dans le coffre d'les-pace",
+        "ligne1": "J'ai la spéciale strat' dans le coffre d'lEs-pace",
         "ligne2": "Le H m'a dit ves-qui l'hebs, la porte sans poignée ça m'a rendu barge"
     },
     {
@@ -2247,6 +2238,51 @@
         "url": "https://genius.com/Ziak-rappel-des-faits-lyrics",
         "couplet": "Couplet 1",
         "ligne1": "Mais on vole pas les pauvres gens",
-        "ligne2": "Y avait une chambrе, y'avait pas d'autres chambres"
+        "ligne2": "Y avait une chambre, y'avait pas d'autrеs chambres"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Cette vie",
+        "date": "2023-07-28",
+        "url": "https://genius.com/Ziak-cette-vie-lyrics",
+        "couplet": "Intro",
+        "ligne1": "C'est fini, maintenant, l'business, il m'a niqué, ça y est",
+        "ligne2": "J'lui ai mis son tarif, bébé, y a pas de S.A.V"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Cette vie",
+        "date": "2023-07-28",
+        "url": "https://genius.com/Ziak-cette-vie-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "T'as trop mal parlé, il faut t'excuser",
+        "ligne2": "T'avais juste à gagner, faut pas m'expliquer"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Cette vie",
+        "date": "2023-07-28",
+        "url": "https://genius.com/Ziak-cette-vie-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'suis à huis clos quand j'recompte , accompagné quand j'remonte",
+        "ligne2": "Sur mes côtes, elle s'rend pas compte , elle aimera pas ce monde"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Cette vie",
+        "date": "2023-07-28",
+        "url": "https://genius.com/Ziak-cette-vie-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'ai des potes d'enfance à l'ombre, j'ai des potes d'enfance au ciel",
+        "ligne2": "Quand y a des ennemis qui rodent, suffit pas d'verser du sel"
+    },
+    {
+        "artiste": "Ziak",
+        "titre": "Cette vie",
+        "date": "2023-07-28",
+        "url": "https://genius.com/Ziak-cette-vie-lyrics",
+        "couplet": "Pont",
+        "ligne1": "C'est fini, maintenant, l'business, il m'a niqué, ça y est",
+        "ligne2": "J'lui ai mis son tarif, bébé, y a pas de S.A.V"
     }
 ]

@@ -1,10 +1,12 @@
 # cache
 .vscode/
 __pycache__/
-env/
+venv/
 
 # useless big files
 lyrics/
 
 # private files
 auth.py
+analyse/
+analyse.py

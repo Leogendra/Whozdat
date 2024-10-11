@@ -11,8 +11,8 @@ if not os.path.exists("lyrics"):
     os.makedirs("lyrics")
 
 artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso", "Alpha Wann", "Freeze Corleone", "Kaaris", "Booba", "Bigflo & Oli", "Caballero & JeanJass", "Tayc", "Dadju", "Jul", "SCH", "Angèle", "Aya Nakamura", "Laylow", "Jazzy Bazz", "Gringe", "Vald"]
-artists += ["Ninho", "Koba LaD", "Hamza", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Lorenzo", "Ziak", "Stromae", "Gazo", "Naza", "PNL"] # Non utilisés
-# artists = ["Nekfeu", "Orelsan", "Lomepal", "Damso"]
+artists += ["Ninho", "Koba LaD", "Hamza", "Gims", "MC Solaar", "Eddy De Pretto", "Roméo Elvis", "Diams", "Lorenzo", "Ziak", "Stromae", "Gazo", "Naza", "PNL"] # Non utilisés dans le front
+
 nb_max_song = 100
 full_total_time = time.time()
 processes = []
@@ -24,7 +24,7 @@ for artist in artists:
             process = subprocess.Popen(command)
             processes.append(process)
 
-            time.sleep(.1)
+            time.sleep(10)
 
         except Exception as e:
              print(RED + f"Erreur sur {artist}" + RESET)

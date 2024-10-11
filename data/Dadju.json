@@ -451,24 +451,6 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Déjà Trouvé",
-        "date": "2017-02-26",
-        "url": "https://genius.com/Dadju-deja-trouve-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Tout le monde la connaît dans l'jeu",
-        "ligne2": "Si t'as pas tes crampons sous les semelles, c'est dangereux"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Déjà Trouvé",
-        "date": "2017-02-26",
-        "url": "https://genius.com/Dadju-deja-trouve-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'crois bien que je l'ai choquée",
-        "ligne2": "Mademoiselle n'a pas l'habitude d'être bloquée"
-    },
-    {
-        "artiste": "Dadju",
         "titre": "Oublie-le",
         "date": "2017-11-24",
         "url": "https://genius.com/Dadju-oublie-le-lyrics",
@@ -556,6 +538,24 @@
         "couplet": "Pré-refrain",
         "ligne1": "Laisse-moi te revoir, si t'es sûre de ne pas tomber",
         "ligne2": "J'te montrerai bien plus que des mots, oh yeah"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Déjà Trouvé",
+        "date": "2017-02-26",
+        "url": "https://genius.com/Dadju-deja-trouve-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tout le monde la connaît dans l'jeu",
+        "ligne2": "Si t'as pas tes crampons sous les semelles, c'est dangereux"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Déjà Trouvé",
+        "date": "2017-02-26",
+        "url": "https://genius.com/Dadju-deja-trouve-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'crois bien que je l'ai choquée",
+        "ligne2": "Mademoiselle n'a pas l'habitude d'être bloquée"
     },
     {
         "artiste": "Dadju",
@@ -838,78 +838,6 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "Tu veux un amour fort et sincère ? Tu demandes à Maman",
-        "ligne2": "C'est soit tu détruis ma vie, soit t'es l'médicament"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "Et j'suis toujours autre part, bébé, c'soir, je rentre tard",
-        "ligne2": "Gentleman sans costard, j'mène une vie de rock star"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "J'voulais faire le milli', milli', maintenant j'en ai deux-trois",
-        "ligne2": "J'donne l'heure à ces tocards, j'viens d'signer chez Audemars"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "J'aime quand maman m'dit : \"Mon fils, t'es la fierté des nôtres\"",
-        "ligne2": "J'ai la clé qui ouvre toutes les portes"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "J'ai pété l'disque de diamant pourtant j'étais loin derrière",
-        "ligne2": "C'est pas pour l'style quand j'te dis que j'ai dû remuer ciel et terre"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "Numéro 10 dans mon domaine avec l'art et la manière",
-        "ligne2": "Je vois ton vice quand j'me rappelle des deux-trois années derrière"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "Tu veux un amour fort et sincère ? Tu demandes à Maman",
-        "ligne2": "C'est soit tu détruis ma vie, soit t'es l'médicament"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Paire d'As",
-        "date": "2019-11-15",
-        "url": "https://genius.com/Dadju-paire-das-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "Tu veux un amour fort et sincère ? Tu demandes à Maman",
-        "ligne2": "C'est soit tu détruis ma vie, soit t'es l'médicament"
-    },
-    {
-        "artiste": "Dadju",
         "titre": "Trouvez-la moi",
         "date": "2017-11-24",
         "url": "https://genius.com/Dadju-trouvez-la-moi-lyrics",
@@ -1087,6 +1015,78 @@
         "couplet": "Refrain : Dadju, Fally Ipupa",
         "ligne1": "Combien d'hommes ont essayé de la marier",
         "ligne2": "Elle sait comment les manipuler"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Tu veux un amour fort et sincère ? Tu demandes à Maman",
+        "ligne2": "C'est soit tu détruis ma vie, soit t'es l'médicament"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "Et j'suis toujours autre part, bébé, c'soir, je rentre tard",
+        "ligne2": "Gentleman sans costard, j'mène une vie de rock star"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'voulais faire le milli', milli', maintenant j'en ai deux-trois",
+        "ligne2": "J'donne l'heure à ces tocards, j'viens d'signer chez Audemars"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'aime quand maman m'dit : \"Mon fils, t'es la fierté des nôtres\"",
+        "ligne2": "J'ai la clé qui ouvre toutes les portes"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'ai pété l'disque de diamant pourtant j'étais loin derrière",
+        "ligne2": "C'est pas pour l'style quand j'te dis que j'ai dû remuer ciel et terre"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "Numéro 10 dans mon domaine avec l'art et la manière",
+        "ligne2": "Je vois ton vice quand j'me rappelle des deux-trois années derrière"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Tu veux un amour fort et sincère ? Tu demandes à Maman",
+        "ligne2": "C'est soit tu détruis ma vie, soit t'es l'médicament"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Paire d'As",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-paire-das-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Tu veux un amour fort et sincère ? Tu demandes à Maman",
+        "ligne2": "C'est soit tu détruis ma vie, soit t'es l'médicament"
     },
     {
         "artiste": "Dadju",
@@ -1468,33 +1468,6 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Intuition",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-intuition-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Si ton intuition t'avertit, alors dis-moi ce qu'elle te dit",
-        "ligne2": "Ne reste pas dans ton coin, non"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Intuition",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-intuition-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Réglons ça maintenant, avant qu'ton cœur m'oublie",
-        "ligne2": "Si ton intuition t'avertit, alors dis-moi ce qu'elle te dit"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Intuition",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-intuition-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Ne reste pas dans ton coin, non",
-        "ligne2": "Réglons ça maintenant, avant qu'ton cœur m'oublie"
-    },
-    {
-        "artiste": "Dadju",
         "titre": "Grand bain",
         "date": "2020-06-19",
         "url": "https://genius.com/Dadju-grand-bain-lyrics",
@@ -1618,6 +1591,33 @@
         "couplet": "Refrain : Dadju",
         "ligne1": "C'est nous deux ou bien rien jusqu'à la fin, oh",
         "ligne2": "Y a trop d'jaloux, trop d'requins dans le grand bain"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Intuition",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-intuition-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Si ton intuition t'avertit, alors dis-moi ce qu'elle te dit",
+        "ligne2": "Ne reste pas dans ton coin, non"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Intuition",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-intuition-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Réglons ça maintenant, avant qu'ton cœur m'oublie",
+        "ligne2": "Si ton intuition t'avertit, alors dis-moi ce qu'elle te dit"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Intuition",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-intuition-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Ne reste pas dans ton coin, non",
+        "ligne2": "Réglons ça maintenant, avant qu'ton cœur m'oublie"
     },
     {
         "artiste": "Dadju",
@@ -2017,129 +2017,120 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Si je dis qu'il nous faut plus de patience",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Ma chérie, fais tes valises, on va quitter la street",
+        "ligne2": "J'ai fait du bénéf' qu'on va investir en Afrique"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu me répètes que ça ne va que dans un sens",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "J'sais c'que c'est d'avoir la dalle, aujourd'hui, j'dis : \"Dieu merci\"",
+        "ligne2": "C'est pas Paris mais la carte de crédit qui est magique, hum"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu n'as jamais voulu me faire confiance",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Couplet 1 : Dadju & Tiakola",
+        "ligne1": "J'ai donné mes premiers llets-bi à mes tantines, Western au Congo",
+        "ligne2": "Après, j'ai changé d'habits, Louis, Gucci, pour me sentir beau"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'te l'ai dit, je ne peux combler ton absence",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Couplet 1 : Dadju & Tiakola",
+        "ligne1": "J'en rêvais depuis petit donc j'ai pété le dernier Merco'",
+        "ligne2": "Monte un peu dans le bolide, y aura toujours ta place à té-cô"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Un de ses geon-pi qu'on a surpris sur Tinder",
-        "ligne2": "Si j'suis ici, c'est que j'estime que tu mérites plus d'un quart-heure"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Couplet 1 : Dadju & Tiakola",
+        "ligne1": "Comme le patron du four, on a les femmes, on a deux bigos",
+        "ligne2": "T'as beau être le plus fort mais pour t'éteindre, on a la méthode"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Mais être gentil, ça veut pas dire être le petit de son âme sœur",
-        "ligne2": "J'ai pris du temps pour te parler"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Ma chérie, fais tes valises, on va quitter la street",
+        "ligne2": "J'ai fait du bénéf' qu'on va investir en Afrique"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Tu m'laisses même pas l'temps d'te prouver",
-        "ligne2": "J'ai tout essayer, t'es traumatisé"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "J'sais c'que c'est d'avoir la dalle, aujourd'hui, j'dis : \"Dieu merci\"",
+        "ligne2": "C'est pas Paris mais la carte de crédit qui est magique, hum"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Mais comment tu veux tout réparer",
-        "ligne2": "Dis-moi ce que t'as à proposer"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Couplet 2 : Dadju & Tiakola",
+        "ligne1": "Quand je dis que j'ai fait d'l'oseille, c'est qu'tout est bon",
+        "ligne2": "Va briefer tous les baqueux, lui demander si c'est mon gamos"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Si je dis qu'il nous faut plus de patience",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Couplet 2 : Dadju & Tiakola",
+        "ligne1": "Ah, quand y a pas l'oseille, je me sens mal, je me sens faible",
+        "ligne2": "Pour oublier tout ça : du Jack au miel, remets dans l'verre"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu me répètes que ça ne va que dans un sens",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Couplet 2 : Dadju & Tiakola",
+        "ligne1": "Ils veulent ma SACEM, ils veulent mon buzz, ils veulent me faire",
+        "ligne2": "Non, j'suis pas tout seul, y a tous mes srabs, y a tous mes frères"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Tu n'as jamais voulu me faire confiance",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Refrain : Tiakola & Dadju",
+        "ligne1": "Ma chérie, fais tes valises, on va quitter la street",
+        "ligne2": "J'ai fait du bénéf' qu'on va investir en Afrique"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'te l'ai dit, je ne peux combler ton absence",
-        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Refrain : Tiakola & Dadju",
+        "ligne1": "J'sais c'que c'est d'avoir la dalle, aujourd'hui, j'dis : \"Dieu merci\"",
+        "ligne2": "C'est pas Paris mais la carte de crédit qui est magique, hum"
     },
     {
         "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Si je dis qu'il nous faut plus de patience",
-        "ligne2": "Pourquoi tu doutes ? Dis-moi pourquoi tu doutes"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "#PTD",
-        "date": "2017-11-24",
-        "url": "https://genius.com/Dadju-ptd-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Tu n'as jamais voulu me faire confiance",
-        "ligne2": "Pourquoi tu doutes ? Dis-moi pourquoi tu doutes"
+        "titre": "Dieu merci",
+        "date": "2020-10-09",
+        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
+        "couplet": "Pont : Dadju & Tiakola",
+        "ligne1": "Y a plus rien à faire ici , j'ai déjà fait mon ff-bi",
+        "ligne2": "Ma chérie a joli physique, vacances en CDI"
     },
     {
         "artiste": "Dadju",
@@ -2305,120 +2296,129 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "Ma chérie, fais tes valises, on va quitter la street",
-        "ligne2": "J'ai fait du bénéf' qu'on va investir en Afrique"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Si je dis qu'il nous faut plus de patience",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "J'sais c'que c'est d'avoir la dalle, aujourd'hui, j'dis : \"Dieu merci\"",
-        "ligne2": "C'est pas Paris mais la carte de crédit qui est magique, hum"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu me répètes que ça ne va que dans un sens",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Couplet 1 : Dadju & Tiakola",
-        "ligne1": "J'ai donné mes premiers llets-bi à mes tantines, Western au Congo",
-        "ligne2": "Après, j'ai changé d'habits, Louis, Gucci, pour me sentir beau"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu n'as jamais voulu me faire confiance",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Couplet 1 : Dadju & Tiakola",
-        "ligne1": "J'en rêvais depuis petit donc j'ai pété le dernier Merco'",
-        "ligne2": "Monte un peu dans le bolide, y aura toujours ta place à té-cô"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'te l'ai dit, je ne peux combler ton absence",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Couplet 1 : Dadju & Tiakola",
-        "ligne1": "Comme le patron du four, on a les femmes, on a deux bigos",
-        "ligne2": "T'as beau être le plus fort mais pour t'éteindre, on a la méthode"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Un de ses geon-pi qu'on a surpris sur Tinder",
+        "ligne2": "Si j'suis ici, c'est que j'estime que tu mérites plus d'un quart-heure"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "Ma chérie, fais tes valises, on va quitter la street",
-        "ligne2": "J'ai fait du bénéf' qu'on va investir en Afrique"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Mais être gentil, ça veut pas dire être le petit de son âme sœur",
+        "ligne2": "J'ai pris du temps pour te parler"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "J'sais c'que c'est d'avoir la dalle, aujourd'hui, j'dis : \"Dieu merci\"",
-        "ligne2": "C'est pas Paris mais la carte de crédit qui est magique, hum"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Tu m'laisses même pas l'temps d'te prouver",
+        "ligne2": "J'ai tout essayer, t'es traumatisé"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Couplet 2 : Dadju & Tiakola",
-        "ligne1": "Quand je dis que j'ai fait d'l'oseille, c'est qu'tout est bon",
-        "ligne2": "Va briefer tous les baqueux, lui demander si c'est mon gamos"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Mais comment tu veux tout réparer",
+        "ligne2": "Dis-moi ce que t'as à proposer"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Couplet 2 : Dadju & Tiakola",
-        "ligne1": "Ah, quand y a pas l'oseille, je me sens mal, je me sens faible",
-        "ligne2": "Pour oublier tout ça : du Jack au miel, remets dans l'verre"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Si je dis qu'il nous faut plus de patience",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Couplet 2 : Dadju & Tiakola",
-        "ligne1": "Ils veulent ma SACEM, ils veulent mon buzz, ils veulent me faire",
-        "ligne2": "Non, j'suis pas tout seul, y a tous mes srabs, y a tous mes frères"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu me répètes que ça ne va que dans un sens",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Refrain : Tiakola & Dadju",
-        "ligne1": "Ma chérie, fais tes valises, on va quitter la street",
-        "ligne2": "J'ai fait du bénéf' qu'on va investir en Afrique"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "Tu n'as jamais voulu me faire confiance",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Refrain : Tiakola & Dadju",
-        "ligne1": "J'sais c'que c'est d'avoir la dalle, aujourd'hui, j'dis : \"Dieu merci\"",
-        "ligne2": "C'est pas Paris mais la carte de crédit qui est magique, hum"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'te l'ai dit, je ne peux combler ton absence",
+        "ligne2": "Dis-moi, dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
-        "titre": "Dieu merci",
-        "date": "2020-10-09",
-        "url": "https://genius.com/Dadju-dieu-merci-lyrics",
-        "couplet": "Pont : Dadju & Tiakola",
-        "ligne1": "Y a plus rien à faire ici , j'ai déjà fait mon ff-bi",
-        "ligne2": "Ma chérie a joli physique, vacances en CDI"
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Outro",
+        "ligne1": "Si je dis qu'il nous faut plus de patience",
+        "ligne2": "Pourquoi tu doutes ? Dis-moi pourquoi tu doutes"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "#PTD",
+        "date": "2017-11-24",
+        "url": "https://genius.com/Dadju-ptd-lyrics",
+        "couplet": "Outro",
+        "ligne1": "Tu n'as jamais voulu me faire confiance",
+        "ligne2": "Pourquoi tu doutes ? Dis-moi pourquoi tu doutes"
     },
     {
         "artiste": "Dadju",
@@ -2809,7 +2809,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Couplet 1",
@@ -2818,7 +2818,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2827,7 +2827,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2836,7 +2836,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2845,7 +2845,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2854,7 +2854,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Couplet 2",
@@ -2863,7 +2863,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Couplet 2",
@@ -2872,7 +2872,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2881,7 +2881,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2890,7 +2890,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2899,7 +2899,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2908,7 +2908,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Pont",
@@ -2917,7 +2917,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Pont",
@@ -2926,7 +2926,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Pont",
@@ -2935,7 +2935,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Pont",
@@ -2944,7 +2944,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2953,7 +2953,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2962,7 +2962,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2971,7 +2971,7 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Amour Toxic",
+        "titre": "Amour toxic",
         "date": "2020-09-28",
         "url": "https://genius.com/Dadju-amour-toxic-lyrics",
         "couplet": "Refrain",
@@ -2994,7 +2994,7 @@
         "url": "https://genius.com/Dadju-la-roue-tourne-lyrics",
         "couplet": "Refrain",
         "ligne1": "Je sais que la roue tourne, la roue tourne",
-        "ligne2": "C'est toi qui aura mal en dernier, je te le promets"
+        "ligne2": "C'est toi qui auras mal en dernier, je te le promets"
     },
     {
         "artiste": "Dadju",
@@ -3012,7 +3012,7 @@
         "url": "https://genius.com/Dadju-la-roue-tourne-lyrics",
         "couplet": "Refrain",
         "ligne1": "Je sais la roue tourne, la roue tourne",
-        "ligne2": "C'est toi qui aura mal en dernier, je te le promets"
+        "ligne2": "C'est toi qui auras mal en dernier, je te le promets"
     },
     {
         "artiste": "Dadju",
@@ -3030,7 +3030,7 @@
         "url": "https://genius.com/Dadju-la-roue-tourne-lyrics",
         "couplet": "Refrain",
         "ligne1": "Je sais que la roue tourne, la roue tourne",
-        "ligne2": "C'est toi qui aura mal en dernier"
+        "ligne2": "C'est toi qui auras mal en dernier"
     },
     {
         "artiste": "Dadju",
@@ -3048,7 +3048,7 @@
         "url": "https://genius.com/Dadju-la-roue-tourne-lyrics",
         "couplet": "Refrain",
         "ligne1": "La roue tourne, la roue tourne",
-        "ligne2": "C'est toi qui aura mal en dernier, je te le promets"
+        "ligne2": "C'est toi qui auras mal en dernier, je te le promets"
     },
     {
         "artiste": "Dadju",
@@ -3583,60 +3583,6 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Tu n'es pas moi",
-        "date": "2018-10-05",
-        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'ai peur pour vous, pour vous",
-        "ligne2": "Il se passera quoi quand je serai plus saoul"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Tu n'es pas moi",
-        "date": "2018-10-05",
-        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Au final, tu l'as fait quand même",
-        "ligne2": "Et tu oses me dire que tu m'aimes"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Tu n'es pas moi",
-        "date": "2018-10-05",
-        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Avec cinq-six négros, on va l'emmener sur le té-cô",
-        "ligne2": "J'étais sûr qu'au fond de toi, tu trouverai la force pour m'pardonner"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Tu n'es pas moi",
-        "date": "2018-10-05",
-        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
-        "couplet": "Pré-Refrain",
-        "ligne1": "T'as réussi à me mettre un couteau dans le dos",
-        "ligne2": "Oui c'est la même bêtise mais nous deux, c'est pas pareil"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Tu n'es pas moi",
-        "date": "2018-10-05",
-        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
-        "couplet": "Pré-Refrain",
-        "ligne1": "On t'avait dit de ne pas jouer avec les hommes",
-        "ligne2": "Oui c'est la même bêtise mais nous deux, c'est pas pareil"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Tu n'es pas moi",
-        "date": "2018-10-05",
-        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'ai peur pour vous, pour vous",
-        "ligne2": "Il se passera quoi quand je serai plus saoul"
-    },
-    {
-        "artiste": "Dadju",
         "titre": "Sans thème",
         "date": "2018-10-05",
         "url": "https://genius.com/Dadju-sans-theme-lyrics",
@@ -3688,6 +3634,60 @@
         "couplet": "Couplet 1",
         "ligne1": "Ah ah, elle sait twerker sans trop s'lever de la chaise",
         "ligne2": "Ah ah, juste poser les yeux sur elle, ça m'apaise"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Tu n'es pas moi",
+        "date": "2018-10-05",
+        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'ai peur pour vous, pour vous",
+        "ligne2": "Il se passera quoi quand je serai plus saoul"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Tu n'es pas moi",
+        "date": "2018-10-05",
+        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Au final, tu l'as fait quand même",
+        "ligne2": "Et tu oses me dire que tu m'aimes"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Tu n'es pas moi",
+        "date": "2018-10-05",
+        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Avec cinq-six négros, on va l'emmener sur le té-cô",
+        "ligne2": "J'étais sûr qu'au fond de toi, tu trouverai la force pour m'pardonner"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Tu n'es pas moi",
+        "date": "2018-10-05",
+        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
+        "couplet": "Pré-Refrain",
+        "ligne1": "T'as réussi à me mettre un couteau dans le dos",
+        "ligne2": "Oui c'est la même bêtise mais nous deux, c'est pas pareil"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Tu n'es pas moi",
+        "date": "2018-10-05",
+        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
+        "couplet": "Pré-Refrain",
+        "ligne1": "On t'avait dit de ne pas jouer avec les hommes",
+        "ligne2": "Oui c'est la même bêtise mais nous deux, c'est pas pareil"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Tu n'es pas moi",
+        "date": "2018-10-05",
+        "url": "https://genius.com/Dadju-tu-nes-pas-moi-lyrics",
+        "couplet": "Refrain",
+        "ligne1": "J'ai peur pour vous, pour vous",
+        "ligne2": "Il se passera quoi quand je serai plus saoul"
     },
     {
         "artiste": "Dadju",
@@ -4180,6 +4180,33 @@
         "titre": "Please",
         "date": "2019-11-15",
         "url": "https://genius.com/Dadju-please-lyrics",
+        "couplet": "Couplet 2 : Tayc, Dadju & Ensemble",
+        "ligne1": "J'étais le seul, l'unique la veille",
+        "ligne2": "Tu parlais même de m'élever au rang de prince"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Please",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-please-lyrics",
+        "couplet": "Couplet 2 : Tayc, Dadju & Ensemble",
+        "ligne1": "Donc permet moi de douter un peu",
+        "ligne2": "Ça devient maladif, ça devient maladif"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Please",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-please-lyrics",
+        "couplet": "Couplet 2 : Tayc, Dadju & Ensemble",
+        "ligne1": "T'as mentis de minuit à l'aube",
+        "ligne2": "Et maintenant tu prends, tu recules sur nous mais jamais"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Please",
+        "date": "2019-11-15",
+        "url": "https://genius.com/Dadju-please-lyrics",
         "couplet": "Pré-Refrain : Tayc & Dadju",
         "ligne1": "Ton corps n'a plus rien de spécial",
         "ligne2": "Bien trop d'hommes y ont gouté"
@@ -4201,6 +4228,87 @@
         "couplet": "Pont",
         "ligne1": "Please me if you want it, yeah",
         "ligne2": "Seventeen drops, you're my weakness"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "J'ai retrouvé mon avenir, il est caché dans ton corps",
+        "ligne2": "Et les clés que j'aime utiliser n'ouvriront pas ta porte"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Regarde-moi donner ma vie, regarde-moi changer la tienne",
+        "ligne2": "J'immortaliserai aujourd'hui pour que demain s'en souvienne"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 1",
+        "ligne1": "Tu demanderas si je te mens, mon cœur parlera directement",
+        "ligne2": "Ferme les yeux, écoute-moi te dire tout c'que j'pеnse de toi"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "Hey, j'ai fait l'tour de tous les pays, je t'ai trouvé pour de bon",
+        "ligne2": "Avancer petit à petit pour n'pas choquer Cendrillon"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "J'pensais finir seul à vieillir, l'amour, c'est pas pour tout l'monde",
+        "ligne2": "J'ai laissé mon corps les choisir, mon cœur m'donnait plus d'réponse"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "On a presque aucun rapport et alors ?",
+        "ligne2": "Pour s'compléter, la différence, c'est même obligé"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Couplet 2",
+        "ligne1": "On s'aimera bien plus fort, viens me prouver que j'ai tort",
+        "ligne2": "La fin du film au cinéma comme dans les clichés"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Pont",
+        "ligne1": "La lumière qu'on allumera s'éternisera",
+        "ligne2": "J'reste persuadé qu'aujourd'hui rien n'arrive par hasard, Ima"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Ima",
+        "date": "2022-05-13",
+        "url": "https://genius.com/Dadju-ima-lyrics",
+        "couplet": "Pont",
+        "ligne1": "Y'a qu'à l'œil nu qu'on contemple une œuvre d'art",
+        "ligne2": "C'est quand j'te vois que j'réalise c'que je n'voyais pas"
     },
     {
         "artiste": "Dadju",
@@ -4318,87 +4426,6 @@
         "couplet": "Pré-refrain : Dadju",
         "ligne1": "Et même si c'est le temps d'un soir",
         "ligne2": "Laisse-moi confirmer que tu es réelle"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "J'ai retrouvé mon avenir, il est caché dans ton corps",
-        "ligne2": "Et les clés que j'aime utiliser n'ouvriront pas ta porte"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Regarde-moi donner ma vie, regarde-moi changer la tienne",
-        "ligne2": "J'immortaliserai aujourd'hui pour que demain s'en souvienne"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 1",
-        "ligne1": "Tu demanderas si je te mens, mon cœur parlera directement",
-        "ligne2": "Ferme les yeux, écoute-moi te dire tout c'que j'pеnse de toi"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "Hey, j'ai fait l'tour de tous les pays, je t'ai trouvé pour de bon",
-        "ligne2": "Avancer petit à petit pour n'pas choquer Cendrillon"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "J'pensais finir seul à vieillir, l'amour, c'est pas pour tout l'monde",
-        "ligne2": "J'ai laissé mon corps les choisir, mon cœur m'donnait plus d'réponse"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "On a presque aucun rapport et alors ?",
-        "ligne2": "Pour s'compléter, la différence, c'est même obligé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Couplet 2",
-        "ligne1": "On s'aimera bien plus fort, viens me prouver que j'ai tort",
-        "ligne2": "La fin du film au cinéma comme dans les clichés"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Pont",
-        "ligne1": "La lumière qu'on allumera s'éternisera",
-        "ligne2": "J'reste persuadé qu'aujourd'hui rien n'arrive par hasard, Ima"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Ima",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-ima-lyrics",
-        "couplet": "Pont",
-        "ligne1": "Y'a qu'à l'œil nu qu'on contemple une œuvre d'art",
-        "ligne2": "C'est quand j'te vois que j'réalise c'que je n'voyais pas"
     },
     {
         "artiste": "Dadju",
@@ -4838,7 +4865,7 @@
         "date": "2019-11-18",
         "url": "https://genius.com/Dadju-back-it-up-lyrics",
         "couplet": "Couplet 1",
-        "ligne1": "Tu dessines un s de profil, t'es mi-vulgaire, mi-charismatique",
+        "ligne1": "Tu dessines un \"s\" de profil, t'es mi-vulgaire, mi-charismatique",
         "ligne2": "Sur Instagram, dans tes dm's, il pleut"
     },
     {
@@ -5176,6 +5203,33 @@
     },
     {
         "artiste": "Dadju",
+        "titre": "La guitare suit la mélo",
+        "date": "2023-09-29",
+        "url": "https://genius.com/Dadju-la-guitare-suit-la-melo-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'irais bosser comme un esclave, la lune est еn chemin, reste là",
+        "ligne2": "Désolé, ma chériе, j'veux des gosses de riches comme le boss de Tesla"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "La guitare suit la mélo",
+        "date": "2023-09-29",
+        "url": "https://genius.com/Dadju-la-guitare-suit-la-melo-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'ai trop tourné sur Beriz, à la recherche du khaliss",
+        "ligne2": "Bébé, dès qu'j'te donne le go, on décale aux Maldives sans valises"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "La guitare suit la mélo",
+        "date": "2023-09-29",
+        "url": "https://genius.com/Dadju-la-guitare-suit-la-melo-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "Oublie le rêve des cains-ri, j'suis Congolais comme Koffi",
+        "ligne2": "Bébé, pour ton loketo, j'irai chercher l'soleil à minuit"
+    },
+    {
+        "artiste": "Dadju",
         "titre": "Up And Down",
         "date": "2020-10-30",
         "url": "https://genius.com/Dadju-up-and-down-lyrics",
@@ -5446,6 +5500,15 @@
     },
     {
         "artiste": "Dadju",
+        "titre": "Toko Toko",
+        "date": "2022-04-15",
+        "url": "https://genius.com/Dadju-toko-toko-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "Baby girl, dans ton attitude, t'as ce truc qui m'fait penser à moi",
+        "ligne2": "Faut voir comment tu anticipes, tu fais comme si tu m'connaissais déjà"
+    },
+    {
+        "artiste": "Dadju",
         "titre": "Danger",
         "date": "2019-11-18",
         "url": "https://genius.com/Dadju-danger-lyrics",
@@ -5470,15 +5533,6 @@
         "couplet": "Couplet 1 : Dadju",
         "ligne1": "Mais en même temps, ressortir c'qui est mauvais",
         "ligne2": "Je peux pas continuer de te laisser jongler, yeah"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Toko Toko",
-        "date": "2022-04-15",
-        "url": "https://genius.com/Dadju-toko-toko-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "Baby girl, dans ton attitude, t'as ce truc qui m'fait penser à moi",
-        "ligne2": "Faut voir comment tu anticipes, tu fais comme si tu m'connaissais déjà"
     },
     {
         "artiste": "Dadju",
@@ -5671,6 +5725,123 @@
     },
     {
         "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "Tu demandes et tu l'as tout d'suite",
+        "ligne2": "Mes preuves d'amour coûtent un salaire suisse"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'sais pas faire autrement, tu d'mandes du changement",
+        "ligne2": "J'vais changer mais c'est pas tout d'suite"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'ai dit au revoir à tous les paquets depuis que j'suis maqué",
+        "ligne2": "J'ai l'cheval noir à Garer comme le vengeur masqué"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "Tu cherches à t'démarquer face à des meufs claquées",
+        "ligne2": "Tu verras jamais l'or s'inquiéter du plaqué"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "J'essaye d'êtrе un Superman, tu veux Clark Kent",
+        "ligne2": "Tu m'as déjà vu dans l'salе et ça t'inquiète"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Couplet 1 : Dadju",
+        "ligne1": "T'aimes pas mon équipe mais l'équipe, elle te respecte",
+        "ligne2": "Pas comme tes copines qui veulent graille dans ton assiette"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "J'aimerais tout réparer, pouvoir effacer mes erreurs",
+        "ligne2": "J'peux pas régler l'problème si tu m'parles qu'une fois sur deux"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Parle-moi",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-parle-moi-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "J'aimerais tout réparer, pouvoir effacer mes erreurs",
+        "ligne2": "J'peux pas régler l'problème si tu m'parles qu'une fois sur deux"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Picsou",
+        "date": "2022-04-01",
+        "url": "https://genius.com/Dadju-picsou-lyrics",
+        "couplet": "Couplet 1 : Dadju & Gazo",
+        "ligne1": "Single d'ice, disque d'ice, j'suis l'diamantaire congolais",
+        "ligne2": "Appelle-moi \"Wi-Fi\", toutes les wifey de ce pays sont connectées"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Picsou",
+        "date": "2022-04-01",
+        "url": "https://genius.com/Dadju-picsou-lyrics",
+        "couplet": "Couplet 1 : Dadju & Gazo",
+        "ligne1": "On a la ce-for d'Francis Ngannou, on a les bitches jusqu'au Ghana",
+        "ligne2": "J'm'allume au canin, j'suis icé, tout jaune, canarde"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Picsou",
+        "date": "2022-04-01",
+        "url": "https://genius.com/Dadju-picsou-lyrics",
+        "couplet": "Couplet 1 : Dadju & Gazo",
+        "ligne1": "Demande à Hache-P, mes gars du ze-trei, on a les canons",
+        "ligne2": "J'peux laisser guetter, mes fimbis sont trop canons"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Picsou",
+        "date": "2022-04-01",
+        "url": "https://genius.com/Dadju-picsou-lyrics",
+        "couplet": "Couplet 2 : Gazo & Dadju",
+        "ligne1": "J'suis qu'un mec d'en bas , c'est vrai",
+        "ligne2": "On vous voulez pas m'attendre et bah, j'suis en haut, ma chère"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Picsou",
+        "date": "2022-04-01",
+        "url": "https://genius.com/Dadju-picsou-lyrics",
+        "couplet": "Couplet 2 : Gazo & Dadju",
+        "ligne1": "La vie est chère , tous mes gars s'attaquent aux banques",
+        "ligne2": "J'parle pas aux opp's, eux, ils s'attaquent aux ventes"
+    },
+    {
+        "artiste": "Dadju",
         "titre": "Loin",
         "date": "2019-11-18",
         "url": "https://genius.com/Dadju-loin-lyrics",
@@ -5788,48 +5959,30 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Picsou",
-        "date": "2022-04-01",
-        "url": "https://genius.com/Dadju-picsou-lyrics",
-        "couplet": "Couplet 1 : Dadju & Gazo",
-        "ligne1": "Single d'ice, disque d'ice, j'suis l'diamantaire congolais",
-        "ligne2": "Appelle-moi \"Wi-Fi\", toutes les wifey de ce pays sont connectées"
+        "titre": "Balisé",
+        "date": "2014-09-15",
+        "url": "https://genius.com/Dadju-balise-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Provoque la folie, chouffe ma gouache",
+        "ligne2": "C'est pour les Niggaz' qui valident la frappe"
     },
     {
         "artiste": "Dadju",
-        "titre": "Picsou",
-        "date": "2022-04-01",
-        "url": "https://genius.com/Dadju-picsou-lyrics",
-        "couplet": "Couplet 1 : Dadju & Gazo",
-        "ligne1": "On a la ce-for d'Francis Ngannou, on a les bitches jusqu'au Ghana",
-        "ligne2": "J'm'allume au canin, j'suis icé, tout jaune, canarde"
+        "titre": "Balisé",
+        "date": "2014-09-15",
+        "url": "https://genius.com/Dadju-balise-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Témoin du futur, je te laisse la place",
+        "ligne2": "Gardez votre foutu trône, donne-nous le bif' qu'on se casse"
     },
     {
         "artiste": "Dadju",
-        "titre": "Picsou",
-        "date": "2022-04-01",
-        "url": "https://genius.com/Dadju-picsou-lyrics",
-        "couplet": "Couplet 1 : Dadju & Gazo",
-        "ligne1": "Demande à Hache-P, mes gars du ze-trei, on a les canons",
-        "ligne2": "J'peux laisser guetter, mes fimbis sont trop canons"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Picsou",
-        "date": "2022-04-01",
-        "url": "https://genius.com/Dadju-picsou-lyrics",
-        "couplet": "Couplet 2 : Gazo & Dadju",
-        "ligne1": "J'suis qu'un mec d'en bas , c'est vrai",
-        "ligne2": "On vous voulez pas m'attendre et bah, j'suis en haut, ma chère"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Picsou",
-        "date": "2022-04-01",
-        "url": "https://genius.com/Dadju-picsou-lyrics",
-        "couplet": "Couplet 2 : Gazo & Dadju",
-        "ligne1": "La vie est chère , tous mes gars s'attaquent aux banques",
-        "ligne2": "J'parle pas aux opp's, eux, ils s'attaquent aux ventes"
+        "titre": "Balisé",
+        "date": "2014-09-15",
+        "url": "https://genius.com/Dadju-balise-lyrics",
+        "couplet": "Refrain : Dadju",
+        "ligne1": "Laisse les Baliser, nous prends plus pour des outsiders",
+        "ligne2": "Ça kick comme dans un foutu cypher"
     },
     {
         "artiste": "Dadju",
@@ -5968,6 +6121,42 @@
     },
     {
         "artiste": "Dadju",
+        "titre": "Saigne",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-saigne-lyrics",
+        "couplet": "Pré-refrain: Dadju",
+        "ligne1": "J'crois qu'on s'aime quand même",
+        "ligne2": "Au final, c'est pour ça qu'on reste"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Saigne",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-saigne-lyrics",
+        "couplet": "Pré-refrain: Dadju",
+        "ligne1": "On s'aime, on s'fait la rre-gue salement",
+        "ligne2": "T'es mon poison, t'es mon médicament"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Saigne",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-saigne-lyrics",
+        "couplet": "Pré-refrain: Dadju",
+        "ligne1": "J'crois qu'on s'aime quand même",
+        "ligne2": "Au final, c'est pour ça qu'on reste"
+    },
+    {
+        "artiste": "Dadju",
+        "titre": "Saigne",
+        "date": "2022-11-11",
+        "url": "https://genius.com/Dadju-saigne-lyrics",
+        "couplet": "Pré-refrain: Dadju",
+        "ligne1": "On s'aime, on s'fait la rre-gue salement",
+        "ligne2": "T'es mon poison, t'es mon médicament"
+    },
+    {
+        "artiste": "Dadju",
         "titre": "Ça va brûler",
         "date": "2017-02-19",
         "url": "https://genius.com/Dadju-ca-va-bruler-lyrics",
@@ -6010,42 +6199,6 @@
         "couplet": "Couplet 2",
         "ligne1": "C'est comment ta voix ? T'es pas solide",
         "ligne2": "Il sait comment t'enclencher, te pencher dans son lit"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Saigne",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-saigne-lyrics",
-        "couplet": "Pré-refrain: Dadju",
-        "ligne1": "J'crois qu'on s'aime quand même",
-        "ligne2": "Au final, c'est pour ça qu'on reste"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Saigne",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-saigne-lyrics",
-        "couplet": "Pré-refrain: Dadju",
-        "ligne1": "On s'aime, on s'fait la rre-gue salement",
-        "ligne2": "T'es mon poison, t'es mon médicament"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Saigne",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-saigne-lyrics",
-        "couplet": "Pré-refrain: Dadju",
-        "ligne1": "J'crois qu'on s'aime quand même",
-        "ligne2": "Au final, c'est pour ça qu'on reste"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Saigne",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-saigne-lyrics",
-        "couplet": "Pré-refrain: Dadju",
-        "ligne1": "On s'aime, on s'fait la rre-gue salement",
-        "ligne2": "T'es mon poison, t'es mon médicament"
     },
     {
         "artiste": "Dadju",
@@ -6517,78 +6670,6 @@
     },
     {
         "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "Tu demandes et tu l'as tout d'suite",
-        "ligne2": "Mes preuves d'amour coûtent un salaire suisse"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "J'sais pas faire autrement, tu d'mandes du changement",
-        "ligne2": "J'vais changer mais c'est pas tout d'suite"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "J'ai dit au revoir à tous les paquets depuis que j'suis maqué",
-        "ligne2": "J'ai l'cheval noir à Garer comme le vengeur masqué"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "Tu cherches à t'démarquer face à des meufs claquées",
-        "ligne2": "Tu verras jamais l'or s'inquiéter du plaqué"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "J'essaye d'êtrе un Superman, tu veux Clark Kent",
-        "ligne2": "Tu m'as déjà vu dans l'salе et ça t'inquiète"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Couplet 1 : Dadju",
-        "ligne1": "T'aimes pas mon équipe mais l'équipe, elle te respecte",
-        "ligne2": "Pas comme tes copines qui veulent graille dans ton assiette"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "J'aimerais tout réparer, pouvoir effacer mes erreurs",
-        "ligne2": "J'peux pas régler l'problème si tu m'parles qu'une fois sur deux"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Parle-moi",
-        "date": "2022-11-11",
-        "url": "https://genius.com/Dadju-parle-moi-lyrics",
-        "couplet": "Refrain : Dadju",
-        "ligne1": "J'aimerais tout réparer, pouvoir effacer mes erreurs",
-        "ligne2": "J'peux pas régler l'problème si tu m'parles qu'une fois sur deux"
-    },
-    {
-        "artiste": "Dadju",
         "titre": "Anonyme",
         "date": "2022-05-13",
         "url": "https://genius.com/Dadju-anonyme-lyrics",
@@ -6631,113 +6712,5 @@
         "couplet": "Outro",
         "ligne1": "Même s'il n'est pas à vendre , m'expliquer doucement",
         "ligne2": "C'qui m'fait m'sentir comme avant"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Rêve en grand quand t'as pas un centime",
-        "ligne2": "Rêve encore quand tout est réalisé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'viens d'là où celui qui mange est riche",
-        "ligne2": "J'viens d'là où personne ne joue sans tricher"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Aujourd'hui ma tête est sur l'affiche",
-        "ligne2": "M'écouter c'est devenu presque obligé, obligé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Rêve en grand quand t'as pas un centime",
-        "ligne2": "Rêve encore quand tout est réalisé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'viens d'là où celui qui mange est riche",
-        "ligne2": "J'viens d'là où personne ne joue sans tricher"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Aujourd'hui ma tête est sur l'affiche",
-        "ligne2": "M'écouter c'est devenu presque obligé, obligé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Rêve en grand quand t'as pas un centime",
-        "ligne2": "Rêve encore quand tout est réalisé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "J'viens d'là où celui qui mange est riche",
-        "ligne2": "J'viens d'là où personne ne joue sans tricher"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Refrain",
-        "ligne1": "Aujourd'hui ma tête est sur l'affiche",
-        "ligne2": "M'écouter c'est devenu presque obligé, obligé"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Les sous, les sous, toujours les sous",
-        "ligne2": "Parce qu'on a peur d'c'qu'il y a en dessous"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Les sous, les sous, encore les sous",
-        "ligne2": "Ça finira par nous rendre fous"
-    },
-    {
-        "artiste": "Dadju",
-        "titre": "Cursus",
-        "date": "2022-05-13",
-        "url": "https://genius.com/Dadju-cursus-lyrics",
-        "couplet": "Outro",
-        "ligne1": "Les sous, les sous, moi, j'ai déjà tout gagné",
-        "ligne2": "J'ai l'même discours, j'suis pas guéri"
     }
 ]

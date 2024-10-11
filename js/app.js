@@ -134,8 +134,17 @@ async function updateCardWithArtistsInfo() {
         else { cardImgWide.src = "img/blank-wide.png"; }
     }
 
-    if (artists_names.length == 3) { cardArtists4.classList.add("card-hidden"); }
-    else { cardArtists4.classList.remove("card-hidden"); }
+    if (artists_names.length == 3) { 
+        cardArtists4.classList.add("card-hidden"); 
+    }
+    else if (artists_names.length == 2) { 
+        cardArtists4.classList.add("card-hidden"); 
+        cardArtists3.classList.add("card-hidden");
+    }
+    else { 
+        cardArtists4.classList.remove("card-hidden"); 
+        cardArtists3.classList.remove("card-hidden");
+    }
 }
 
 
@@ -212,7 +221,6 @@ async function play() {
         }
         const randomLyricsNumber = Math.floor(Math.random() * lyrics[randomArtistNumber].length);
         const randomPhrase = lyrics[randomArtistNumber].splice(randomLyricsNumber, 1)[0]; // on retire l'élément du tableau
-        // console.log(randomPhrase);
 
         // affichage de la phrase
         textPhrase1.textContent = randomPhrase["ligne1"];
