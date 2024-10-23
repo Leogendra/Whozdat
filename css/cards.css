@@ -11,6 +11,7 @@
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
+    z-index: 100;
 }
 
 .card {
